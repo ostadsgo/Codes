@@ -16,11 +16,14 @@ body {
 .container {
   width: 80%;
   margin: auto;
-  overflow: hidden;;
+  overflow: hidden;
 }
 
-.submit_btn {
+.submit-btn {
   background-color: #e6a346;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
 }
 ul {
   margin: 0;
@@ -105,4 +108,42 @@ header a:hover {
 #newsletter form {
   float: right;
   margin-top: 5px;
+}
+
+#newsletter input[type="email"] {
+  border: none;
+  padding: 5px 10px;
+  
+}
+
+
+/* Boxes */
+#boxes {
+  margin-top: 10px;
+  width: 100%;
+  margin: auto;
+}
+
+#boxes .box {
+  float: left;
+  width: 30%;
+  margin: 10px;
+  text-align: center;
+}
+
+#boxes .box img {
+  width: 50%;
+}
+
+/* Footer */
+footer {
+  padding: 20px;
+  margin-top: 20px;
+  background-color: #143535;
+  
+}
+
+footer p {
+  text-align: center;
+  color: white;
 }
