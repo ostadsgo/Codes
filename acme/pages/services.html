@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Amcme | welcome</title>
-  <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="../css/style.css">
 </head>
 
 <body>
@@ -20,47 +20,46 @@
         <ul>
           <li><a href="../index.html">Home</a></li>
           <li><a href="./about.html">About</a></li>
-          <li><a class="current" href="#">Service</a></li>
+          <li><a class="current" href="./services.html">Service</a></li>
         </ul>
       </nav>
     </div>
   </header>
-  <!-- Showcase -->
-  <section id="showcase">
+  <!-- Main -->
+  <section id="main">
     <div class="container">
-      <h1>Affordable web design slotions</h1>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident molestias, velit autem dolore fugit quia.
-      </p>
-    </div>
-  </section>
-  <!-- newsletter -->
-  <section id="newsletter">
-    <div class="container">
-      <h1>Subscribe to our newsletter</h1>
-      <form action="/newsletter" method="post">
-        <input type="email" name="email_name" id="email_id" placeholder="Enter email ...">
-        <button class="submit_btn" type="submit">Subscribe</button>
-      </form>
-    </div>
-  </section>
-  <!-- boxes / services -->
-  <section id="boxes">
-    <div class="container">
-      <div class="box">
-        <img src="./img/html.png" alt="HTML Logo">
-        <h3>HTML5 Markup</h3>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odio, quidem?</p>
-      </div>
-      <div class="box">
-        <img src="./img/css.png" alt="HTML Logo">
-        <h3>CSS Styling</h3>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odio, quidem?</p>
-      </div>
-      <div class="box">
-        <img src="./img/js.png" alt="HTML Logo">
-        <h3>JavaScript Programming</h3>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odio, quidem?</p>
-      </div>
+      <article id="main-col">
+        <ul id="services">
+          <li>
+            <h3>Web Design</h3>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perspiciatis, eaque.</p>
+            <p>Pricing $100 ... $990</p>
+          </li>
+          <li>
+            <h3>Web mantaince</h3>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem, distinctio!</p>
+            <p>Pricing: $1,000 to $35,000</p>
+          </li>
+          <li>
+            <h3>Web Hosting</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, vitae!</p>
+            <p>Pricing $100 to $1,000</p>
+          </li>
+        </ul>
+      </article>
+      <aside id="sidebar">
+        <div class="dark">
+          <form action="/contact" method="post">
+            <label for="name">Name</label>
+            <input type="text" name="name" id="name_id" placeholder="Enter you name">
+            <label for="email">Email</label>
+            <input type="email" name="email" id="email_id" placeholder="Enter you email">
+            <label for="message">Message</label>
+            <textarea name="message" id="message_id" placeholder="message"></textarea>
+            <button class="submit-btn" type="submit">Submit</button>
+          </form>
+        </div>
+      </aside>
     </div>
   </section>
   <footer>

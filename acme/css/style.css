@@ -167,3 +167,14 @@ aside#sidebar{
 }
 
 /* Services page */
+ul#services li {
+  padding: 20px;
+  border: #ccc solid 1px;
+  margin-top: 5px;
+  background-color: #e6e6e6;
+}
+
+aside#sidebar input, aside#sidebar textarea {
+  width: 90%;
+  padding: 5px;
+}
