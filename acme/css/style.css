@@ -1,5 +1,10 @@
+html {
+  padding: 0;
+  margin: 0;
+}
+
 body {
-  font-family: iosevka;
+  font-family: "Josefin Sans" ;
   font-size: 15px;
   line-height: 1.5;
   margin: 0;
@@ -7,8 +12,55 @@ body {
   background-color: #f4f4f4;
 }
 
+/* Gobal styles */
 .container {
   width: 80%;
   margin: auto;
   overflow: hidden;;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* Header */
+header {
+  background-color: #2a5252;
+  color: white;
+  border-bottom: 5px solid #e6a346;
+  padding: 15px 0;
+}
+
+header a {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 15px;  
+}
+
+header li {
+  display: inline;
+  padding: 0 20px;
+}
+
+header #branding {
+  float: left;
+}
+
+header #branding h1 {
+  margin: 0;
+}
+header nav {
+  float: right;
+  margin-top: 13px;
+}
+
+header .highlight, header .current {
+  color: #e6a346;
+  font-weight: bold;
+}
+
+header a:hover {
+  color: #e6a346;
 }
