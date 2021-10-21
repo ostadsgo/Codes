@@ -19,6 +19,9 @@ body {
   overflow: hidden;;
 }
 
+.submit_btn {
+  background-color: #e6a346;
+}
 ul {
   margin: 0;
   padding: 0;
@@ -26,9 +29,9 @@ ul {
 
 /* Header */
 header {
-  background-color: #2a5252;
+  background-color: #143535;
   color: white;
-  border-bottom: 5px solid #e6a346;
+  border-bottom: 3px solid #e6a346;
   padding: 15px 0;
 }
 
@@ -63,4 +66,43 @@ header .highlight, header .current {
 
 header a:hover {
   color: #e6a346;
+}
+
+/* Showcase */
+#showcase {
+  background-color: tomato;
+  background: url("../img/showcase.jpg") no-repeat;
+  background-size: cover;
+  min-height: 250px;
+
+
+}
+#showcase h1 {
+  font-size: 2rem;
+  color: black;
+  margin-top: 50px;
+  margin-bottom: 0;
+}
+
+#showcase p {
+  margin-top: 0;
+  width: 55%;
+  color: #131516;
+}
+
+
+/* newsletter */
+#newsletter {
+  background-color: #143535;
+  padding: 20px;
+}
+#newsletter h1 {
+  margin: 0;
+  float: left;
+  color: white;
+}
+
+#newsletter form {
+  float: right;
+  margin-top: 5px;
 }
