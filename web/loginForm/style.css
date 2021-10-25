@@ -1,0 +1,89 @@
+* {
+  box-sizing: border-box;
+  border: none;
+  padding: none;
+}
+
+:root {
+  --main-bg: #eee;
+  --second-bg: #fff;
+  --bd: #aaa;
+}
+html {
+  text-align: right;
+  direction: rtl;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--main-bg);
+}
+
+/* LOGIN */
+.login {
+  background-color: var(--second-bg);
+  width: 25%;
+  margin: auto;
+  margin-top: 10%;
+  padding: 20px 0 40px 0;
+  border-radius: 10px;
+  border: 1px solid var(--bd);
+}
+
+.login h1 {
+  text-align: center;
+  margin: 5px 0;
+}
+
+.login hr {
+  background-color: var(--bd);
+  height: 1px;
+  margin: 20px 0 50px 0;
+
+}
+
+.login input {
+  background-color: var(--second-bg);
+  display: block;
+  width: 75%;
+  margin: auto;
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid var(--bd);
+}
+
+.login input[type="submit"] {
+  background-color: #1565c0;
+  color: white;
+  font-weight: bold;
+  margin-top: 30px;
+  border: none;
+}
+
+.login input[type="submit"]:hover {
+  background-color: #003c8f;
+}
+
+footer p {
+  text-align: center;
+  margin-top: 10%;
+}
+
+/* Media Quries */
+@media (max-width:1024px) { 
+  .login {
+    width: 40%;
+  }
+}
+
+@media (max-width:768px) { 
+  .login {
+    width: 55%;
+  }
+}
+
+@media (max-width:468px) { 
+  .login {
+    width: 70%;
+  }
+}
