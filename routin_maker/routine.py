@@ -1,6 +1,9 @@
 import datetime
 
-
+# Bring emojies
+# put zero before single digit hour
+# Fix pass mindnight; not a day.
+# Add habits part.
 
 
 class Routine:
@@ -25,23 +28,12 @@ routines = [("Exercise", 15),("Shower", 15),
             ("Yoga", 15)
     ]
 
-for routine in routines:
-    print(routine)
-
 
 wakeup_str = input("Enter wake up time: ")
-h, m = wakeup_str.split(':')
-wakeup_timedelta = datetime.timedelta(hours=int(h), minutes=int(m))
+time_format = "%H:%M"
+next_routine = datetime.datetime.strptime(wakeup_str, time_format)
 
-#print(wakeup_timedelta)
-timedelta = datetime.timedelta()
-
-print(wakeup_str, "Wake up")
 for title, duration in routines:
-    print(wakeup_timedelta, title)
-    td = datetime.timedelta(minutes=duration)
-    wakeup_timedelta += td
-
-
-
-
+    output = "{:%H:%M} {}".format(next_routine, title) 
+    print(output)
+    next_routine = next_routine + datetime.timedelta(minutes=duration)
