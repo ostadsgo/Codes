@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card {
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #c7c1c1;
+    border-radius: 5px;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+}
+.card h1 {
+    font-size: 1.2rem;
+}
+
+.card p {
+    font-size: 14px;
+}
+
+.card progress {
+    background-color: #e5eaf0;
+    border: 1px solid rgb(175, 165, 165);
+    margin-right: 0;
+}
+
+.card progress::-moz-progress-bar {
+    background-color: rgb(80, 180, 219);
+}
+
+#percentage {
+    /* margin-left: 10px; */
+    position: relative;
+    right: 90px;
+    font-size: 12px;
+    
+}
+#readof {
+    margin-left: -20px;
+    font-size: 12px;
+}
+
+
