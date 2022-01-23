@@ -1,0 +1,57 @@
+@font-face {
+  font-family: samim;
+  src: url("fonts/Samim.ttf");
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  direction: rtl;
+  text-align: right;
+  font-family: samim;
+}
+
+header {
+  padding-top: .5rem;
+}
+
+nav {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+nav a {
+  display: inline-block;
+  width: 100px;
+  text-align: center;
+  background: #457b9d;
+  text-decoration: none;
+  padding: 5px 0;
+  color: #f1faee;
+}
+
+nav a:hover {
+  background: #1d3557;
+  transition: .5s;
+}
+
+p.test {
+  font-family: samim;
+}
+
+.welcome {
+  /* background-color: blue; */
+  height: 200px;
+  text-align: center;
+}
+
+
+.welcome > h1 {
+  margin-top: 3rem;
+}

@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "user": "John",
+            "email": "john@mail.com",
+            "phone": "1231231",
+            "meds": [
+                {
+                    "medname": "estanminfo",
+                    "timeslot1": "2000",
+                    "timeslot2": "1900"
+                },
+                {
+                    "medname": "x",
+                    "timeslot1": "2000",
+                    "timeslot2": "1900"
+                }
+            ]
+        },
+        {
+            "user": "Jim",
+            "email": "jim@mail.com",
+            "phone": "1231231",
+            "meds": [
+                {
+                    "medname": "sdfsd",
+                    "timeslot1": "1100",
+                    "timeslot2": "1900"
+                },
+                {
+                    "medname": "xsdfs",
+                    "timeslot1": "1800",
+                    "timeslot2": "1900"
+                }
+            ]
+        }
+    ]
+}
