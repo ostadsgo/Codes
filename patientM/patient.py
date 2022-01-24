@@ -1,19 +1,17 @@
 """
     Register a patient and add medicine in one form!
 """
-from datetime import datetime
-import email
+
 import tkinter as tk
+
+from datetime import datetime
 from tkinter import ttk
 
+# 3rd
 import tkcalendar as tkcal
 
-from database import create, Patient
-
-
-# class Test:
-#     name: str
-#     age: int
+# self
+from core import Patient
 
 
 class PatientForm(ttk.Frame):
@@ -64,7 +62,7 @@ class PatientForm(ttk.Frame):
         self.disease.pack()
 
         # row 7 - submit button
-        ttk.Button(self, text="Submit", command=self.register).pack()
+        ttk.Button(self, text="Submit", command=self.on_submit).pack()
 
         # config all widgets
         for child in self.winfo_children():
@@ -74,7 +72,7 @@ class PatientForm(ttk.Frame):
 
     # Get patient data from registration form.
     def get_patient(self):
-        patient = dict(
+        patient = Patient(
             name=self.name.get(),
             gender=self.gender.get(),
             phone=self.phone.get(),
@@ -85,6 +83,6 @@ class PatientForm(ttk.Frame):
         )
         return patient
 
-    def register(self):
+    def on_submit(self):
         patient = self.get_patient()
-        patient_id = create(Patient, patient)
+        patient.register()

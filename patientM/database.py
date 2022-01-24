@@ -47,16 +47,6 @@ db.bind(provider="sqlite", filename=FILENAME, create_db=True)
 db.generate_mapping(create_tables=True)
 
 
-def make_db(filename="patient.db"):
-    # create database file
-    db.bind(provider="sqlite", filename=filename, create_db=True)
-    # Trun on debug mode; should be before generate_mapping
-    # pony.set_sql_debug(True)
-    # create tables in the database
-    db.generate_mapping(create_tables=True)
-
-
 if __name__ == "__main__":
-    # make_db()
     idx = create("x, ", "y")
     print(idx)
