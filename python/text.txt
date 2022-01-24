@@ -1,6 +1,0 @@
-Name           Gender  phone number  Date of Birth.  Address  E-mail Address Disease Name, med, s1, s2, s3
-
-Jack ward      Male    2341234532 1970/01/11  Young St Jack.ward@gmail.com Covid
-Mary Harrison  Female 6784329871  1985/04/05  King St North. Mary.harisson@Gmail.com  Flue			
-
-
