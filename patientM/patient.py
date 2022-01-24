@@ -11,7 +11,7 @@ from tkinter import ttk
 import tkcalendar as tkcal
 
 # self
-from core import Patient
+import core
 
 
 class PatientForm(ttk.Frame):
@@ -43,6 +43,7 @@ class PatientForm(ttk.Frame):
             background="darkblue",
             foreground="white",
             borderwidth=2,
+            date_pattern="yyyy/mm/dd",
         )
         self.date_of_birth.pack()
 
@@ -70,13 +71,19 @@ class PatientForm(ttk.Frame):
             if child.widgetName == "ttk::label":
                 child.pack_configure(pady=(10, 0))
 
+    # Clear form entry fields
+    def clear_fields(self):
+        for child in self.winfo_children():
+            if child.widgetName == "ttk::entry":
+                child.delete(0, tk.END)
+
     # Get patient data from registration form.
     def get_patient(self):
-        patient = Patient(
+        patient = core.Patient(
             name=self.name.get(),
             gender=self.gender.get(),
             phone=self.phone.get(),
-            date_of_birth=datetime.now().date(),
+            date_of_birth=core.Patient.convert_to_date(self.date_of_birth.get()),
             address=self.address.get(),
             email=self.email.get(),
             disease=self.disease.get(),
@@ -86,3 +93,5 @@ class PatientForm(ttk.Frame):
     def on_submit(self):
         patient = self.get_patient()
         patient.register()
+        self.clear_fields()
+        print("The patient registerd")
