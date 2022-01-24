@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import ttk
 
-from patient import Patient
+from patient import PatientForm
 
 
 class Medicine(ttk.Frame):
@@ -12,7 +12,7 @@ class App(tk.Tk):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.title("Patient Management System")
-        patient_frame = Patient(self, padding=10)
+        patient_frame = PatientForm(self, padding=10)
         patient_frame.pack(expand=True, fill=tk.BOTH)
 
 

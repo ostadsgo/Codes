@@ -5,6 +5,7 @@ import datetime
 import pony.orm as pony
 
 
+FILENAME = "patient.db"
 db = pony.Database()
 
 
@@ -14,7 +15,7 @@ class Patient(db.Entity):
     phone = pony.Required(str)
     date_of_birth = pony.Required(datetime.date)
     address = pony.Required(str)
-    email = pony.Required(str)
+    email = pony.Required(str, unique=True)
     disease = pony.Required(str)
     prescriptions = pony.Set("Prescription")
 
@@ -37,39 +38,25 @@ class Timeslot(db.Entity):
 
 
 @pony.db_session
-def add_patient(**patient):
-    Patient(**patient)
+def create(entity, record):
+    o = entity(**record)
+    return o.id
+
+
+db.bind(provider="sqlite", filename=FILENAME, create_db=True)
+db.generate_mapping(create_tables=True)
 
 
 def make_db(filename="patient.db"):
     # create database file
     db.bind(provider="sqlite", filename=filename, create_db=True)
     # Trun on debug mode; should be before generate_mapping
-    pony.set_sql_debug(True)
+    # pony.set_sql_debug(True)
     # create tables in the database
     db.generate_mapping(create_tables=True)
 
 
 if __name__ == "__main__":
-    make_db()
-
-    # # Some test
-    # add_patient(
-    #     name="John Doe",
-    #     gender="Male",
-    #     phone="+1 (515) 765 1190",
-    #     date_of_birth=datetime.date(1982, 11, 27),
-    #     address="US, LA, John Hopkins St. N.49",
-    #     email="johndoe@mail.com",
-    #     disease="Covid 19",
-    # )
-
-    # add_patient(
-    #     name="Kate Doe",
-    #     gender="Female",
-    #     phone="+1 (515) 918 7119",
-    #     date_of_birth=datetime.date(1984, 7, 11),
-    #     address="US, LA, John Hopkins St. N.49",
-    #     email="katedoe@mail.com",
-    #     disease="Covid 19",
-    # )
+    # make_db()
+    idx = create("x, ", "y")
+    print(idx)

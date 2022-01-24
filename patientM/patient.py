@@ -1,18 +1,22 @@
 """
     Register a patient and add medicine in one form!
 """
-
+from datetime import datetime
+import email
 import tkinter as tk
 from tkinter import ttk
 
 import tkcalendar as tkcal
 
-from database import Database, Table, TableName
+from database import create, Patient
 
 
-class Patient(ttk.Frame):
-    db = Database("patient.db")
+# class Test:
+#     name: str
+#     age: int
 
+
+class PatientForm(ttk.Frame):
     def __init__(self, master, *args, **kwargs):
         super().__init__(master, *args, **kwargs)
         self.ui()
@@ -70,23 +74,17 @@ class Patient(ttk.Frame):
 
     # Get patient data from registration form.
     def get_patient(self):
-        record = (
-            self.name.get(),
-            self.gender.get(),
-            self.phone.get(),
-            self.date_of_birth.get(),
-            self.address.get(),
-            self.email.get(),
-            self.disease.get(),
+        patient = dict(
+            name=self.name.get(),
+            gender=self.gender.get(),
+            phone=self.phone.get(),
+            date_of_birth=datetime.now().date(),
+            address=self.address.get(),
+            email=self.email.get(),
+            disease=self.disease.get(),
         )
-        return record
+        return patient
 
     def register(self):
-        record = self.get_patient()
-        # save record (a patient ) to the db
-        if not self.db.is_table_exists(TableName.patient):
-            self.db.create_table(Table.patient)
-
-        # After make sure that the patient table exists
-        if self.db.create_record(Table.insert_patient, record):
-            print(f"Patient {self.name.get()} created!")
+        patient = self.get_patient()
+        patient_id = create(Patient, patient)
