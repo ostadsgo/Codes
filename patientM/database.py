@@ -1,84 +1,52 @@
-# create a method to check if a table exists or not;
+# built-in imports
+import datetime
 
-import sqlite3 as sqlite
-
-
-class TableName:
-    patient = "patient"
-    medicine = "medicieeruuund''/e"
+# pony - 3rd party
+import pony.orm as pony
 
 
-class Table:
-    patient = """ CREATE TABLE IF NOT EXISTS "patient" (
-                        "id" INTEGER NOT NULL PRIMARY KEY UNIQUE,
-                        "name"	TEXT,
-                        "gender" TEXT,
-                        "phone"	TEXT,
-                        "date_of_birth"	TEXT,
-                        "address"	TEXT,
-                        "email"	TEXT,
-                        "disease"	TEXT
-                    );
-                """
-    table_exists = """
-        SELECT name 
-        FROM sqlite_master 
-        WHERE type='table' 
-        AND name = ?;
-    """
-
-    insert_patient = sql = """ INSERT INTO patient (
-                name,
-                gender,
-                phone,
-                date_of_birth,
-                address,
-                email,
-                disease
-            ) 
-    VALUES(?, ?, ?, ?, ?, ?, ?);
-    """
+FILENAME = "patient.db"
+db = pony.Database()
 
 
-class Database:
-    def __init__(self, db_name):
-        self.db_name = db_name
+class Patient(db.Entity):
+    name = pony.Required(str)
+    gender = pony.Required(str)
+    phone = pony.Required(str)
+    date_of_birth = pony.Required(datetime.date)
+    address = pony.Required(str)
+    email = pony.Required(str, unique=True)
+    disease = pony.Required(str)
+    prescriptions = pony.Set("Prescription")
 
-    def connect(self):
-        try:
-            conn = sqlite.connect(self.db_name)
-            return conn
-        except sqlite.Error as e:
-            print(e)
 
-    def create_table(self, sql):
-        conn = self.connect()
-        with conn:
-            cursor = conn.cursor()
-            cursor.execute(sql)
+class Prescription(db.Entity):
+    date = pony.Required(datetime.date)
+    person = pony.Required(Patient)
+    medicines = pony.Set("Medicine")
 
-    def is_table_exists(self, tbl_name):
-        conn = self.connect()
-        tbl = Table()
-        with conn:
-            cursor = conn.cursor()
-            cursor.execute(tbl.table_exists, (tbl_name,))
-            return cursor.fetchone()
 
-    def create_record(self, sql, record):
-        conn = self.connect()
-        with conn:
-            cursor = conn.cursor()
-            cursor.execute(sql, record)
-            return True
-        return False
+class Medicine(db.Entity):
+    name = pony.Required(str)
+    prescription = pony.Required(Prescription)
+    timeslots = pony.Set("Timeslot")
+
+
+class Timeslot(db.Entity):
+    time = pony.Required(datetime.time)
+    medicine = pony.Required(Medicine)
+
+
+@pony.db_session
+def create(entity, record):
+    o = entity(**record)
+    return o.id
+
+
+db.bind(provider="sqlite", filename=FILENAME, create_db=True)
+db.generate_mapping(create_tables=True)
 
 
 if __name__ == "__main__":
-    # create patient table
-    table = Table()
-    patient_table_sql = table.patient
-    db = Database("patient.db")
-    db.create_table(patient_table_sql)
-    res = db.is_table_exists("patient")
-    print(res)
+    idx = create("x, ", "y")
+    print(idx)
