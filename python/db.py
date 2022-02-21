@@ -50,4 +50,4 @@ def create_student():
     print(f"student {name} {age} {grade} inserted.")
     conn.close()
 
-create_student_table()
+create_student()
