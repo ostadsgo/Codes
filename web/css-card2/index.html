@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Document</title>
+</head>
+
+<body>
+  <div class="card">
+    <img src="images/pybyex.jpg" alt="book image">
+    <div class="content">
+      <h1>Python By Example</h1>
+      <p>Lorem ipsum dolor coicing elit. Itaque fugia velit quas rerum, laboriosam nulla
+        blanditiis.</p>
+      <div class="progressbar">
+        <progress id="progressbar" max="191" value="160"></progress>
+        <span id="percentage"></span><span id="readof"></span>
+        <div class="tags">
+          <span>#Python</span>
+          <span>#Fundamentals</span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script>
+    const progress = document.getElementById("progressbar");
+    const prog_max = progress.max;
+    const prog_val = progress.value;
+    const readOf = document.getElementById("readof");
+    const percentage = document.getElementById("percentage");
+    readOf.innerHTML = `${prog_val}/${prog_max}`;
+    const percentage_val = Math.round((prog_val / prog_max) * 100);
+    percentage.innerHTML = `${percentage_val}%`
+
+  </script>
+</body>
+
+</html>

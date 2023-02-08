@@ -1,0 +1,3 @@
+Math for Dummies,Keven
+Fluent Python,Jim
+Python By Example,Ehsan

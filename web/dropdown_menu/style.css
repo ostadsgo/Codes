@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.dropdown-menu {
+    margin-top: 100px;
+    margin-left: 100px;
+    position: relative;
+    /* width: 300px; */
+    /* height: 300px; */
+    border: 1px solid blue;
+    display: inline-block;
+}
+
+a {
+    background-color: rgb(192, 101, 235);
+    color: white;
+    font-size: 1.2rem;
+    text-decoration: none;
+    padding: .5em 1.5em;
+}
+
+ul {
+    list-style-type: none;
+    position: absolute;
+    top: 30px;
+    background:rgb(208, 190, 218);
+    width: 150px;
+    display: none;
+    z-index: 1;
+}
+
+li {
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+
+}
+
+ul li:hover {
+    background-color: rgb(236, 232, 238);
+    cursor: pointer;
+}
+
+.dropdown-menu:hover  ul{
+    display: block;
+    background-color: tomato;
+    transition: .5s;
+}

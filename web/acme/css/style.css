@@ -1,0 +1,228 @@
+html {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Josefin Sans" ;
+  font-size: 15px;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+/* Gobal styles */
+.container {
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+.submit-btn {
+  background-color: #e6a346;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+.submit-btn:hover {
+  background-color: #cc8e37;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* Header */
+header {
+  background-color: #143535;
+  color: white;
+  border-bottom: 3px solid #e6a346;
+  padding: 15px 0;
+}
+
+header a {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 15px;  
+}
+
+header li {
+  display: inline;
+  padding: 0 20px;
+}
+
+header #branding {
+  float: left;
+}
+
+header #branding h1 {
+  margin: 0;
+}
+header nav {
+  float: right;
+  margin-top: 13px;
+}
+
+header .highlight, header .current {
+  color: #e6a346;
+  font-weight: bold;
+}
+
+header a:hover {
+  color: #e6a346;
+}
+
+/* Showcase */
+#showcase {
+  background: url("../img/showcase.jpg") no-repeat;
+  background-size: cover;
+  min-height: 400px;
+
+
+}
+#showcase h1 {
+  font-size: 2.5rem;
+  color: #111314;
+  margin-top: 50px;
+  margin-bottom: 0;
+}
+
+#showcase p {
+  margin-top: 0;
+  width: 60%;
+  color: #111314;
+  font-size: 1.1rem;
+}
+
+
+/* newsletter */
+#newsletter {
+  background-color: #143535;
+  padding: 20px;
+}
+#newsletter h1 {
+  margin: 0;
+  float: left;
+  color: white;
+}
+
+#newsletter form {
+  float: right;
+  margin-top: 5px;
+}
+
+#newsletter input[type="email"] {
+  border: none;
+  padding: 5px 10px;
+  
+}
+
+
+/* Boxes */
+#boxes {
+  margin-top: 10px;
+  width: 100%;
+  margin: auto;
+}
+
+#boxes .box {
+  float: left;
+  width: 30%;
+  margin: 10px;
+  text-align: center;
+}
+
+#boxes .box img {
+  width: 50%;
+}
+
+/* Footer */
+footer {
+  padding: 20px;
+  margin-top: 20px;
+  background-color: #143535;
+  
+}
+
+footer p {
+  text-align: center;
+  color: white;
+}
+
+/* About page */
+article#main-col {
+  float: left;
+  width: 65%;
+}
+
+aside#sidebar{
+  float: right;
+  width: 30%;
+}
+
+.dark {
+  background: #171718;
+  color: white;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+/* Services page */
+ul#services li {
+  padding: 20px;
+  border: #ccc solid 1px;
+  margin-top: 5px;
+  background-color: #e6e6e6;
+}
+
+aside#sidebar input, aside#sidebar textarea {
+  width: 90%;
+  padding: 5px;
+}
+
+/* Meida queries */
+@media(max-width: 768px) {
+  header #branding,
+  header nav, 
+  header nav li {
+    float: none;
+    text-align: center;
+    width: 100%;
+  }
+
+  #newsletter h1 {
+    float: none;
+  }
+
+  #newsletter form {
+    float: none;
+  }
+
+  #newsletter input[type="email"] {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+
+  #newsletter .submit-btn {
+    width: 100%;
+    padding: 10px;
+  }
+
+  /* showcase */
+  #boxes .box {
+    float: none;
+    text-align: center;
+    width: 100%
+  }
+
+  /* services */
+  article#main-col, aside#sidebar {
+    float: none;
+    width: 100%;
+  }
+
+
+}

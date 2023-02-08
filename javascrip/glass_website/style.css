@@ -1,0 +1,165 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to right top, #64dfc9, #6cdbeb);
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+.mainbox {
+  display: flex;
+  background-color: #fff;
+  height: 80vh;
+  width: 60%;
+  background:linear-gradient(to right bottom, 
+    rgba(255, 255, 255, .7), 
+    rgba(255, 255, 255, .3));
+  border-radius: 2rem;
+  z-index: 999;
+}
+
+.circle1, .circle2 {
+  background-color: #fff;
+  background:linear-gradient(
+    to right bottom, 
+    rgba(255, 255, 255, .9), 
+    rgba(255, 255, 255, .1));
+  height: 10rem;
+  width: 10rem;
+  position: absolute;
+  border-radius: 50%;
+  z-index: -1;
+}
+
+.circle1 {
+  top: 1%;
+  right: 15%;
+  z-index: -1;
+  filter: blur(5px);
+
+}
+
+.circle2 {
+  top: 75%;
+  left: 15%;
+  z-index: -2;
+  filter: blur(2px);
+}
+
+.leftside {
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  padding-block: 1em;
+}
+
+.leftside .account {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.leftside .account > img {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+}
+
+.leftside .account > h5 {
+  color:rgb(129, 129, 129);
+  font-weight: normal;
+}
+
+.leftside .links {
+  padding-left: 1em;
+
+}
+.leftside .links li {
+  margin-bottom: 1em;
+}
+.leftside .link {
+  display: flex;
+  gap: 1em;
+  align-items: center;
+  color: #838185;
+  font-weight: bold;
+}
+
+.ad {
+  text-align: center;
+}
+
+/* rightside */
+
+.bar {
+  width: 50%;
+  height: 20px;
+  background-color: rgba(90, 189, 90, 0.521);
+  border-radius: 20px;
+  width: 60%;
+  
+}
+.rightside {
+  width: 80%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  align-items: center;
+  justify-content: center;
+}
+
+.rightside img {
+  width: 72px;
+}
+
+.board > h1{
+  font-size: 2rem;
+}
+
+.cards {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+.card {
+  display: flex;
+  gap: 1em;
+  background-color: #fff;
+  padding: 1em;
+  border-radius: 10px;
+
+}
+
+.card .content > h2 {
+  font-size: 1rem;
+  display: inline;
+  margin-right: 2em ;
+  color:rgb(129, 129, 129);
+}
+
+.card .content > h3 {
+  font-size: .7rem;
+  color: gray;
+}
+
+.card  img {
+  border-radius: 30%;
+}
+/* somechange */

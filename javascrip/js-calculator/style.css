@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: 'Koulen', cursive;
+}
+body {
+  background: #525E75;
+}
+
+button {
+  padding: 1em;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.9) 0 1px 0 0 inset;
+  border: none;
+  outline: none;
+  background: #dde0e4;
+  font-family: 'Koulen', cursive;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: .9;
+}
+
+#equal {
+  background: #BB6464;
+}
+
+#reset {
+  background: #587594;
+}
+.main-window {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  gap: 1em;
+}
+
+.calculator-window {
+  background: #2C394B;
+  padding: 2em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 3em;
+}
+
+.input-box input{
+  flex-grow: 1;
+  font-size: 1.7rem;
+  height: 2em;
+  border: none;
+  outline: none;
+  font-family: 'Koulen', cursive;
+  padding-inline: .5em;
+  padding-block: .2em;
+  direction: rtl;
+  background: #FFDAB9;
+  color: #2e2b2b;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  width: 100%;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1em;
+}
+
+.row button {
+  flex-grow: 1;
+}
+
+

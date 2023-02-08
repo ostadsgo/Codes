@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    width: 400px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #c7c1c1;
+    border-radius: 5px;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+}
+.card h1 {
+    font-size: 1.2rem;
+    background-color: #ffecb3;
+    padding: 5px 10px;
+    /* border-radius: 10px; */
+}
+
+.card p {
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.card progress {
+    background-color: #efebe9;
+    border: 1px solid #d7ccc8;
+    margin-right: 0;
+    margin-top: 10px;
+}
+
+.card progress::-moz-progress-bar {
+    background-color:#aed581;
+}
+
+#percentage {
+    position: relative;
+    right: 90px;
+    font-size: 12px;
+    
+}
+#readof {
+    margin-left: -20px;
+    font-size: 12px; 
+    position: relative;
+}
+
+.content {
+}
+.tags {
+    position: relative;
+    bottom: -10px;
+}
+.tags span {
+    background-color: #c5cae9;
+    border-radius: 5px;
+    padding: 0 5px;
+    font-size: 12px;
+}
