@@ -1,0 +1,1723 @@
+(-For dummies) Barry A Burd-Beginning programming with Java for dummies-For Dummies (2014).pdf
+(-For dummies) John Mueller_ Jeffrey M Cogswell - C++ all-in-one for dummies-John Wiley & Sons, For Dummies (2014)_2.pdf
+(2nd Edition) Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom-Database Systems_ The Complete Book-Prentice Hall (2008) backup.pdf
+(5th Edition) (How to Program (Deitel)) Paul Deitel, Harvey Deitel-Visual C_ 2012 How to Program-Prentice Hall (2014).pdf
+(5th Edition) Stephen Prata-C Primer Plus-Sams Publishing (2004).pdf
+(Addison Wesley Data & Analytics Series) Mark E. Fenner - Machine Learning With Python For Everyone-Addison-Wesley Professional_Pearson education (2020).pdf
+(Addison-Wesley Microsoft Technology Series) Troy Magennis-LINQ to Objects Using C_ 4.0_ Using and Extending LINQ to Objects and Parallel LINQ (PLINQ)-Addison-Wesley Professional (2010).pdf
+(Addison-Wesley Professional Computing) Alan A. A. Donovan, Brian W. Kernighan-The Go Programming Language-Addison-Wesley Professional (2015).pdf
+(Addison-Wesley Signature Series Fowler) Jez Humble, David Farley-Continuous Delivery_ Reliable Software Releases through Build, Test, and Deployment Automation -Addison-Wesley Professional (2010).pdf
+(Addison-Wesley Signature Series) Gerard Meszaros-xUnit Test Patterns_ Refactoring Test Code-Addison-Wesley (2007).pdf
+(Android Deep Dive) Adam Stroud-Android Database Best Practices-Addison-Wesley Professional (2016).pdf
+(Applied and Numerical Harmonic Analysis) David Joyner, Jon-Lark Kim (auth.)-Selected Unsolved Problems in Coding Theory-Birkhäuser Basel (2011).pdf
+(Chapman & Hall_CRC Applied Algorithms and Data Structures series) Mikhail J. Atallah, Marina Blanton-Algorithms and Theory of Computation Handbook, Second Edition, Volume 1_ General Concepts and Tech.pdf
+(Chapman & Hall_CRC big data series) Kale, Vivek-Big data computing_ a guide for business and technology managers-Taylor & Francis_Chapman and Hall_CRC (2017).pdf
+(Chapman & Hall_CRC Big Data Series) Kuan-Ching Li, Hai Jiang, Albert Y. Zomaya-Chapman & Hall_CRC Big Data Series _ Big Data Management and Processing (1)-Chapman and Hall_CRC (2017).pdf
+(Chapman & Hall_CRC big data series) Thai, My T._ Wu, Weili_ Xiong, Hui-Big data in complex and social networks-Chapman and Hall_CRC (2017).pdf
+(Chapman & Hall_CRC Computational Science) Kalyan S. Perumalla-Introduction to Reversible Computing-Chapman and Hall_CRC (2013).pdf
+(Chapman & Hall_CRC computer and information science series) Dinesh P. Mehta-Handbook of data structures and applications-Chapman & Hall_CRC (2005).pdf
+(Chapman & Hall_CRC Cryptography and Network Security Series) Jonathan Katz, Yehuda Lindell-Introduction to Modern Cryptography, Second Edition-Chapman and Hall_CRC (2014).pdf
+(Chapman & Hall_CRC Data Mining and Knowledge Series) Jesús Rogel-Salazar - Advanced Data Science and Analytics with Python-CRC Press (2020).pdf
+(Chapman & Hall_CRC mathematical and computational biology series) Sung, Wing-Kin-Algorithms for next-generation sequencing-Chapman and Hall_CRC (2017).pdf
+(Community experience distilled) John Horton-Learning Java by building Android games-Packt Publishing (2015).pdf
+(Complete Reference Series) Thomas Powell-HTML & CSS_ The Complete Reference, Fifth Edition (Complete Reference Series)-McGraw-Hill Osborne Media (2010).pdf
+(Computer communications and networks) Jiayue He, Jennifer Rexford, Mung Chiang (auth.), Graham Cormode, Marina Thottan (eds.)-Algorithms for Next Generation Networks-Springer-Verlag London (2010).pdf
+(Computer Science) B. B. Agarwal, S. P. Tayal, M. Gupta-Software Engineering and Testing_ An Introduction -Jones & Bartlett Publishers (2009).pdf
+(Computer Science, Technology and Applications) Sanjay Kumar, Rohit Raja, Alok Kumar Singh Kushwaha, Saurabh Kumar, Raj Kumar Patra - Green Computing and Its Applications-Nova Science Publishers (2021.pdf
+(Core Series) David Geary-Core HTML5 Canvas_ Graphics, Animation, and Game Development -Prentice Hall (2012).pdf
+(Debating Ethics) David Benatar, David Wasserman - Debating Procreation_ Is It Wrong to Reproduce_-Oxford University Press (2015).pdf
+(Deitel Developer Series) Paul Deitel, Harvey Deitel - C# 6 for Programmers-Prentice Hall (2016).pdf
+(Demystified) James Edward Keogh, Ken Davidson-Data Structures Demystified -McGraw-Hill_Osborne (2004).pdf
+(Developer Reference) Gary McLean Hall-Adaptive Code via C__ Agile coding with design patterns and SOLID principles-Microsoft Press (2014).pdf
+(Developer's Library) David Chisnall-The Go Programming Language Phrasebook-Addison-Wesley Professional (2012).pdf
+(Developer's Library) Phil Dutson-Android Development Patterns_ Best Practices for Professional Developers-Addison-Wesley Professional (2016).pdf
+(Developer’s Library) Stephen G. Kochan, Patrick Wood-Shell Programming in Unix, Linux and OS X-Addison-Wesley Professional (2016).pdf
+(developer’s series) William “Bo” Rothwell-Linux for Developers Jumpstart Your Linux Programming Skills-Addison-Wesley (2017).pdf
+(Discrete Mathematics and Its Applications) Jonathan L. Gross-Combinatorial Methods with Computer Applications-Chapman and Hall_CRC (2007).pdf
+(Discrete mathematics and its applications) Kocay, William_ Kreher, Donald L-Graphs, Algorithms, and Optimization, Second Edition-CRC Press_Chapman and Hall_CRC (2017).pdf
+(Effective Software Development Series) David Herman - Effective JavaScript_ 68 Specific Ways to Harness the Power of JavaScript-Addison-Wesley Professional (2012).pdf
+(Essential Guides) Craig Grannell, Victor Sumner, Dionysios Synodinos-The Essential Guide to HTML5 and CSS3 Web Design-friendsofED (2012).pdf
+(Facts on File science experiments) Pamela Walker, Elaine Wood-Computer science experiments-Facts On File (2010).pdf
+(For Dummies (Computer_Tech)) Alan Anderson, David Semmelroth - Statistics for Big Data For Dummies-Wiley (2015).pdf
+(For Dummies (Math & Science)) Mary Jane Sterling-Algebra II Workbook For Dummies-For Dummies (2014).pdf
+(For Dummies Computer_Tech) Stephen R. Davis-Beginning Programming with C++ For Dummies -For Dummies (2010).pdf
+(For dummies) Allen G. Taylor-SQL All-in-One for Dummies-Wiley (2011).pdf
+(For Dummies) Andy Harris-HTML, XHTML and CSS All-In-One For Dummies, 2nd Edition  -John Wiley & Sons (2010).pdf
+(For Dummies) Barry A. Burd - Beginning Programming with Java-Wiley (2017).pdf
+(For dummies) Dan Gookin - Beginning programming with C for dummies-Wiley (2013).pdf
+(For dummies) Deborah Rumsey - Statistics II For Dummies-Wiley Pub (2009).pdf
+(For dummies) Earl Boysen, Nancy C. Muir - Electronics Projects For Dummies-For Dummies (2006).pdf
+(For dummies) Judith Hurwitz, Robin Bloor, Marcia Kaufman, Fern Halper-Cloud Computing For Dummies-Wiley Pub (2010).pdf
+(For Dummies) Lillian Pierson - Data Science for Dummies, 2nd Edition-Wiley (2017).pdf
+(For Dummies) Mark Ryan - Calculus Workbook for Dummies, 3rd Edition-Wiley (2018).pdf
+(For dummies) Mary Jane Sterling-Algebra II for dummies-Wiley (2006).pdf
+(For Dummies) Tiana Laurence - Blockchain for Dummies-Wiley (2019).pdf
+(For Dummies) Wei-Meng Lee - Go Programming Language For Dummies-John Wiley & Sons (2021).pdf
+(For Dummies_ Computers) John Paul Mueller, Luca Massaron-Python for Data Science For Dummies-Wiley (2015).pdf
+(For Web Designers) Luke Stevens-The Truth About HTML5-CreateSpace Independent Publishing Platform (2012).pdf
+(Foundations of computing) John C. Mitchell-Foundations for programming languages-MIT Press (1996).pdf
+(FREE Bonus, AngularJS 2 Programming By Example) David Maxwell-AngularJS_ Bootcamp - Learn The Basics of Ruby Programming in 2 Weeks! (2016).pdf
+(Global Financial Markets series) Erik Banks (auth.)-Dark Pools_ Off-Exchange Liquidity in an Era of High Frequency, Program, and Algorithmic Trading-Palgrave Macmillan UK (2014).pdf
+(Head First) Lynn Beighley-Head First SQL -O'Reilly Media (2007).pdf
+(Himss Book) Frenzel, John C._ Natarajan, Prashant_ Smaltz, Detlev Herb-Demystifying big data and machine learning for healthcare-CRC Press, Taylor & Francis (2017).pdf
+(History of Computing) Nathan L. Ensmenger-The Computer Boys Take Over_ Computers, Programmers, and the Politics of Technical Expertise-The MIT Press (2010).pdf
+(History of Computing) Paul E. Ceruzzi-A History of Modern Computing-MIT Press (2003)_2.pdf
+(History of Computing) Raúl Rojas, Ulf Hashagen-The first computers_ history and architectures-The MIT Press (2000).pdf
+(History of Mathematics) John Tabak-Numbers_ Computers, Philosophers, and the Search for Meaning (History of Mathematics)-Facts on File (2004).pdf
+(Human-Computer Interaction Series) Stuart Reeves (auth.)-Designing Interfaces in Public Settings_ Understanding the Role of the Spectator in Human-Computer Interaction-Springer-Verlag London (2011).pdf
+(Informatik im Fokus) Christian Baun, Marcel Kunze, Jens Nimis, Stefan Tai (auth.)-Cloud Computing_ Web-basierte dynamische IT-Services-Springer Berlin Heidelberg (2010).pdf
+(Learn Enough) Michael Hartl, Lee Donahoe - Learn Enough HTML to Be Dangerous_ An introduction to HTML (2016).pdf
+(Learning Path) Denis Rothman, Matthew Lamons, Rahul Kumar, Abhishek Nagaraja, Amir Ziai, Ankit Dixit - Python Beginners Guide to Artificial Intelligence-Packt Publishing (2018).pdf
+(Lecture Notes in Computer Science 5664 _ Theoretical Computer Science and General Issues) Mohammad Ali Abam, Paz Carmi, Mohammad Farshi (auth.), Frank Dehne, Marina Gavrilova, Jörg-Rüdiger Sack, Csab.pdf
+(Lifestyles Paperback) Mary Jane Sterling-Trigonometry Workbook For Dummies -For Dummies (2005).pdf
+(Manga guide) Mana Takahashi, Shoko Azuma, Trend-pro Co.-The Manga guide to databases-No Starch Press (2009).pdf
+(Math & Science) Mary Jane Sterling - Pre-Calculus_ 1,001 Practice Problems For Dummies (+ Free Online Practice) (For Dummies-For Dummies (2014).pdf
+(McGraw-Hill _Demystified_ series) Andy Oppel-Databases DeMYSTiFieD, 2nd Edition  -McGraw-Hill Professional (2010).pdf
+(MIT Press Essential Knowledge) Paul E. Ceruzzi-Computing_ A Concise History-The MIT Press (2012).pdf
+(Neuschwabenland Archiv) Peter Watson - Peter Watson - The German Genius Europe’s Third Renaissance, the Second Scientific Revolution and the Twentieth Century (2011).pdf
+(Nutshell handbooks) Steve Oualline-Practical C programming-O'Reilly Media (1997).pdf
+(Open Paths to Enriched Learning) Pat Morin-Open Data Structures_ An Introduction-AU Press (2013).pdf
+(Oracle) Herbert Schildt-Java  A Beginner’s Guide-Mcgraw-Hill Osborne Media (2014).pdf
+(Osborne Complete Reference Series) Herbert Schildt-C  The Complete Reference-McGraw-Hill (2000).pdf
+(Oxford higher education) Patil, Varsha H-Data structures using C++-Oxford University Press (2012).pdf
+(Oxford higher education) Thareja, Reema-Data structures using C-Oxford University Press (2014).pdf
+(Oxford Quick Reference) Andrew Butterfield, Gerard Ekembe Ngondi, Anne Kerr-A Dictionary of Computer Science-Oxford University Press (2016).pdf
+(Pocket Reference (O'Reilly)) Arnold Robbins-bash Pocket Reference-O'Reilly Media (2010).pdf
+(Pragmatic Life) Andy Lester-Land the Tech Job You Love-Pragmatic Bookshelf (2009).pdf
+(Pragmatic Programmers) Andy Hunt-Pragmatic Thinking and Learning_ Refactor Your Wetware-Pragmatic Bookshelf (2008).pdf
+(Pragmatic Programmers) Michael T. Nygard-Release It!_ Design and Deploy Production-Ready Software-Pragmatic Bookshelf (2007).pdf
+(Pragmatic Programmers) Venkat Subramaniam, Andy Hunt-Practices of an Agile Developer_ Working in the Real World-Pragmatic Bookshelf (2006).pdf
+(Premier Reference Source) Changqing Li-Advanced Applications and Structures in Xml Processing_ Label Streams, Semantics Utilization and Data Query Technologies (Premier Reference Source)-Information .pdf
+(Problem Books) James Tanton-Trigonometry A Clever Study Guide-Mathematical Association of America (2015).pdf
+(Professional Apress) Aditya Ravi Shankar-Pro HTML5 Games-Apress (2012).pdf
+(Professional Apress) Andrew Troelsen-Pro C_ 5.0 and the .NET 4.5 Framework-Apress (2012).pdf
+(Professional Apress) Dudley Storey-Pro CSS3 Animation-Apress (2012).pdf
+(Professional) Joshue O Connor-Pro HTML5 Accessibility-Apress (2012).pdf
+(Programmer to Programmer) Jerome F. DiMarzio-Beginning Android Programming with Android Studio-Wrox (2017).pdf
+(Routledge Research in Design, Technology and Society) Theodora Vardouli_ Olga Touloumi - Computer Architectures_ Constructing the Common Ground-Routledge (2020).pdf
+(Sams Teach Yourself) Joe Casad - Sams Teach Yourself TCP_IP in 24 Hours-Sams Publishing (2017).pdf
+(Sams Teach Yourself) Laura Lemay, Rafe Colburn, Jennifer Kyrnin-HTML, CSS & JavaScript Web Publishing in One Hour a Day-Sams Publishing (2016).pdf
+(Schaum's outline series) Seymour Lipschutz_ Marc Lipson - Schaum's outline of theory and problems of discrete mathematics-McGraw-Hill  (2007).pdf
+(Self-Teaching Guides) Harry Kybett, Earl Boysen-All New Electronics Self-Teaching Guide-Wiley (2008).pdf
+(Series in Computational Physics) David J. Pine - Introduction to Python for Science and Engineering-CRC Press (2019).pdf
+(SitePoint_ Project Management) Meri Williams-The Principles of Project Management (SitePoint_ Project Management)-SitePoint (2008).pdf
+(Smashing eBook Series) Smashing Magazine-CSS Essentials-Smashing Media GmbH (2012).pdf
+(Smashing Magazine Book Series) Bill Sanders-Smashing HTML5 -Wiley (2011).pdf
+(Smashing magazine book series) Thord Daniel Hedengren-Smashing WordPress_ Beyond the blog-Wiley (2010).pdf
+(Software Development Training Book 1) Vivian Bailey-Introduction to Programming with Python - Python Programming for Beginners-Software Engineering Pub Co (2015).pdf
+(Springer Undergraduate Texts in Mathematics and Technology) Øyvind Ryan - Linear Algebra, Signal Processing, and Wavelets - A Unified Approach_ Python Version-Springer International Publishing (2019).pdf
+(SpringerLink _ Bucher) Mircea Vlăduţiu (auth.)-Computer Arithmetic_ Algorithms and Hardware Implementations-Springer-Verlag Berlin Heidelberg (2012).pdf
+(Starting Out With ...) Tony Gaddis-Programming Logic and Design-Pearson (2015).pdf
+(Studies in big data volume 46) Said, Alan_ Torra, Vicenç   (eds.) - Data science in practice-Springer (2019).pdf
+(Studies In Computational Intelligence) Witold Pedrycz, Shyi-Ming Chen - Deep Learning_ Algorithms And Applications-Springer (2020).pdf
+(Texts in Computational Science and Engineering, 25) Einar Smith - Introduction to the Tools of Scientific Computing-Springer (2021).pdf
+(Texts in Computer Science) Ben Stephenson - The Python Workbook_ A Brief Introduction with Exercises and Solutions-Springer (2019-08).pdf
+(Texts in Computer Science) Richard Szeliski-Computer Vision_ Algorithms and Applications-Springer (2010).pdf
+(Texts in Computer Science) Steven S. Skiena, Miguel Revilla-Programming Challenges_ The Programming Contest Training Manual-Springer (2003).pdf
+(The Addison-Wesley signature series) Steve Freeman, Nat Pryce-Growing Object-Oriented Software, Guided by Tests-Addison Wesley (2010).pdf
+(The Facets of Ruby Series) Chris Pine-Learn to Program, Second Edition-Pragmatic Bookshelf (2009).pdf
+(The MagPi Essentials) Sean M. Tracey-Make Games with Python. 2-Raspberry Pi (2016).pdf
+(The MIT Press Essential Knowledge) John D. Kelleher, Brendan Tierney - Data Science-The MIT Press (2018).pdf
+(The Morgan Kaufmann Series in Computer Architecture and Design) David A. Patterson, John L. Hennessy-Computer Organization and Design_ The Hardware Software Interface_ ARM Edition-Morgan Kaufmann (20.pdf
+(The Morgan Kaufmann Series in Computer Architecture and Design) John L. Hennessy, David A. Patterson-Computer Architecture, Fifth Edition_ A Quantitative Approach-Morgan Kaufmann (2011).pdf
+(The Morgan Kaufmann Series in Computer Architecture and Design) John L. Hennessy, David A. Patterson-Computer Architecture, Sixth Edition_ A Quantitative Approach-Morgan Kaufmann (2017).pdf
+(The Morgan Kaufmann Series in Multimedia Information and Systems) Khalid Sayood-Introduction to Data Compression, Fourth Edition-Morgan Kaufmann (2012).pdf
+(The pragmatic programmers) Brian Okken-Python Testing with pytest-Pragmatic Bookshelf (2017).pdf
+(The Sloan Technology Series) Martin Campbell-Kelly, William Aspray, Nathan Ensmenger, Jeffrey R. Yost - Computer_ A History of the Information Machine-Westview Press (2013).pdf
+(Theory in Practice) Federico Biancuzzi, Chromatic-Masterminds of Programming_ Conversations with the Creators of Major Programming Languages -O'Reilly Media (2009).pdf
+(Theory in practice) James Shore, Chromatic-The Art of Agile Development-O'Reilly Media, Inc (2008).pdf
+(Theory in Practice) Neal Ford-The productive programmer-O'Reilly Media (2008).pdf
+(Theory In Practice) Stephane Faroult, Pascal L'Hermite-Refactoring SQL Applications-Oreily (2008).pdf
+(Undergraduate Lecture Notes in Physics) Anders Malthe-Sørenssen-Elementary Mechanics Using Python_ A Modern Course Combining Analytical and Numerical Techniques-Springer International Publishing (201.pdf
+(Undergraduate Texts in Mathematics Ser.) Paul R. Halmos - Naive Set Theory-Springer (2013).pdf
+(Undergraduate Topics in Computer Science) Frank Klawonn (auth.)-Introduction to Computer Graphics_ Using Java 2D and 3D-Springer-Verlag London (2012).pdf
+(Undergraduate Topics in Computer Science) Gerard O’Regan-Introduction to the History of Computing_ A Computing History Primer-Springer (2016).pdf
+(Undergraduate Topics in Computer Science) Gilles Dowek (auth.)-Proofs and Algorithms_ An Introduction to Logic and Computability-Springer-Verlag London (2011).pdf
+(Undergraduate Topics In Computer Science) John Hunt - A Beginners Guide To Python 3 Programming-Springer (2019).pdf
+(Undergraduate Topics in Computer Science) Kent D. Lee-Foundations of programming languages-Springer (2014).pdf
+(Undergraduate Topics in Computer Science) Laura Igual, Santi Segu-Introduction to Data Science.  A Python Approach to Concepts, Techniques and Applications-Springer (2017).pdf
+(Undergraduate Topics in Computer Science) Maurizio Gabbrielli, Simone Martini (auth.)-Programming Languages_ Principles and Paradigms-Springer-Verlag London (2010).pdf
+(Undergraduate Topics in Computer Science) Roman Trobec, Boštjan Slivnik, Patricio Bulić, Borut Robič - Introduction to Parallel Computing_ From Algorithms to Programming on State-of-the-Art Platforms.pdf
+(Undergraduate Topics in Computer Science) Thomas B. Moeslund (auth.)-Introduction to Video and Image Processing_ Building Real Systems and Applications-Springer-Verlag London (2012).pdf
+(Voices That Matter) Shay Howe - Learn to Code HTML and CSS_ Develop and Style Websites-New Riders (2014).pdf
+(Voices That Matter) Zoe Mickley Gillenwater-Stunning CSS3_ A project-based guide to the latest in CSS -New Riders Press (2010).pdf
+(Wiley series on parallel and distributed computing) Abd-El-Barr M., El-Rewini H.-Fundamentals of Computer Organization and Architecture-Wiley (2005).pdf
+(Wrox beginning guides) Kriegel, Alex-Discovering SQL _ a hands-on guide for beginners-Wiley Pub (2011).pdf
+(Wrox beginning guides) Rod Stephens-Beginning database design solutions-Wiley Pub (2009).pdf
+(Wrox professional guides _ Programmer to Programmer) John Paul Mueller-Professional IronPython-Wrox_Wiley Pub (2010).pdf
+(Wrox Professional Guides) Reto Meier-Professional Android 4 Application Development-Wrox (2012).pdf
+(Xpert.press) Bastian Ballmann (auth.)-Network Hacks - Intensivkurs_ Angriff und Verteidigung mit Python-Springer-Verlag Berlin Heidelberg (2012).pdf
+(Zed Shaw’s Hard Way Series) Zed A. Shaw-Learn More Python 3 the Hard Way_ The Next Step for New Python Programmers-Addison-Wesley Professional (2017).pdf
+-How to Make Money in Stocks-McGraw-Hill (2009).pdf
+-How to Think Like a Mathematician-CUP (2009).pdf
+-Windows Forms in Action, Second Edition of Windows Forms Programming with C-Sharp_ Erik Brown-Manning (2006).pdf
+100 No-Equipment Workouts.pdf
+1001 Algebra II Practice Problems For Dummies (Wiley 2013).pdf
+1001 Basic Math and Pre-Algebra Practice Problems For Dummies (Wiley 2013).pdf
+1001 Practice Problem Algebra II for dummies.pdf
+A Beginners Guid to Python 3 Programming.pdf
+A Byte of Python 1.92 (2009).pdf
+A Byte of Python.pdf
+A Concise Introduction to Programming in Python(2018).pdf
+A First Course in Probability [8th Edition] (Pearson 2010).pdf
+A First Course in Probablity [Solutions, 8th Editon] (Pearson 2010).pdf
+A functional start to computing with Python (CRC 2013).pdf
+A Rapid Guide to the Fundamental Features of Python (Packt 2015).pdf
+A Tour of C++(Addison-Wesley 2013).pdf
+A-Graphical-Approach-to-College-Algebra.pdf
+Aaron Stump - Programming Language Foundations (2013, Wiley).pdf
+Abhishek Thakur - Approaching (Almost) Any Machine Learning Problem (2020, Abhishek Thakur) - libgen.li.pdf
+Abildskov, Johan - Practical Git_ Confident Git Through Practice (2020, Apress) [10.1007_978-1-4842-6270-2] - libgen.li.pdf
+Abraham Silberschatz, Greg Gagne, Peter B. Galvin - Operating System Concepts (2018, Wiley).pdf
+Abraham Silberschatz, Henry F. Korth, S. Sudarshan-Database System Concepts, 6th Edition  -McGraw-Hill (2010).pdf
+Abraham Silberschatz, Peter B. Galvin, Greg Gagne-Operating System Concepts-Wiley (2012).pdf
+Absolute Beginner’s Guide to Computer Basics, [Fifth Edition] ( Pearson 2010).pdf
+Adam Drozdek-Data Structures and Algorithms in C++-Cengage Learning (2012).pdf
+Adam Fowler - NoSQL For Dummies (2015, For Dummies).pdf
+Adam Freeman-Pro AngularJS-Apress (2014).pdf
+Adam Stewart-Python Programming.  Python Programming for Beginners, Python Programming for Intermediates-Independently published (2016).pdf
+Addison.Wesley.Android.Programming.Apr.2013.ISBN.0321804333_2.pdf
+Addison.Wesley.Introduction.To.Android.Application.Development.4th.Edition.Dec.2013.ISBN.0321940261.pdf
+Addison.Wesley.Quality.Code.Dec.2013.ISBN.0321832981_2.pdf
+Addison.Wesley.The.Object.Oriented.Thought.Process.3rd.Edition.Sep.2008.ISBN.0672330164.pdf
+Aditya Bhargava-Grokking Algorithms_ An illustrated guide for programmers and other curious people-Manning Publications (2016).pdf
+Adrian Rosebrock - Deep Learning for Computer Vision with Python 2-Practitioner Bundle(2017, PyImageSearch).pdf
+Adrian W. West-Practical HTML5 Projects-Apress (2012).pdf
+Advanced Guide To Python3 Programm.pdf
+Advanced Programming in the UNIX Environment, 3rd Edition (Addison Wesley 2013).pdf
+Advanced-Artificial-Intelligence.pdf
+Advanced-Linear-Algebra.pdf
+Agile-Modeling-with-UML-Code-Generation-Testing-Refactoring.pdf
+Ahmed Fawzy Gad - Practical Computer Vision Applications Using Deep Learning with CNNs_ With Detailed Examples in Python Using TensorFlow and Kivy-Apress (2019).pdf
+Aidas Bendoraitis, Jake Kronika - Django 3 Web Development Cookbook_ Actionable solutions to common problems in Python web development-Packt Publishing (2020).pdf
+Ajinkya Kher-TypeScript High Performance-Packt Publishing (2017).pdf
+Akshay Kulkarni, Adarsha Shivananda - Natural Language Processing Recipes_ Unlocking Text Data with Machine Learning and Deep Learning using Python-Apress (2019).pdf
+Al Sweigart - Beyond the Basic Stuff with Python. Best Practices.-No Starch Press (2021).pdf
+Al Sweigart - Cracking Codes with Python_ An Introduction to Building and Breaking Ciphers-No Starch Press (2018).pdf
+Al Sweigart - The Big Book of Small Python Projects_ 81 Easy Practice Programs (2021, No Starch Press) - libgen.li.pdf
+Al Sweigart-Invent Your Own Computer Games with Python-No Starch Press (2016).pdf
+Alan Agresti, Christine A. Franklin, Bernhard Klingenberg - Statistics_ The Art and Science of Learning From Data-Pearson (2017).pdf
+Alan Beaulieu - Learning SQL_ Generate, Manipulate, and Retrieve Data (2020, O'Reilly Media) - libgen.li.pdf
+Alan Cooper, Robert Reimann, David Cronin-About face 3_ the essentials of interaction design-Wiley Pub (2007).pdf
+Alan Cooper-The Inmates Are Running the Asylum_ Why High Tech Products Drive Us Crazy and How to Restore the Sanity-Sams - Pearson Education (2004).pdf
+Alan D. Moore - Python GUI programming with Tkinter-Packt Publishing (2018).pdf
+Alan D. Moore - Python GUI Programming with Tkinter_ Design and build functional and user-friendly GUI applications, 2nd Edition (2021, Packt Publishing - ebooks Account) - libgen.li.pdf
+Alan Harris-Pro IronPython-Apress (2009).pdf
+Albert Sweigart-Invent Your Own Computer Games with Python.pdf
+Alberto Ochoa, Genoveva Vargas-Solar, Javier Alfonso Espinosa Oviedo - Innovative Applications in Smart Cities-CRC Press (2021).pdf
+Aldridge I.-High-Frequency Trading_ A Practical Guide to Algorithmic Strategies and Trading Systems-Wiley (2010).pdf
+Alejandro Rodas de Paz - Tkinter GUI application development cookbook-Packt Publishing (2018).pdf
+Alex Gorelik - The Enterprise Big Data Lake_ Delivering the Promise of Big Data and Data Science-O’Reilly Media (2019).pdf
+Alex Knol-Dependency Injection with AngularJS-Packt Publishing (2013).pdf
+Alex Libby-HTML5 Video How-to-Packt Publishing (2012).pdf
+Alex Libby-Learning Less.js_ Develop attractive CSS styles efficiently, using the Less CSS preprocessor-Packt Publishing (2014).pdf
+Alex Libby-Responsive Media in HTML5-Packt Publishing (2014).pdf
+Alex Martelli, Anna Ravenscroft, Steve Holden-Python in a Nutshell.  A Desktop Quick Reference-O'REilly (2017).pdf
+Alexander S. Kulikov, Pavel Pevzner - Learning Algorithms Through Programming and Puzzle Solving-Leanpub (2018).pdf
+Alexander Stepanov, Paul McJones - Elements of Programming-Semigroup Press (2019).pdf
+Alexander Thomasian - Storage Systems_ Organization, Performance, Coding, Reliability, and Their Data Processing (2021, Morgan Kaufmann) - libgen.li.pdf
+Alexis Goldstein, Estelle Weyl, Louis Lazaris-HTML5 & CSS3 for the Real World-SitePoint (2011).pdf
+Algebra (Boston 1993).pdf
+Algebra Essentials For Dummies (Wiely 2013).pdf
+Algebra I Workbook for Dummies, 2nd Edition (Wiley 2011).pdf
+Algebra II Workbook For Dummies (Wiley 2014).pdf
+Algorithm and Flowchart - Farsi.pdf
+Algorithm Design (Addison Wesely 2006).pdf
+Algorithm Design and Applications (Wiley 2014).pdf
+Algorithm Design and Applications (Wiley 2015).pdf
+Algorithmic Adventures-From Knowledge to Magic (Spring 2009).pdf
+Algorithmic Randomness and Complexity (Spring 2010).pdf
+Algorithmics for Hard Probletns(Spring 2001) backup.pdf
+Algorithms and Parallel Computing (Wiley 2011).pdf
+Algorithms in a Nutshell, 2nd Edition (O'Reilly 2016).pdf
+Algorithms- Part I, 4th Edition (Addison Wesley 2014).pdf
+Algorithms- Part II, 4th Edition (Addison Wesley 2014).pdf
+Ali Arya - Anyone Can Code_ The Art and Science of Logical Creativity-Chapman and Hall_CRC (2020).pdf
+Aliazam Abbasfar-Turbo-like Codes_ Design for High Speed Decoding-Springer (2010).pdf
+Alice Zhao - SQL Pocket Guide_ A Guide to SQL Usage (2021, O'Reilly Media) - libgen.li.pdf
+All Algorithms (illinois 2015).pdf
+Allen B. Downey - Think Python_ How to Think Like a Computer Scientist (2015, O'Reilly Media).pdf
+Allen B. Tucker, Teofilo Gonzalez, Jorge Diaz-Herrera - Computing Handbook  Computer Science and Software Engineering (3rd Edition) (2014, CRC Press).pdf
+Allen G. Taylor-Database Development For Dummies-For Dummies (2000).pdf
+Allen Ma, Amber Kuang - Geometry_ 1,001 Practice Problems For Dummies-For Dummies (2015).pdf
+Amoozesh.Karbordi.Javascript.pdf
+Amuzesh Mabani Computer Va Barname Nevisi Be Zaban C++.Fa.pdf
+amuzesh-karbordi-css3-rasuli_[www.ketabesabz.com].pdf
+An Introduction To Machine Learnin.pdf
+An Introduction to Numerical Methods and Analysis, 2nd Edition (Wiley 2013).pdf
+An Introduction to the Analysis of Algorithms, 2nd Edition.pdf
+Analysis For Computer Scientists.pdf
+Analyzing-Social-Media-Networks-with-NodeXL-Insights-from-a-Connected-World.pdf
+Andrea Chiarelli - Mastering JavaScript Object-Oriented Programming (2016, Packt Publishing).pdf
+Andreas C. Müller, Sarah Guido-Introduction to Machine Learning with Python_ A Guide for Data Scientists-O’Reilly Media (2016).pdf
+Andrew Adamatzky, Selim Akl, Georgios Ch. Sirakoulis - From Parallel to Emergent Computing (2019, CRC Press).pdf
+Andrew Adamatzky, Selim Akl, Georgios Ch. Sirakoulis - From Parallel to Emergent Computing-CRC Press (2019).pdf
+Andrew Grant-Beginning AngularJS-Apress (2014).pdf
+Andrew R. Young-Expert Advisor Programming_ Creating Automated Trading Systems in MQL for MetaTrader 4-Edgehill Publishing (2009).pdf
+Andrew S. Tanenbaum, Herbert Bos-Modern Operating Systems-Pearson (2014).pdf
+Andrew Troelsen, Phillip Japikse-C_ 6.0 and the .NET 4.6 Framework-Apress (2015).pdf
+Andrew W. Appel-Modern Compiler Implementation in Java, 2Ed (2002).pdf
+Andriy Burkov - The Hundred-Page Machine Learning Book (2019, Andriy Burkov).pdf
+Android Python with SL4A.pdf
+Andy Budd, Simon Collison, Cameron Moll (auth.) - CSS Mastery_ Advanced Web Standards Solutions-Apress (2009).pdf
+Andy Harris-HTML5 and CSS3 All-in-One For Dummies-For Dummies (2014).pdf
+Andy Harris-HTML5 Game Development For Dummies-For Dummies (2013).pdf
+Angela B. Shiflet, George W. Shiflet-Introduction to Computational Science_ Modeling and Simulation for the Sciences-Princeton University Press (2014).pdf
+Anna Anthropy, Naomi Clark-A Game Design Vocabulary_ Exploring the Foundational Principles Behind Good Game Design-Addison-Wesley Professional (2014).pdf
+Anne Boehm-Murach's HTML, XHTML, and CSS-Mike Murach & Associates (2010).pdf
+Anthony Sintes - Sams Teach Yourself Object Oriented Programming in 21 Days-Sams (2001).pdf
+Anthony T. Holdener III-HTML5 Geolocation-O'Reilly Media (2011).pdf
+Antipatterns-Identification-Refactoring-and-Management-Auerbach-Series-on-Applied-Software-Engineering-.pdf
+Antonio Leiva-Kotlin for Android Developers _ learn Kotlin the easy way while developing an Android App-Leanpub (2017).pdf
+Antonio Mele - Django 2 by Example-Packt Publishing (2018).pdf
+Antonio Melé - Django 3 By Example_ Build powerful and reliable Python web applications from scratch-Packt Publishing Ltd (2020).pdf
+Antony Kennedy, Inayaili de Leon-Pro CSS for High Traffic Websites-Apress (2011).pdf
+ANTTI OULASVIRTA - Computational Interaction-Oxford University Press (2018).pdf
+AP computer science, Levels A and AB (Barrons Educational Series 2007).pdf
+Applied Statistics and Probability for Engineers (Wiley 2014).pdf
+Ara Pehlivanian, Don Nguyen-Jump Start JavaScript-SitePoint (2013).pdf
+Arthur Benjamin-The Magic of Math_ Solving for x and Figuring Out Why-Basic Books (2015).pdf
+Article 19 (Author), Mallory Knodel (Contributor), Ulrike Uhlig (Contributor), Niels ten Oever (Contributor), Corinne Cath (Contributor) - How the Internet Really Works_ An Illustrated Guide to Protoc.pdf
+Artificial Intelligence_ A Modern Approach (Prentice Hall 2010).pdf
+Artificial-Intelligence-Advances-in-Research-and-Applications.pdf
+Artificial-Intelligence-for-Dummies(2017).pdf
+Artificial-Intelligence-Foundations-of-Computational-Agents.pdf
+Artificial-Intelligence-Structures-and-Strategies-for-Complex-Problem-Solving-5th-Edition-.pdf
+Artificial-Intelligence-What-Everyone-Needs-to-Know.pdf
+Artificial-Intelligence-with-Uncertainty.pdf
+Atomic Habit.pdf
+Aurélien Géron - Hands-On Machine Learning with Scikit-Learn and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems-O’Reilly Media (2017).pdf
+Aurélien Géron - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_ Concepts, Tools, and Techniques to Build Intelligent Systems-O’Reilly Media (2019).pdf
+Automate the Boring Stuff with Python, Practical Programming for Total Beginners (No Starch Press 2015).pdf
+Avrim Blum, John Hopcroft, Ravindran Kannan - Foundations Of Data Science-Cambridge University Press (2020).pdf
+Axel Rauschmayer - Speaking JavaScript-O'Reilly Media (2014).pdf
+Azat Mardan - Write Your Way To Success_ Lessons Learned on my Path from Ordinary Developer to Author of Programming Books That Sell-Apress (2019).pdf
+B. M. Harwani - Practical C Programming - Solutions for modern C developers to create efficient and well-structured programs.-Packt (2020).pdf
+B.M. Harwani - C Programming Cookbook - Over 40 recipes exploring data structures, pointers, interprocess communication, and database in C. (2020).pdf
+B.M. Harwani - Qt5 Python GUI Programming Cookbook_ Building responsive and powerful cross-platform applications with PyQt-Packt (2018).pdf
+Badass- Making Users Awesome.pdf
+Balch, Mark - Complete digital design_ a comprehensive guide to digital electronics and computer system architecture (2003, McGraw-Hill).pdf
+Barry Burd-Android Application Development All-in-One For Dummies-For Dummies (2011).pdf
+Basarat Ali Syed-TypeScript Deep Dive-Samurai Media Limited (2017).pdf
+Bash Pocket Reference, 2nd Edition.pdf
+bash-Cookbook-Solutions-and-Examples-for-bash-Users.pdf
+Basic Math and Pre-Algebra For Dummies (Wiley 2014).pdf
+Basic-College-Mathematics.pdf
+Bass Jobsen, Amin Meyghani-Less Web Development Cookbook_ Over 110 practical recipes to help you write leaner, more efficient CSS code-Packt Publishing (2015).pdf
+Bass Jobsen-Less Web Development Essentials, 2nd Edition_ Leverage the features of Less to write better, reusable, and maintainable CSS code-Packt Publishing (2015).pdf
+Bastian Ballmann-Understanding Network Hacks_ Attack and Defense with Python-Springer (2015).pdf
+Beautiful Code Leading Programmers Explain How They Think (O'Reilly 2007).pdf
+Become a Better Programmer (O'Reilly 2015).pdf
+Beginning C++ Through Game Programming [Third Editon] (Course Techonlogey 2011).pdf
+Beginning Database Design- From Novice to Professional (Apress 2015).pdf
+Beginning Database Design.pdf
+Beginning Django CMS(Apress 2015).pdf
+Beginning Django E-Commerce (Apress 2009).pdf
+Beginning Game Development with Python and Pygame. From Novice to Professional (Apress 2007).pdf
+Beginning Programming (Wrox 2005).pdf
+Beginning Programming All-In-One (Wiley 2008).pdf
+Beginning Programming in 24 Hours-Sams Publishing (2002).pdf
+Beginning Programming With Python For Dummies (Wiley 2014).pdf
+Beginning Programming with Python For Dummies, 2nd Edition.pdf
+Beginning Python from Novice to Professional [2nd Edition] (Apress 2008).pdf
+Beginning Python Games Development, 2nd Edition(Apress 2016).pdf
+Beginning Python Visualization [2nd Editon] (Apress 2014).pdf
+Beginning Python, Using Python 2.6 and Python 3.1 (Wrox Programmer to Programmer 2010).pdf
+Beginning Software Engineering.pdf
+Beginning SQL Queries, 2nd Edition.pdf
+Beginning SQL.pdf
+Behrouz A. Forouzan, Richard Gilberg - C++ Programming_ An Object-Oriented Approach-McGraw-Hill Education (2019).pdf
+Ben Farrell - Back to Simple CSS With the Shadow DOM-Manning (2019).pdf
+Ben Forta - SQL in 10 Minutes a Day, Sams Teach Yourself (2019, Sams Publishing) - libgen.lc.pdf
+Ben Forta-Sams Teach Yourself Microsoft SQL Server T-SQL in 10 Minutes-Sams (2007).pdf
+Ben Frain-Enduring CSS_ Architect and maintain large-scale CSS codebases (2015).pdf
+Ben Frain-Responsive Web Design with HTML5 and CSS3-Packt Publishing (2012).pdf
+Ben Frain-Responsive Web Design with HTML5 and CSS3-Packt Publishing (2015).pdf
+Ben Henick-HTML & CSS_ The Good Parts (2010).pdf
+Ben Tyers (auth.)-GameMaker_ Studio 100 Programming Challenges-Apress (2017).pdf
+Benatar, David - Life, death, and meaning _ key philosophical readings on the big questions-Rowman & Littlefield (2016).pdf
+Benjamin Baka-Python Data Structures and Algorithms-Packt Publishing (2017).pdf
+Benjamin LaGrone-HTML5 and CSS3 Responsive Web Design Cookbook-Packt Publishing (2013).pdf
+Benjamin Perkins, Jacob Vibe Hammer, Jon D. Reid-Beginning C_ 6.0 Programming with Visual Studio 2015-Wrox (2015).pdf
+Berthold Vocking, Helmut Alt, Martin Dietzfelbinger, Rudiger Reischuk, Christian Scheideler, Heribert Vollmer, Dorothea Wagner (eds.)-Algorithms Unplugged-Springer (2011).pdf
+Bertil Schmidt, Jorge Gonzalez-Dominguez, Christian Hundt, Moritz Schlarb - Parallel Programming_ Concepts and Practice (2017, Morgan Kaufmann).pdf
+Bhadoria, Robin Singh_ Chaudhari, Narendra S._ Deka, Ganesh Chandra_ Tomar, Geetam-The human element of big data_ issues, analytics, and performance-Chapman and Hall_CRC (2017).pdf
+Bhaskar Chaudhary - Tkinter GUI application development blueprints (2018, Packt Publishing) - libgen.lc.pdf
+Bill Phillips, Chris Stewart,  Kristin Marsicano-Android Programming - The _Big Nerd Ranch_ Guide-Big Nerd Ranch Guides (2017).pdf
+Birmingham, William P._ Gupta, Anurag P._ Siewiorek, Daniel P. - Automating the design of computer systems _ the MICON Project-CRC Press (2018).pdf
+Black Hat Python, Python Programming for Hackers and Pentesters (No Starch 2014).pdf
+BP.New.Feb2016.ISBN.097528388X.pdf
+Brad Green, Shyam Seshadri-AngularJS-O'Reilly Media (2013).pdf
+Brad Manderscheid-Beginning HTML5 Games with CreateJS-Apress (2014).pdf
+Brad Williams, David Damstra, Hal Stern-Professional WordPress_ Design and Development-Wrox (2015).pdf
+Bradford Tuckfield - Dive Into Algorithms_ A Pythonic Adventure for the Intrepid Beginner-No Starch Press (2021).pdf
+Brandon Eley, Shayne Tilley-Online Marketing Inside Out (Online Marketing_ Sitepoint)-SitePoint (2009).pdf
+Brandon Rhodes, John Goerzen-Foundations of Python Network Programming, 3rd Edition-Apress (2014).pdf
+Brent Laster - Professional Git-Wrox (2016).pdf
+Brett Slatkin - Effective Python_ 90 Specific Ways to Write Better Python (2019, Addison-Wesley Professional) - libgen.lc.pdf
+Brian Allbee - Hands-On Software Engineering with Python_ Move beyond basic programming and construct reliable and efficient software with complex code-Packt Publishing (2018).pdf
+Brian Goetz, Tim Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea-Java Concurrency in Practice-Addison-Wesley Professional (2006).pdf
+Brian Goetz, Tim Peierls-Java concurrency in practice  -Addison-Wesley (2006).pdf
+Brian Messenlehner, Jason Coleman-Building Web Apps with WordPress-O'Reilly Media (2014).pdf
+Brian P. Hogan-HTML5 and CSS3_ Develop with Tomorrow's Standards Today-Pragmatic Bookshelf (2011).pdf
+Brian P. Hogan-HTML5 and CSS3_ level up with today's web technologies-The Pragmatic Bookshelf (2013).pdf
+Brian W. Kernighan, P. J. Plauger-The Elements of Programming Style-Computing Mcgraw-Hill (1978).pdf
+Brian W. Kernighan, Rob Pike-The Practice of Programming-Addison-Wesley Professional (1999).pdf
+Brian Ward - How Linux works_ what every superuser should know (2014, No Starch Press).pdf
+Brian Ward - How Linux Works_ What Every Superuser Should Know (2021, No Starch Press) - libgen.li.pdf
+Briggs, Jason R - Python for kids _ a playful introduction to programming (2013, No Starch Press) - libgen.lc.pdf
+Bruce Lawson, Remy Sharp-Introducing HTML5 (2nd Edition)-New Riders Press (2011).pdf
+Bryant, WALDRON-Computer Systems A Programmers Perspective-Prentice-Hall (2003).pdf
+Buddy James, Lori Lalonde (auth.)-Pro XAML with C__ From Design to Deployment on WPF, Windows Store, and Windows Phone-Apress (2015).pdf
+Build Your Own Website 2014.pdf
+Building  Probabilistic Graphical Models with Python (Packt 2014).pdf
+Building Machine Learning Systems with Python (Packt 2013).pdf
+Building Web Applications with Flask (Packt 2015).pdf
+Building-Intelligent-Systems-A-Guide-to-Machine-Learning-Engineering.pdf
+BuildingSkillsinOODesign.pdf
+Burkhard Meier - Python GUI Programming Cookbook_ Develop functional and responsive user interfaces with tkinter and PyQt5-Packt Publishing (2019).pdf
+C For Dummies 2nd Ed.pdf
+C++ Programming. From problem analysis to program design (Cengage Learning 2013).pdf
+C. Thomas Wu - A Comprehensive Introduction to Object-Oriented Programming with Java  -McGraw Hill (2008).pdf
+C. Thomas Wu - An Introduction to Object-Oriented Programming with Java (2009, McGraw-Hill Higher Education).pdf
+Calculus for Computer Graphics.pdf
+Calculus For Dummies [2nd Edition] (Wiley 2014).pdf
+Calculus- 1,001 Practice Problems For Dummies.pdf
+Caldarelli, Guido_ Chessa, Alessandro-Data science and complex networks _ real cases studies with Python-Oxford University Press (2016).pdf
+Caleb Hattingh - Using Asyncio in Python_ Understanding Python's Asynchronous Programming Features-O'Reilly Media (2020).pdf
+Caleb Hattingh-20 Python Libraries You Aren't Using (But Should)-O'Reilly (2016).pdf
+Cambridge.University.Multiple.View.Geometry.in.Computer.Vision.2nd.Edition.Mar.2004.ISBN.0521540518.pdf
+Cameron Adams, James Edwards, Christian Heilmann, Michael Mahemoff, Ara Pehlivanian, Dan Webb, Simon Willison-The art & science of JavaScript-Sitepoint (2007).pdf
+Cameron Adams, James Edwards-The JavaScript Anthology_ 101 Essential Tips, Tricks & Hacks-SitePoint (2006).pdf
+Cameron Adams, Mark Boulton, Andy Budd, Andy Clarke, Simon Collison, Jeff Croft, Derek Featherstone, Ian Lloyd, Ethan Marcotte, Dan Rubin, Rob Weychert-Web Standards Creativity_ Innovations in Web Des.pdf
+Camille McCue - Getting Started with Coding  Get Creative with Code!-For Dummies (2015).pdf
+Capers Jones - Software methodologies _ a quantitative guide (2018, Auerbach Publications_CRC Press).pdf
+CARL REYNOLDS, PAUL TYMANN - Principles of Computer Science (2008, Mcgraw-Hill).pdf
+Carol Vorderman, Craig Steele, Claire Quigley, Daniel McCafferty, Martin Goodfellow - Coding Games in Python-DK Children (2018).pdf
+Catherine C McGeoch-A guide to experimental algorithmics-Cambridge University Press (2012).pdf
+Cathy Pearl-Designing Voice User Interfaces_ Principles of Conversational Experiences-O’Reilly Media (2016).pdf
+Cathy Tanimura - SQL for Data Analysis_ Advanced Techniques for Transforming Data into Insights (2021, O'Reilly Media) - libgen.li.pdf
+ce2016-ACM.pdf
+ce2016-final-report.pdf
+Challenging mathematical problems with elementary solutions  [Vol. II]-Dover  (1967).pdf
+Challenging mathematical problems with elementary solutions  [Vol. I] Dover  (1964).pdf
+Chandermani-AngularJS by Example-Packt Publishing (2015).pdf
+Charles Petzold - Code_ The Hidden Language of Computer Hardware and Software (2009, Microsoft Press) - libgen.li.pdf
+Chetan Giridhar-Learning Python Design Patterns-Packt Publishing (2016).pdf
+Chirag Shah - A Hands-On Introduction to Data Science-Cambridge University Press (2020).pdf
+Chris Casciano-The CSS Pocket Guide-Peachpit Press (2010).pdf
+Chris Conlan (auth.)-The Blender Python API_ Precision 3D Modeling and Add-on Development-Apress (2017)_2.pdf
+Chris Fehily-SQL_ Visual QuickStart Guide-Peachpit Press (2008).pdf
+Chris Johnson, Jayant Varma - Pro Bash Programming, Second Edition_ Scripting the GNU_Linux Shell (2015, Apress).pdf
+Chris Mills-Practical CSS3_ Develop and Design-Peachpit Press (2012).pdf
+Christian Mayer - Coffee Break Python_ 50 Workouts to Kickstart Your Rapid Code Understanding in Python-Independently published (2018).pdf
+Christof Paar, Jan Pelzl (auth.)-Understanding cryptography_ a textbook for students and practitioners-Springer-Verlag Berlin Heidelberg (2010).pdf
+Christopher D Manning_ Prabhakar Raghavan_ Hinrich Schutze-Introduction to information retrieval-Cambridge University Press (2008).pdf
+Christopher Duncan-The Career Programmer_ Guerilla Tactics for an Imperfect World (Expert's Voice)-Apress (2006).pdf
+Christopher M. Bishop-Pattern Recognition and Machine Learning-Springer (2006).pdf
+Christopher Murphy, Richard Clark, Oli Studholme, Divya Manian-Beginning HTML5 and CSS3_ The Web Evolved-Apress (2012).pdf
+Christopher Negus - Linux Bible (2015, Wiley).pdf
+Christos Kalloniatis-Modern Information Systems-InTeO (2012).pdf
+Circuit Analysis For Dummies (Wiley 2013).pdf
+Claus Fuhrer, Jan Erik Solem, Olivier Verdier-Scientific Computing with Python 3-Packt Publishing (2017).pdf
+Clean Code Handbook of Agile Software Craftsmanship(Pearson 2009).pdf
+Clearn Architects in python.pdf
+Code Complete A Practical Handbook of Software Construction (Microsoft 2004).pdf
+Code Leader.pdf
+Code The Hidden Language of Computer Hardware and Software (Microsoft Press 2000).pdf
+Coders at Work (Apress 2009).pdf
+Coding Club Level 1 Python Basics (CUP 2012).pdf
+Coding Club Level 2 Python, Next Steps (CUP 2013).pdf
+Coding Club Level 3 Python, Building Big Apps (CUP 2013).pdf
+Coding For Dummies (Wiley 2015).pdf
+Coding Interviews.pdf
+Cody Jackson - Secret Recipes of the Python Ninja_ Over 70 recipes that uncover powerful programming tactics in Python-Packt Publishing (2018).pdf
+Cody Precord-WxPython Application Development Cookbook-Packt Publishing (2016).pdf
+Cole Nussbaumer Knaflic - Storytelling with Data_ A Data Visualization Guide for Business Professionals-Wiley (2015).pdf
+Colleen Jones-Clout_ The Art and Science of Influential Web Content (Voices That Matter)-New Riders Press (2010).pdf
+College-algebra-and-trigonometry-global-edition.pdf
+Combinatorial Reasoning, An Introduction to the Art of Counting (Wiley 2014).pdf
+Common Core Math For Parents For Dummies (Wiley 2015).pdf
+Compiler Princepls Technique and Tools (Aho 2006) .pdf
+Compiler-Design-Analysis-and-Transformation.pdf
+Compiler-Design-Virtual-Machines.pdf
+Compiler-Design.pdf
+Compilers_Principles, Techniques, & Tools (Addison Wesley 2008).pdf
+Computability-Complexity-and-Languages-Second-Edition-Fundamentals-of-Theoretical-Computer-Science-Computer-Science-and-Scientific-Computing-.pdf
+Computer Organisation and Architecture [8th Edition, Solutions] (Pearson 2010).pdf
+Computer Organisation and Architecture [8th Edition, Test Bank] (Pearson 2010).pdf
+Computer Organisation and Architecture [8th Edition] (Pearson 2010).pdf
+Computer Organization and Architecture (CengageLearning 2014).pdf
+Computer Organization and Architecture [Solutions ](CengageLearning 2014).pdf
+Computer Organization and Design, The HardwareSoftware Interface [5th Editon] (Morgan Kaufmann 2013).pdf
+Computer Organization and Embedded Systems [Sixth Edition] (Mc-GrawHill 2012).pdf
+Computer Programming for Teens (Course Technologey 2010).pdf
+Computer Science An Overview [11th ed.] (Addison-Wesley 2012).pdf
+Computer science handbook.2004.Chapman_ HallCRC.pdf
+Computer science illuminated (Jones and Bartlett Publishers 2002).pdf
+Computer Security Fundamentals 2016.pdf
+Computer Systems - A Programmer's Perspective.pdf
+Computer-Architecture-Software-Aspects-Coding-and-Hardware.pdf
+Computer-Organization-and-Design-Fourth-Edition-The-Hardware-Software-Interface.pdf
+Computer-Organization-and-Design-The-Hardware-Software-Interface.pdf
+Computer-Systems-A-Programmer-s-Perspective.pdf
+Computers and Intractability-A Guide to the Theory of NP-Completeness (W. H. Freeman 1979).pdf
+Concepts in Programming Languages (Combridge 2002).pdf
+Concepts of Programming Languages (Pearson 2015).pdf
+Concepts, techniques, and models of computer programming-MIT Press (2004).pdf
+Concise Guide To Software Engineer.pdf
+Concrete Mathematics_ A Foundation for Computer Science (2nd Edition) (Addison-Wesley 1994).pdf
+Conrad Barski M.D.-Land of Lisp_ Learn to Program in Lisp, One Game at a Time!-No Starch Press (2010).pdf
+Contemporary-Security-Management-Fourth-Edition.pdf
+Core Python Applications Programming [3rd Editon] (Prentice Hall 2012).pdf
+Corrie Haffly-The Photoshop Anthology_ 101 Web Design Tips, Tricks & Techniques-SitePoint (2006).pdf
+Cory Althoff - The Self-Taught Programmer_ The Definitive Guide to Programming Professionally (2016, Self-Taught Media).pdf
+Cory Althoff - The Self-Taught Programmer_ The Definitive Guide to Programming Professionally-Self-Taught Media (2016).pdf
+Cpp-for-Beginners_[www.ketabesabz.com].pdf
+Cracking the Coding Interview, 150 Programming Questions and Solutions (CareerCup 2008).pdf
+Craig Cook_ Jason Garber-Foundation HTML5 with CSS3 _ a modern guide and reference-Friends of Ed (2012).pdf
+Craig Sharkie, Andrew Fisher-Jump Start Responsive Web Design-SitePoint (2013).pdf
+CRC Big Data.pdf
+CRC LogicQL .pdf
+CRC.A.Concise.Handbook.of.Mathematics.Physics.and.Engineering.Sciences.143980639X.pdf
+CRC.Press Soft Computing and Its Applications.pdf
+Creating Apps in Kivy (O'reilly 2014).pdf
+Creating Flat Design Websites.pdf
+cs2013_ACM.pdf
+cs2013_web_final.pdf
+CSharp+Book+2016+Rob+Miles+8.2.pdf
+CUP.Computer.Science.with.MATHEMATICA.Theory.and.Practice.for.Science.Mathematics.and.Engineering.0521663954.pdf
+Cyber Threat!.pdf
+D.S. Malik - C++ Programming. Program Design including Data Structures-Cengage (2018).pdf
+Dai, Wenyun_ Gai, Keke_ Qiu, Meikang-Mobile applications development with Android_ technologies andalgorithms-Chapman and Hall_CRC (2017).pdf
+Dan Bader - Python Tricks_ A Buffet of Awesome Python Features-Dan Bader (2017).pdf
+Dan Cederholm, Ethan Marcotte-Handcrafted CSS_ More Bulletproof Web Design-New Riders Press (2009).pdf
+Dan Cederholm-CSS3 for Web Designers-A Book Apart (2014).pdf
+Dan Gookin - C All-in-One Desk Reference For Dummies-Wiley Publishing, Inc. (2004).pdf
+Dan Maharry-TypeScript revealed-Apress (2013).pdf
+Dan Sullivan - Google Cloud Certified Professional Cloud Architect Study Guide-Sybex (2022).pdf
+Dane Hillard - Practices of the Python Pro-Manning Publications (2020).pdf
+Daniel and Audrey Roy Greenfeld - Two Scoops of Django 1.11_ Best Practices for the Django Web Framework-Two Scoops Press (2017).pdf
+Daniel J. Velleman-How to Prove It_ A Structured Approach, 2nd Edition-Cambridge University Press (2006).pdf
+Daniel P. Friedman, Matthias Felleisen, Gerald J. Sussman-The Little Schemer - 4th Edition-The MIT Press (1995).pdf
+Daniel P. Friedman, Matthias Felleisen-The Seasoned Schemer  -MIT Press (1996).pdf
+Daniel P. Friedman, Mitchell Wand, Christopher T. Haynes-Essentials of Programming Languages-MIT Press (2001).pdf
+Daniel P. Friedman, Mitchell Wand-Essentials of Programming Languages-The MIT Press (2008).pdf
+Daniel P. Friedman, William E. Byrd, Oleg Kiselyov-The Reasoned Schemer-MIT Press (2005).pdf
+Daniel Roy Greenfield, Audrey Roy Greenfield - Django Crash Course (2020).pdf
+Daniel Zingaro - Algorithmic Thinking_ A Problem-Based Introduction-No Starch Press (2020).pdf
+Daniel Zingaro - Learn to Code by Solving Problems_ A Python Programming Primer (2021, No Starch Press) - libgen.li.pdf
+Danny Kopec, Christopher Pileggi, David Ungar, Shweta Shetty - Artificial Intelligence and Problem Solving (2016, Mercury Learning & Information).pdf
+Darren Jones-javascript  Novice to Ninja-SitePoint (2014).pdf
+Data Algorithms (O'Reilly 2016).pdf
+Data Mining The Textbook.pdf
+Data Science from Scratch, First Principles with Python (O'Reilly 2015).pdf
+Data Scientists at Work.pdf
+Data Structures and Algorithm Analysis in Java [3rd Edition, Solutions] (2012).pdf
+Data Structures and Algorithm Analysis in Java[3rd Edition] (Pearson 2012).pdf
+Data Structures and Algorithms in Python (Wiley 2013).pdf
+Data Structures and Algorithms Using Python (Wiley 2011).pdf
+Data Structures And Algorithms Wit.pdf
+Data Structures and Algorithms with Python (Springer 2015).pdf
+Data Visualization with Python and JavaScript_ Scrape, Clean, Explore & Transform Your Data (O’Reilly 2016).pdf
+Data Wrangling with Python, Tips and Tools to Make Your Life Easier (O'Reilly 2016).pdf
+Data-Mining-and-Analysis-Fundamental-Concepts-and-Algorithms.pdf
+Data-Mining-The-Textbook.pdf
+Data-Science-For-Dummies.pdf
+Database Step by Step.Fa.pdf
+Database Systems, 4th Edition.pdf
+Database Systems.pdf
+Database-Management-Systems-Third-Edition.pdf
+Databases- A Beginner's Guide.pdf
+Databases-A-Beginner-s-Guide.pdf
+Date, C. J-SQL and relational theory _ how to write accurate SQL code-O'Reilly Media (2015).pdf
+Dave Brueck, Stephen Tanner-Python 2.1 Bible-Wiley (2001).pdf
+Dave Hoover, Adewale Oshineye Apprenticeship Patterns- Guidance for the Aspiring Software Craftsman.pdf
+Dave Shreiner, Graham Sellers, John M. Kessenich, Bill M. Licea-Kane-OpenGL Programming Guide_ The Official Guide to Learning OpenGL, Version 4.3-Addison-Wesley Professional (2013)_2.pdf
+Dave Taylor, Brandon Perry - Wicked Cool Shell Scripts (2016, No Starch Press).pdf
+Davender S Malik (Seventh Edition)_ Malik, D S-C++ Programming_ Program Design Including Data Structures (2016).pdf
+David B. Kirk, Wen-mei W. Hwu-Programming massively parallel processors_ A hands-on approach-Elsevier _ Morgan Kaufmann (2012).pdf
+David Benatar - Better Never to Have Been_ The Harm of Coming into Existence-Oxford University Press, USA (2006).pdf
+David Benatar - The human predicament _ a candid guide to life's biggest questions-Oxford University Press (2017).pdf
+David Griffiths, Dawn Griffiths-Head First C-O'Reilly Media (2012).pdf
+David Harris, Sarah Harris - Digital Design and Computer Architecture, Second Edition (2012, Morgan Kaufmann).pdf
+David Hughes-Fundamentals of Computer Science using Java-Jones and Bartlett Publishers, Inc. (2002).pdf
+David Julian-Designing Machine Learning Systems with Python-Packt Publishing (2016).pdf
+David Kopec - Classic Computer Science Problems in Python-Manning Publications (2019).pdf
+David Kushner-Masters of Doom_ How Two Guys Created an Empire and Transformed Pop Culture (2003).pdf
+David Love - Tkinter GUI programming by example (2018, Packt Publishing) - libgen.lc.pdf
+David M. Reed, John Zelle-Data Structures and Algorithms  Using Python and C++-Franklin Beedle & Assoc (2009).pdf
+David Powers-Beginning CSS3-Apress (2012).pdf
+David Powers-Getting StartED with CSS-Friends of Ed Books _, Distributed by Springer-Verlag (2009).pdf
+David R. Brooks (auth.)-Guide to HTML, JavaScript and PHP_ For Scientists and Engineers-Springer-Verlag London (2011).pdf
+David Sawyer McFarland-CSS_ The Missing Manual-O'Reilly Media (2015).pdf
+David Watson, Helen Williams - Cambridge International AS and A Levels Computer Science (2020, Hodder Education) - libgen.li.pdf
+Davy Cielen, Arno Meysman, Mohamed Ali-Introducing Data Science_ Big Data, Machine Learning, and more, using Python tools-Manning Publications (2016).pdf
+DeBarros Anthony - Practical SQL_ A Beginner’s Guide to Storytelling with Data-No Starch Press (2018).pdf
+Deborah J. Rumsey - Statistics For Dummies-For Dummies (2011).pdf
+Deep-Learning-with-Python.pdf
+Deitel, Paul_Deitel, Harvey - Visual C# How to Program-Pearson (2016).pdf
+Denise M. Woods, William J. Dorin-HTML5 and CSS_ Comprehensive-Cengage Learning (2012).pdf
+Denise R. Jacobs-CSS Detective Guide_ Tricks for solving tough CSS mysteries, The-New Riders Press (2010).pdf
+Dennis Hutten - Git_ Learn Version Control with Git_ A step-by-step Ultimate beginners Guide.pdf
+Derivatives Analytics with Python.pdf
+Deshpande, Balachandre_ Kotu, Vijay - Data science_ concepts and practice-Elsevier (2019).pdf
+Design Interface (O'reilly 2011).pdf
+Design of Logic-based Intelligent Systems.pdf
+Design Pattern (Wordware Pub 2007).pdf
+Design Patterns Elements of Reusable Object-Oriented Software (Addison-Wesley Professional 1994).pdf
+Design-Theory.pdf
+Designed for Use.pdf
+Designing for Performance.pdf
+Designing Machine Learning Systems with Python (Packt 2016).pdf
+Designing Products People Love.pdf
+Designing Social Interfaces.pdf
+Dey, Pradip_ Ghosh, Manas-Computer fundamentals and programming in C-Oxford University Press (2013).pdf
+Dhananjay Damdhere - Operating Systems 1(2008, McGraw-Hill).pdf
+Dietmar Hildenbrand - The Power of Geometric Algebra Computing_ For Engineering and Quantum Computing-Chapman and Hall_CRC (2021).pdf
+Digging Into WordPress.pdf
+Digital Design (Wiley 2006) {scaned}.pdf
+Digital Design and Computer Architecture [Second Edition, Solutions] (Morgan Kaufmann 2012).pdf
+Digital Design and Computer Architecture [Second Edition] (Morgan Kaufmann 2012).pdf
+Digital Design Principles and Practices [3rd Edition] (Prentice Hall 2000).pdf
+Digital Design, A Systems Approach (Cambridge University Press 2012).pdf
+Digital Design, With an Introduction to the Verilog HDL (Prentice Hall 2012).pdf
+Digital Image Proccessing (Spring 2016).pdf
+Digital Speech, 2nd Edition.pdf
+Dino Esposito, Francesco Esposito-Start Here! Build Windows 8 Apps with HTML5 and JavaScript-Microsoft Press (2013).pdf
+Discovering Computers - Fundamentals - Your Interactive Guide to the Digital World  (Course Technology 2011).pdf
+Discovering Computers Complete - Your Interactive Guide to the Digital World (Course Technology 2012).pdf
+Discrete Mathmematics For Computer Scientist (Pearson 2011).pdf
+Discrete Mathmematics For Computer Scientist [Answers Main].pdf
+Discrete Mathmematics For Computer Scientist [Solutions Version 1].pdf
+Discrete-Mathematics-An-Open-Introduction.pdf
+Dive Into Python 3 (CreateSpace 2010).pdf
+Django 1.0 Template Development (Packt 2015).pdf
+Django 1.0 Website Development (Packt 2009).pdf
+Django by Example (Packt 2015).pdf
+Django Design Patterns and Best Practice (Packt 2015).pdf
+Django JavaScript Integration_ AJAX and JQuery (Packt 2011).pdf
+DK - Science Year by Year.  A Visual History, From Stone Tools to Space Travel-DK Children (2017).pdf
+DK-Coding Projects in Python-DK Children (2017).pdf
+Dmitry Jemerov, Svetlana Isakova - Kotlin in Action (2017, Manning Publications).pdf
+Doing Math with Python, Use Programming to Explore Algebra, Statistics, Calculus, and More! (No Starch Press 2015).pdf
+Domain-Driven Design,Tackling Complexity in the Heart of Software(Addison Wesley 2003).pdf
+Don Cowan-HTML5 Canvas For Dummies-Wiley (2012).pdf
+Don Nguyen-Jump Start Node.js-SitePoint (2012).pdf
+Donald E. Knuth-The Art of Computer Programming, Vol. 1_ Fundamental Algorithms, 3rd Edition-Addison-Wesley Professional (1997).pdf
+Donald E. Knuth-The Art of Computer Programming, Volume 4, Fascicle 6_ Satisfiability-Addison-Wesley Professional (2015).pdf
+Donald E. Knuth-The Art of Computer Programming, Volume 4A_ Combinatorial Algorithms, Part 1. Volume 4A_ Combinatorial Algorithms, Part 1-Addison-Wesley Professional (2011).pdf
+Donald E. Knuth-The art of computer programming. Vol.2. Seminumerical algorithms-Addison-Wesley Professional (1997).pdf
+Donald E. Knuth-The Art of Computer Programming_ Volume 3_ Sorting and Searching-Addison-Wesley Professional (1998).pdf
+Dorling Kindersley - Help Your Kids with Computer Science_ A Unique Visual Step-by-Step Guide to Computers, Coding, and Communication (2018, DK Publishing).pdf
+Doug Lowe - Networking All-in-One For Dummies, 6th Edition (2016, Wiley).pdf
+Douglas Crockford-JavaScript_ The Good Parts (2008).pdf
+Douglas McIlwraith, Haralambos Marmanis, Dmitry Babenko-Algorithms of the Intelligent Web-Manning Publications (2016).pdf
+Dr Simon J. D. Prince-Computer Vision_ Models, Learning, and Inference-Cambridge University Press (2012).pdf
+Dr. M. O. Faruque Sarker, Sam Washington-Learning Python Network Programming-Packt Publishing (2015).pdf
+Dr. M. O. Faruque Sarker-Python Network Programming Cookbook-Packt Publishing (2014).pdf
+Dushyant Kanungo-Instant Migration to HTML5 and CSS3 How-to-Packt Publishing (2013).pdf
+Dusty Phillips - Python 3 Object-oriented Programming-Packt Publishing (2015).pdf
+Dusty Phillips - Python 3 Object-oriented Programming_ Building robust and maintainable software with object oriented design patterns in Python-Packt Publishing (2015).pdf
+Dynamic SQL.pdf
+Dynamic-Logic-Foundations-of-Computing-.pdf
+Dzejla Medjedovic, Emin Tahirovic - Algorithms and Data Structures for Massive Datasets-Manning Publications (2022).pdf
+E. R. Davies-Computer and Machine Vision. Theory, Algorithms, Practicalities-Academic Press (2012).pdf
+Earle Castledine, Craig Sharkie-jQuery_ Novice to Ninja-SitePoint (2010)1.pdf
+Ed Burnette-Hello, Android_ Introducing Google’s Mobile Development Platform-Pragmatic Bookshelf (2015).pdf
+Ed Finn-What Algorithms Want_ Imagination in the Age of Computing-MIT Press (2017).pdf
+Ed Tittel, Chris Minnick-Beginning HTML5 and CSS3 For Dummies-Wiley (2013).pdf
+Edward Ashford Lee, Sanjit Arunkumar Seshia-Introduction to embedded systems_ a cyber-physical systems approach-MIT Press (2017).pdf
+Edward Guiness - Ace the Programming Interview_ 160 Questions and Answers for Success (2013, Wiley).pdf
+Edward K. Blum (auth.), Edward K. Blum, Alfred V. Aho (eds.)-Computer Science_ The Hardware, Software and Heart of IT    -Springer-Verlag New York (2011).pdf
+Effective C++ 42 Specific ways to improve your programs and designs [2nd ed] (O'reily Media 2015).pdf
+Effective Java (Addison-Wesley 2008).pdf
+Effective Python 59 Specific Ways to Write Better Python (Addison-Wesley 2015).pdf
+Effective UI.pdf
+Egor Kuryanovich, Shy Shalom, Russell Goldenberg, Mathias Paumgarten, David Strauss, Seb Lee-Delisle, Gaëtan Renaudeau, Jonas Wagner, Jonathan Bergknoff, Rob Hawkes, Brian Danchilla-HTML5 Games Most W.pdf
+Eiji Oki-Linear Programming and Algorithms for Communication Networks_ A Practical Guide to Network Design, Control, and Management-CRC Press (2012).pdf
+El-Sayed, Abdulrahman M._ Galea, Sandro - Systems science and population health (2017, Oxford University Press).pdf
+Electronics-All-in-One-For-Dummies.pdf
+Elementary Number Theory with Programming.pdf
+Elements of programming interviews the insiders' guide (CSI 2012).pdf
+Elements-of-Compiler-Design.pdf
+Elements-of-Programming.pdf
+Elisabeth Freeman, Eric Freeman, Bert Bates, Kathy Sierra-Head First Design Patterns-O Reilly Media (2004).pdf
+Elisabeth Robson, Eric Freeman-Head First HTML and CSS-O'Reilly Media (2012) - Copy.pdf
+Elizabeth Castro, Bruce Hyslop-HTML5 & CSS3 Visual QuickStart Guide-Peachpit Press (2011).pdf
+Elizabeth de Freitas, Nathalie Sinclair, Alf Coles - What is a Mathematical Concept_ (2017, Cambridge University Press).pdf
+Elliot B. Koffman, Paul A. T. Wolfgang-Data Structures  Abstraction and Design Using Java-Wiley (2015).pdf
+Emanuel Leeuwenberg, Peter A. van der Helm-Structural information theory_ the simplicity of visual form-Cambridge University Press (2013).pdf
+Engineering a Compiler, Second Edition (MK 2012) Solution.pdf
+Engineering a Compiler, Second Edition (MK 2012).pdf
+Engineering Innovative Products.pdf
+Epp S.S.-Discrete mathematics with applications-Brooks Cole (2010).pdf
+Eric Freeman, Elisabeth Robson - Head First Design Patterns_ Building Extensible and Maintainable Object-Oriented Software-O'Reilly Media (2020).pdf
+Eric Matthes - Python Crash Course A Hands-On, Project-Based Introduction to Programming (2016, No Starch Press).pdf
+Eric Matthes - Python Crash Course_ A Hands-On, Project-Based Introduction to Programming-No Starch Press (2019).pdf
+Eric Meyer-Smashing CSS_ Professional Techniques for Modern Layout-Wiley (2010).pdf
+Eric Redmond, Jim R. Wilson-Seven Databases in Seven Weeks_ A Guide to Modern Databases and the NoSQL Movement-Pragmatic Bookshelf (2012).pdf
+Eric S. Raymond-The Art of UNIX Programming-Addison-Wesley Professional (2003).pdf
+Eric T Freeman, Elisabeth Robson-Head First HTML5 Programming_ Building Web Apps with JavaScript  -O'Reilly Media (2011).pdf
+Erik Hellman-Android Programming_ Pushing the Limits-Wiley (2013).pdf
+Erwin B Montgomery  Jr - Deep brain stimulation programming_ mechanisms, principles, and practice-Oxford University Press (2017).pdf
+Essential SQLAlchemy (O'reilly 2008).pdf
+Essential XML Quick Reference.pdf
+Estelle   Weyl, Louis   Lazaris, Alexis Goldstein-HTML5 & CSS3 For The Real World-SitePoint (2011).pdf
+Estelle Weyl-Mobile HTML5-O'Reilly Media (2013).pdf
+Ethan Holmes, Tom Bray-Getting Started with React Native_ Learn to build modern native iOS and Android applications using JavaScript and the incredible power of React-Packt Publishing (2015).pdf
+Ethan M. Rasiel-The McKinsey Way_ Using the Techniques of the World's Top Strategic Consultants to Help You and Your Business-McGraw-Hill (1999).pdf
+Ethem Alpaydin - Machine Learning.  The New AI (2017, The MIT Press).pdf
+Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley-UNIX and Linux System Administration Handbook (4th Edition)-Prentice Hall (2010).pdf
+Expert Python Programming, 2nd Edition.pdf
+Expert Python Programming, Best practices for designing, coding, and distributing your Python software (Packt Publishing 2008).pdf
+Expert Python Programming.pdf
+FABRIZIO KRUGER HEINRICH ROMANO - LEARN PYTHON PROGRAMMING - an in -depth introduction to the fundamentals of python. (2021, PACKT PUBLISHING LIMITED) - libgen.li.pdf
+Fabrizio Romano - Learn Python Programming -Packt (2018).pdf
+Faithe Wempen M.A.-Start Here! Learn HTML5-Microsoft Press (2012) - Copy.pdf
+Faithe Wempen-HTML5 Step by Step (Step By Step (Microsoft))-Microsoft Press (2011).pdf
+Farrell, P. - Math Adventures with Python_ An Illustrated Guide to Exploring Math with Code-No Starch Press (2019).pdf
+Federico Marani - Practical Django 2 and Channels 2_ Building Projects and Applications with Real-Time Capabilities-Apress (2019).pdf
+Ferland K. - Discrete mathematics_ An introduction to proofs and combinatorics (2009, Houghton).pdf
+Fernando Monteiro-AngularJS Directives Cookbook_ Extend the capabilities of AngularJS and build dynamic web applications by creating customized directives with this selection of more than 30 recipes-P.pdf
+Flask Blueprints (Packt 2015).pdf
+Flask By Example (Packt 2016).pdf
+Flask Framework Cookbook (Packt 2014).pdf
+Flask Web Development Developing Web Applications with Python (OReilly 2014).pdf
+Foundation-Mathematics-for-Computer-Science-A-Visual-Approach.pdf
+Foundations of computer science (Computer Science Press 1995).pdf
+Foundations Of Programming Langua.pdf
+Foundations of Python Network  Programming [3rd Edition] (Apress 2014).pdf
+Fox, Armando_ Patterson, David A. - Engineering software as a service _ an Agile approach using cloud computing (2014).pdf
+Frank L. Friedman, Elliot B. Koffman-Problem Solving, Abstraction, and Design using C++-Prentice Hall (2010).pdf
+Frank Werner, Larysa Burtseva, Yuri Sotskov - Algorithms for Scheduling Problems (2018).pdf
+Frederick P. Brooks The Mythical Man-Month. Essays on Software Engineering, Anniversary Edition.pdf
+Frédéric Harper (auth.)-Success in Programming_ How to Gain Recognition, Power, and Influence through Personal Branding-Apress (2015).pdf
+Functional Python Programming (Packt Publishing 2015).pdf
+Fundamentals Of Business Process M.pdf
+Fundamentals of Information Systems (Course Technology 2012).pdf
+Fundamentals Of Java Programming.pdf
+Fundamentals of Logic Design [Solutions] (Cengage Learning 2013).pdf
+Fundamentals of Logic Design-(Cengage Learning 2013).pdf
+Fundamentals of Programming Languages (Combridge 1983).pdf
+Fundamentals of Python Data Structures (Cengage Learning PTR 2013).pdf
+Fundamentals of Python, First Programs (Cengage Learning 2011).pdf
+Fundamentals of Python, From First Programs through Data Structures (Course Technology, Cengage Learning 2010).pdf
+Fundamentals of Web Development (Pearson 2014).pdf
+Fundamentals-of-Machine-Learning-for-Predictive-Data-Analytics.pdf
+FUNDAMENTALSOF Database Systems SIXTHEDITION Elmasri .pdf
+Furqan Khan - Hands-On Penetration Testing with Python Enhance your ethical hacking skills to build automated and intelligent systems (2019).pdf
+Fuyun Ling - Synchronization in Digital Communication Systems (2017, Cambridge University Press).pdf
+G.Michael Schneider, Judith Gersting-Invitation to Computer Science-Course Technology (2015).pdf
+Gaddis, Tony - Starting out with Python (2017, Pearson).pdf
+Gary B. Shelly, Denise M. Woods-HTML, XHTML, and CSS_ Complete , Sixth Edition (Shelly Cashman)  -Course Technology (2010).pdf
+Gary Chartrand & Ping Zhang - A First Course in Graph Theory (0).pdf
+Gary William Flake-The Computational Beauty of Nature_ Computer Explorations of Fractals, Chaos, Complex Systems, and Adaptation-The MIT Press (1998).pdf
+Gaston C. Hillar - Django RESTful Web Services_ The easiest way to build Python RESTful APIs and web services with Django (2018, Packt Publishing).pdf
+Gaston C. Hillar - Learning Object-Oriented Programming (2015, Packt Publishing).pdf
+Gaurav Gupta-Mastering HTML5 Forms-Packt Publishing (2013).pdf
+Gautam Shroff-Enterprise Cloud Computing_ Technology, Architecture, Applications-Cambridge University Press (2010).pdf
+Gavin Dudeney, Nicky Hockly-Learning English as a Foreign Language for Dummies-John Wiley & Sons Ltd.pdf
+Gayle_Laakmann_McDowell_Cracking_the_Coding_Interview_189_Programming_Questions_and_Solutions.pdf
+Geng Lin, Eileen Liu (auth.), Borko Furht, Armando Escalante (eds.)-Handbook of Data Intensive Computing  -Springer-Verlag New York (2011).pdf
+George Coulouris, Jean Dollimore, Tim Kindberg, Gordon Blair-Distributed Systems_ Concepts and Design  -Addison Wesley (Pearson Education Inc.) (2011).pdf
+George Richard Yool-Practical Algorithms-CreateSpace Independent Publishing Platform (2014).pdf
+Geraldine Woods-English Grammar For Dummies, 2nd Ed. (2010).pdf
+Geraldine Woods-English Grammar Workbook For Dummies-Wiley (2006).pdf
+Gerard O’Regan - The Innovation in Computing Companion_ A Compendium of Select, Pivotal Inventions-Springer (2018).pdf
+Gianluca Guarini, Aravind Shenoy-HTML5 and CSS3 Transition, Transformation, and Animation-Packt Publishing (2013).pdf
+Gilad Bracha-The Dart Programming Language-Addison-Wesley (2015).pdf
+Giovanni DiFeterici-The Web Designer's Roadmap-SitePoint (2012).pdf
+Giovanni Sommaruga, Thomas Strahm (eds.)-Turing's Revolution_ The Impact of His Ideas about Computability-Birkhäuser (2016).pdf
+Giuseppe Primiero - On the Foundations of Computing (2020, Oxford University Press) - libgen.lc.pdf
+Glenn Johnson-Training Guide_ Programming in HTML5 with JavaScript and CSS3-Microsoft Press (2013).pdf
+Glyn Moody-Rebel Code_ Linux and the Open Source Revolution-Basic Books (2002).pdf
+Go Systems Programming-Master-Linux-and-Unix-system-level-programming-with-Go.pdf
+Goal Kicker - Python Notes for Professionals (2018).pdf
+GoalKicker.com - Git Notes For Professionals. 100+ pages of professional hints and tricks-GoalKicker.com (2018).pdf
+Good Math.pdf
+Good-Habits-for-Great-Coding-Improving-Programming-Skills-with-Examples-in-Python.pdf
+Gopinath Jaganmohan, Venkateshwaran Loganathan-PySide GUI Application Development - Second Edition-Packt Publishing (2016).pdf
+Gowrishankar S., Veena A. - Introduction to Python Programming-CRC (2019).pdf
+Graham Sellers, John Kessenich-Vulkan Programming Guide  The Official Guide to Learning Vulkan (OpenGL)-Addison-Wesley (2016).pdf
+Graph Databases.pdf
+Greenwell, Raymond N._ Lial, Margaret L._ Ritchey, Nathan P - Calculus with applications (2017, Pearson Education Limited).pdf
+Greig S.-CSS3 Pushing the Limits-John Wiley & Sons Ltd (2013).pdf
+Growing-Object-Oriented-Software-Guided-by-Tests.pdf
+Guide To Competitive Programming.pdf
+Guide To Computer Network Security.pdf
+Guide To Discrete Mathematics.pdf
+Guy Hart-Davis-HTML, XHTML & CSS QuickSteps (2009).pdf
+Gábor László Hajba - Website Scraping with Python_ Using BeautifulSoup and Scrapy-Apress (2018).pdf
+Gödel, Escher, Bach_ An Eternal Golden Braid (Twentieth-Anniversary Edition)-Basic Books (1999).pdf
+H. Bhasin - Python Basics A Self-Teaching Introduction-Mercury (2019).pdf
+H. Davenport - The Higher Arithmetic_ An Introduction to the Theory of Numbers, 8th Edition (2008).pdf
+Hackers.pdf
+Hacking Vim 7.2 (Packt 2010).pdf
+Hanan Samet-Foundations of Multidimensional and Metric Data Structures (The Morgan Kaufmann Series in Computer Graphics)-Morgan Kaufmann (2006).pdf
+Handbook-of-Finite-Fields.pdf
+Hands-on Machine Learning with Sckit-Learn.pdf
+Hands-On-Machine-Learning-with-Scikit-Learn-and-TensorFlow-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems.pdf
+Hans Petter Langtangen-A Primer on Scientific Programming with Python-Springer (2016).pdf
+Hard Aglorithm Problem solving FA 1399.pdf
+Hari Mohan Pandey - Object - Oriented Programming C++ Simplified-Laxmi Publications (2017).pdf
+Harold Abelson Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science).pdf
+Harry H. Chaudhary-Algorithms.  Professional Edition. Beginner’s Guide-Programmers Mind Inc (2014).pdf
+Harry Harrison, Marvin Minsky - The Turing Option_ A Novel-Little, Brown and Company (1992).pdf
+Harry J.M. Percival_ Bob Gregory - Architecture Patterns with Python. (2021, O'Reilly) - libgen.li.pdf
+Harvey M. Deitel, Paul Deitel, David R. Choffnes - Operating Systems (2003, Prentice Hall).pdf
+Harvey M. Deitel_ Paul J. Deitel - Java how to program _ late objects _ introducing JShell (2020).pdf
+Head First 2D Geometry_2.pdf
+Head First Object-Oriented Analysis and Design (O'Reilly Media 2006) {scaned}.pdf
+Head First Physics_2.pdf
+Head First Programming, A Learner's Guide to Programming Using the Python Language (O'Reilly Media 2009).pdf
+Head First Python.pdf
+Head First Statistics_2.pdf
+Head First Web Design.pdf
+Head-First-Learn-to-Code-A-Learner-s-Guide-to-Coding-and-Computational-Thinking.pdf
+Healey, Christopher Graham-Disk-based algorithms for big data-CRC Press Taylor & Francis Group (2017).pdf
+Healthy SQL.pdf
+Heartin Kanikathottu - Serverless Programming Cookbook - Practical solutions to building serverless applications using Java and AWS.-Apress (2020).pdf
+Heikki Topi, Allen Tucker-Computing Handbook, Third Edition_ Information Systems and Information Technology-Chapman and Hall_CRC (2014).pdf
+Hello Raspberry Pi!_ Python programming for kids and other beginners (Manning 2016).pdf
+Hello Wrold, Computer Programming for Kids and Ohter Beginners(Maning 2014).pdf
+Hello! Python (Maning 2012).pdf
+Hello, Startup_2.pdf
+Hemant Jain - Problem Solving in Data Structures & Algorithms Using C++_ Programming Interview Guide (2017, CreateSpace Independent Publishing Platform).pdf
+Hemant_Jain-Problem_Solving_-Sense Guide to Data Structures and Algorithms_ Level Up Your Core Programming Skills-Pragmatic .pdf
+Henrik Brink, Joseph Richards, Mark Fetherolf - Real-World Machine Learning-Manning Publications (2016).pdf
+Henry Bojack-New Perspectives on Blended HTML, XHTML, and CSS_ 2nd Edition - Introductory (New Perspectives (Course Technology Paperback))  -Course Technology (2009).pdf
+Henry S. Warren-Hacker's delight-Addison-Wesley (2003).pdf
+Hernandez, Michael James-Database design for mere mortals_ a hands-on guide to relational database design-Addison-Wesley Professional (2013).pdf
+High Performance Python_ Practical Performant Programming for Humans (O'Reilly Media 2014).pdf
+Himanshu Singh - Practical Machine Learning and Image Processing_ For Facial Recognition, Object Detection, and Pattern Recognition Using Python-Apress (2019).pdf
+Hobson Lane, Hannes Hapke, Cole Howard - Natural Language Processing in Action_ Understanding, analyzing, and generating text with Python-Manning Publications (2019).pdf
+Hot Seat.pdf
+How computers really work _ a hands-on guide to the inner workings of the machine-No Starch Press (2021).pdf
+How Computers Work, 8th Edition (QUE 2004).pdf
+How to Design Programs (Addison Wesley 2000).pdf
+How to Make Mistakes in Python.pdf
+How to Think Like a Computer Scientist, Learning with Python (Green Tea Press 2002).pdf
+how-to-create-an-operating-system.pdf
+HTML, XHTML, and CSS Bible, 5th Edition.pdf
+HTML5 For Dummies.pdf
+Hughes J.F., et al.-Computer graphics. Principles and practice-AW (2014).pdf
+Human-and-Machine-Learning-Visible-Explainable-Trustworthy-and-Transparent_2.pdf
+I. Scott MacKenzie - Human-Computer Interaction_ An Empirical Research Perspective (2013, Morgan Kaufmann).pdf
+Ian Griffiths-Programming C_ 5.0_ Building Windows 8, Web, and Desktop Applications for the .NET 4.5 Framework-O'Reilly Media (2012).pdf
+Ian Lloyd-Build Your Own Website The Right Way Using HTML & CSS-SitePoint (2011).pdf
+Ian Lunn-CSS3 Foundations-Ian Lunn (2013).pdf
+Ian Pouncey, Richard York-Beginning CSS_ Cascading Style Sheets for Web Design, 3rd Edition  -Wrox (2011).pdf
+Image Processing, 2nd Edition.pdf
+Implementation-Patterns.pdf
+Information Architecture, 4th Edition_2.pdf
+Information Fusion in Signal and Image Processing.pdf
+Information Security The Complete Reference, 2nd Edition.pdf
+Instant Flask Web Development (Packt 2013).pdf
+Intellectual Property and Open Source.pdf
+Interactive Segmentation Techniques.pdf
+Intermidate Python.pdf
+Internet & World Wide Web How to Program 5th Edition.pdf
+Internet of Things with Python.pdf
+Internet-World-Wide-Web-How-to-Program-Fourth-Edition.pdf
+Introducing Python, Modern Computing in Simple Packages (O'Reilly 2015).pdf
+Introducing SQLite for Mobile Developers.pdf
+Introduction to Algorithms (MIT 2009.pdf
+Introduction To Algorithms Solutions Instructors Manual-McGraw(2003).pdf
+Introduction to Algorithms, Third Edition (MIT 2009).pdf
+Introduction To Artificial Intell.pdf
+Introduction To Automata Theory, Languages, And Computation (Addison Wesely 2001).pdf
+Introduction to Computation and Programming Using Python (MIT Press 2013).pdf
+Introduction to Computer Science Using Python, A Computational Problem-Solving Focus (Wiley 2012).pdf
+Introduction to Data Science.pdf
+Introduction To Deep Learning.pdf
+Introduction to Digital Systems.pdf
+Introduction to Languages and the Theory of Computation Fourth Ed 2011 (Solution).pdf
+Introduction to Languages and the Theory of Computation Fourth Ed 2011.pdf
+Introduction To Parallel Computin.pdf
+Introduction to Programming Using Python (Prentice Hall 2012).pdf
+Introduction to Python Programming and Developing GUI Applications with PyQT (Course Technology, Cengage Learning 2012).pdf
+Introduction to the Design and Analysis of Algorithms 3e Anany Levitin 2012.pdf
+Introduction to the Design and Analysis of Algorithms [Solutions].pdf
+Introduction to the Theory of Computation-(Course Technology 2012).pdf
+Introduction-to-Artificial-Intelligence.pdf
+Introduction-to-Compiler-Design-.pdf
+Introduction-to-Mathematical-Logic-Sixth-Edition.pdf
+Introduction-to-the-Theory-of-Computation.pdf
+Introductory-Algebra.pdf
+Invent Your Own Computer Games With Python, 2nd Edition (AlbertSweigart 2010).pdf
+Invitation to Computer Science [5th Edition] (Course Technology 2009).pdf
+IPv6 Essentials, 3rd Edition.pdf
+IPython Notebook Essentials (Packt 2014).pdf
+Irv Kalb - Object-Oriented Python_ Master OOP by Building Games and GUIs (2022, No Starch Press) - libgen.li.pdf
+Ivan Vasilev, Daniel Slater, Gianmario Spacagna, Peter Roelants, Valentino Zocca - Python Deep Learning_ Exploring deep learning techniques, neural network architectures and GANs with PyTorch, Keras a.pdf
+J. Burton Browning, Marty Alchin - Pro Python 3_ Features and Tools for Professional Development-Apress (2019).pdf
+J. D. Graffam-CSS for Print Designers-New Riders Publishing (2011).pdf
+J. M. Gustafson-HTML5 Web Application Development By Example Beginner's guide-Packt Publishing (2013).pdf
+J. R. Parker-Python  An Introduction to Programming-Mercury Learning & Information (2016).pdf
+Jack Copeland, Jonathan Bowen, Mark Sprevak, Robin Wilson - The Turing Guide (2017, Oxford University Press).pdf
+Jacob Seidelin-HTML5 Games_ Creating Fun with HTML5, CSS3, and WebGL-Wiley (2011).pdf
+Jacob Turner - Robot Rules_ Regulating Artificial Intelligence-Palgrave Macmillan (2019).pdf
+Jacob Zimmerman-Python Descriptors-Apress (2017).pdf
+Jacqueline Kazil, Katharine Jarmul-Data Wrangling with Python_ Tips and Tools to Make Your Life Easier-O'Reilly Media (2016).pdf
+Jaime Buelta - Python Automation Cookbook_ 75 Python automation ideas for web scraping, data wrangling, and processing Excel, reports, emails, and more-Packt Publishing (2020).pdf
+James A. Brannan-Brilliant HTML & CSS-Pearson Prentice Hall (2009).pdf
+James Groff, Paul Weinberg-SQL_ The Complete Reference, Second Edition-McGraw-Hill Osborne Media (2002).pdf
+James L. Williams-Learning HTML5 game programming  a hands-on guide to building online games using Canvas, SVG, and WebGL  -Addison–Wesley (2012).pdf
+James Reinders, James Jeffers-High Performance Parallelism Pearls_ Multicore and Many-core Programming Approaches-Morgan Kaufmann (2014).pdf
+Jan L. Harrington - Relational Database Design and Implementation (2016, Morgan Kaufmann).pdf
+Jason Beaird-The Principles of Beautiful Web Design, 2nd Edition-SitePoint (2010).pdf
+Jason Beaird-The Principles of Beautiful Web Design-SitePoint (2007).pdf
+Jason Beaird-The Principles of Beautiful Web Design-SitePoint (2010).pdf
+Jason Cannon - Command Line Kung Fu_ Bash Scripting Tricks, Linux Shell Programming Tips, and Bash One-liners (2014, CreateSpace Independent Publishing Platform).pdf
+Jason Lee Elliott-HTML5 Game Development with GameMaker-Packt Publishing (2013).pdf
+Jason Lengstorf, Phil Leggetter-Realtime Web Apps_ With HTML5 WebSocket, PHP, and jQuery-Apress (2013).pdf
+Jason M. Kinser - Image Operators_ Image Processing in Python-CRC Press (2018).pdf
+Jason Myers, Rick Copeland - Essential Sqlalchemy_ Mapping Python to Databases (2015, O’Reilly Media).pdf
+Java How to Program, 9th Edition (Prentice Hall 2012).pdf
+Java Programming- From Problem Analysis to Program Design [5th Edition] (Course Technology 2012).pdf
+javascript-and-JQuery-Interactive-Front-End-Web-Development.pdf
+Jay McGavren - Head First Go Porgramming A Brain-Friendly Guide-O'Reilly Media (2019).pdf
+Jay_Wengrow-A_Common in Data Structures & Algorithms Using C++_ Interview preparation guide (2017).pdf
+Jean-Guillaume Dumas, Jean-Louis Roch, Éric Tannier, Sébastien Varrette-Foundations of Coding_ Compression, Encryption, Error Correction-Wiley (2015).pdf
+Jeanine Meyer - HTML5 and JavaScript Projects_ Build on your Basic Knowledge of HTML5 and JavaScript to Create Substantial HTML5 Applications-Apress (2018).pdf
+Jeanne Ellis Ormrod - How We Think and Learn_ Theoretical Perspectives and Practical Implications (2017, Cambridge University Press).pdf
+Jeff Barr-Host Your Web Site In The Cloud_ Amazon Web Services Made Easy_ Amazon EC2 Made Easy-SitePoint (2010).pdf
+Jeff Gothelf, Josh Seiden-Lean UX_ Applying Lean Principles to Improve User Experience-O'Reilly Media (2013).pdf
+Jeffrey Aven - Data Analytics with Spark Using Python-Addison-Wesley Professional (2018).pdf
+Jeffrey D. Ullman - Principles of Database & Knowledge-Base Systems_ Classical Database Systems Vol. 1(1990, Computer Science Press).pdf
+Jeffrey Way-Decoding HTML5-Rockable Press (2012).pdf
+Jeffrey Zeldman, Ethan Marcotte - Designing with Web Standards (3rd Edition)  -New Riders Press (2009).pdf
+Jennifer Golbeck - Analyzing the social Web (2013, Elsevier _ Morgan Kaufmann).pdf
+Jennifer Niederst Robbins-HTML5 Pocket Reference-O'Reilly Media (2013).pdf
+Jennifer Niederst Robbins-Learning Web Design_ A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics-O'Reilly Media (2012).pdf
+Jennifer Robbins - Learning Web Design_ A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics (2018, 5th edition, O'Reilly Media).pdf
+Jens Oliver Meiert-The Little Book of HTML_CSS Frameworks-O'Reilly (2015).pdf
+Jeremy Watt, Reza Borhani, Aggelos K. Katsaggelos-Machine Learning Refined_ Foundations, Algorithms, and Applications-Cambridge University Press (2016).pdf
+Jeroen Janssens - Data Science at the Command Line_ Obtain, Scrub, Explore, and Model Data with Unix Power Tools-O'Reilly Media (2021).pdf
+Jerome H. Saltzer, M. Frans Kaashoek - Principles of Computer System Design_ An Introduction (2009, Morgan Kaufmann).pdf
+Jesse Cravens, Jeff Burtoft-HTML5 Hacks-O'Reilly Media (2013).pdf
+Jesse Feiler-Introducing SQLite for Mobile Developers-Apress (2015).pdf
+Jesse Freeman-Introducing HTML5 Game Development-O'Reilly Media (2012).pdf
+Jesse Legg-Django 1.2 e-commerce-Packt Publishing (2010).pdf
+Jessica Minnick - Rersponsive Web Design with HTML 5 and CSS (2021, Cengage) - libgen.li.pdf
+Jessica Minnick_ Lisa Friedrichsen-Web Design with HTML & CSS3 Comprehensive-Course Technology (2016).pdf
+Jim Highsmith-Adaptive Leadership_ Accelerating Enterprise Agility-Addison-Wesley (2014).pdf
+Jim Lavin-AngularJS Services-Packt Publishing - ebooks Account (2014).pdf
+Jim Wendler - 5_3_1 Forever Simple and Effective Programming for Size, Speed, and Strength-Jim Wendler LLC (2017).pdf
+Jina Bolton, Derek Featherstone, Tim Connell-Fancy Form Design-SitePoint (2009).pdf
+Jo Van Hoey - Beginning x64 Assembly Programming From Novice to AVX Professional-apress (2019).pdf
+Joanna F. DeFranco, Mohamad Kassab - What Every Engineer Should Know About the Internet of Things-CRC Press (2021).pdf
+Jodie Moule-Killer UX Design-SitePoint (2012).pdf
+Joe Armstrong-3D Game Programming for Kids  Create Interactive Worlds with JavaScrip-Pragmatic Bookshelf (2013).pdf
+Joe Duffy-Concurrent Programming on Windows (2008).pdf
+Joe Lewis, Meitar Moscovitz-AdvancED CSS-Friends of ED_ Distributed to the book trade worldwide by Springer-Verlag (2009).pdf
+Joel Grus - Data Science from Scratch_ First Principles with Python-O'Reilly Media (2019).pdf
+Joel Spolsky-The Best Software Writing I-Apress (2005).pdf
+John Borda, Ursula Comeau, Sherry Curry, Alex Dawson, Coyote Holmberg, Ralph Mason, Paul O'Brien, Christian Snodgrass, Robert Wellcock, Clive Wickham, Nuria Zuazo-Thinking Web_ Voices of the Community.pdf
+John David Stone - Algorithms for Functional Programming-Springer (2018).pdf
+John Dean - Web Programming with HTML5, CSS, and JavaScript-Jones & Bartlett Publishers (2019).pdf
+John Goerzen-Foundations of Python Network Programming (Foundations) (2004).pdf
+John Horton-Android Programming for Beginners-Packt Publishing - ebooks Account (2015).pdf
+John L. Viescas, Michael J. Hernandez-SQL Queries for Mere Mortals_ A Hands-on Guide to Data Manipulation in SQL [For Mere Mortals Series]-Addison-Wesley Professional (2007).pdf
+John L. Viescas, Michael J. Hernandez-SQL Queries for Mere Mortals_ A Hands-On Guide to Data Manipulation in SQL-Addison-Wesley (2014).pdf
+John M. Zelle-Python Programming_ An Introduction to Computer Science-Franklin, Beedle & Associates (2016).pdf
+John Mongan, Noah Kindler, Eric Giguère - Programming Interviews Exposed_ Coding Your Way Through the Interview-Wrox (2018).pdf
+John Morrison-Modern Physics, Second Edition_ for Scientists and Engineers-Academic Press (2015).pdf
+John Paul Mueller-HTML5 Programming with JavaScript For Dummies-Wiley (2013).pdf
+John Percival-HTML5 Advertising-Apress (2012).pdf
+John Resig, Bear Bibeault, Josip Maras - Secrets of the JavaScript Ninja-Manning (2016).pdf
+John Rittinghouse, James Ransome-Cloud Computing_ Implementation, Management, and Security-CRC Press (2009).pdf
+John V. Guttag - Introduction to Computation and Programming Using Python-The MIT Press (2021).pdf
+John V. Guttag - Introduction to Computation and Programming Using Python_ With Application to Understanding Data-The MIT Press (2016).pdf
+Jojo John Moolayil - Learn Keras for Deep Neural Networks_ A Fast-Track Approach to Modern Deep Learning with Python-Apress (2019).pdf
+Jon Bodner - Learning Go_ An Idiomatic Approach to Real-World Go Programming-O'Reilly Media (2021).pdf
+Jon Duckett - HTML and CSS_ Design and Build Websites (2011, Wiley).pdf
+Jon Duckett-HTML and CSS_ Design and Build Websites-Wiley (2011).pdf
+Jon Duckett-JavaScript and JQuery_ Interactive Front-End Web Development-Wiley (2014).pdf
+Jon Erickson-Hacking_ The Art of Exploitation-No Starch Press (2008).pdf
+Jon Loeliger, Matthew McCullough - Version Control with Git_ Powerful tools and techniques for collaborative software development-O’Reilly Media (2012).pdf
+Jon Skeet, Eric Lippert-C_ in Depth, 3rd Edition-Manning (2013).pdf
+Jon White-The Python Book-Imagine (2016).pdf
+Jon Woodcock, Carol Vorderman (foreword) - Computer Coding Projects for Kids_ A Step-by-Step Visual Guide to Creating Your Own Scratch Projects (2016, DK Publishing).pdf
+Jonathan Chaffer, Karl Swedberg-Learning jQuery-Packt Publishing (2013).pdf
+Jonathan E. Steinhart - The Secret Life of Programs_ Understand Computers — Craft Better Code-No Starch Press (2019).pdf
+Jonathan Fielding (auth.)-Beginning Responsive Web Design with HTML5 and CSS3-Apress (2014).pdf
+Jonathan Fielding-Beginning Responsive Web Design with HTML5 and CSS3-Apress (2014).pdf
+Jonathan Lane, Tom Barker, Joe Lewis, Meitar Moscovitz-Foundation Website Creation with HTML5, CSS3, and JavaScript-friendsofED (2012).pdf
+Jonathan Reid-HTML5 Programmer's Reference-Apress (2015).pdf
+Jonathan Snook-Scalable and Modular Architecture for CSS-Snook.ca Web Development, Inc. (2012).pdf
+Jonathan Yates-Python  Practical Python Programming For Beginners and Experts-CreateSpace Independent Publishing Platform (2016).pdf
+Jose M Garrido, Richard Schlesinger, Kenneth Hoganson - Principles of Modern Operating Systems (2011, Jones & Bartlett Learning).pdf
+Joseph Albahari, Ben Albahari-C_ 6.0 in a Nutshell, 6th Edition_ The Definitive Reference-O'Reilly Media (2015).pdf
+Joseph M. Hellerstein, Michael Stonebraker-Readings in Database Systems, 4th Edition-The MIT Press (2005).pdf
+Josephine Bush - Learn SQL Database Programming_ Query and manipulate databases from popular relational database servers using SQL (2020, Packt Publishing) - libgen.lc.pdf
+José Unpingco (auth.)-Python for Probability, Statistics, and Machine Learning-Springer International Publishing (2016).pdf
+Jouni Smed, Harri Hakonen-Algorithms and Networking for Computer Games-Wiley (2017).pdf
+Joyce Farrell - Java Programming (2019).pdf
+Joyce Farrell-Programming Logic and Design, Comprehensive, 7th Edition-Cengage Learning (2012).pdf
+Joyce Farrell-Programming Logic and Design, Comprehensive, 8th edition-Cengage Learning (2014).pdf
+Jr.  Jerry Lee Ford-HTML, XHTML, and CSS For The Absolute Beginner-Course Technology PTR (2009).pdf
+Julie Meloni, Jennifer Kyrnin - HTML, CSS, and JavaScript All in One_ Covering HTML5, CSS3, and ES6, Sams Teach Yourself-Sams Publishing (2018).pdf
+Julien Danjou - Serious Python_ Black-Belt Advice on Deployment, Scalability, Testing, and More-No Starch Press (2019).pdf
+Julien Danjou-The Hacker's Guide to Python-Lulu.com (2014).pdf
+Jump Start MySQL.pdf
+Juraj Hromkovic (auth.)-Algorithmic adventures_ from knowledge to magic-Springer-Verlag Berlin Heidelberg (2009).pdf
+Jure Leskovec, Anand Rajaraman, Jeffrey David Ullman-Mining of Massive Datasets-Cambridge University Press (2014).pdf
+K. C. Wang - Systems Programming in Unix_Linux (2018, Springer).pdf
+K. C. Wang - Systems Programming in Unix_Linux-Springer (2018).pdf
+K. M. Koh_ F. M. Dong_ E. G. Tay-Introduction to Graph Theory_ H3 Mathematics-World Scientific Publishing Company (2007).pdf
+Karen M. Tracey-Django 1.1 Testing and Debugging (2010).pdf
+Karl Beecher - Bad Programming Practices 101_ Become a Better Coder by Learning How (Not) to Program-Apress (2018).pdf
+Karl Beecher - Computational Thinking_ A Beginner’s Guide to Problem-Solving and Programming (2017, BCS, The Chartered Institute for IT).pdf
+Karl Bunyan-Build an HTML5 Game_ A Developer's Guide with CSS and JavaScript-No Starch Press (2015)_2.pdf
+Katharine Jarmul, Richard Lawson - Python Web Scraping_ Hands-on data scraping and crawling using PyQT, Selnium, HTML and Python-Packt Publishing (2017).pdf
+Kathy Walrath, Seth Ladd - Dart_ Up and Running_ A New, Tool-Friendly Language for Structured Web Apps-O'Reilly Media (2012).pdf
+Keith B. Carter-Actionable Intelligence_ A Guide to Delivering Business Results with Big Data Fast!-Wiley (2014).pdf
+Kelbert M., Suhov Y.-Information Theory and Coding by Example-Cambridge University Press (2013).pdf
+Kelvin Sung, Jebediah Pavleas, Fernando Arnez, Jason Pace (auth.)-Build Your Own 2D Game Engine and Create Great Web Games_ Using HTML5, JavaScript, and WebGL-Apress (2015).pdf
+Ken Arnold, James Gosling, David Holmes-The Java(TM) Programming Language (4th Edition) (2005).pdf
+Ken Schwaber, Jeff Sutherland-Software in 30 days_ how agile managers beat the odds, delight their customers, and leave competitors in the dust-Wiley (2012).pdf
+Ken Williamson-Learning AngularJS_ A Guide to AngularJS Development-O'Reilly Media (2015).pdf
+Kenneth A. Lambert - Fundamentals of Python_ First Programs, 2nd Edition-Cengage Learning (2017).pdf
+Kenneth C Louden_ Kenneth Alfred Lambert  - Programming languages_ principles and practice-Course Technology_Cengage Learning (2011).pdf
+Kenneth Reitz, Tanya Schlusser-The Hitchhiker’s Guide to Python_ Best Practices for Development-O’Reilly Media (2016).pdf
+Kenneth Rosen - Discrete Mathematics and Its Applications (2012, MGH).pdf
+Kevin Kline, Regina O. Obe, Leo S. Hsu - SQL in a Nutshell_ A Desktop Quick Reference (2022, O'Reilly Media) - libgen.li.pdf
+Kevin Yank, Cameron Adams-Simply JavaScript-SitePoint (2007).pdf
+Kevlin Henney-97 Things Every Programmer Should Know-O'Reilly Media Inc.pdf
+Kimmo Karvinen, Tero Karvinen-Getting Started with Sensors_ Measure the World with Electronics, Arduino, and Raspberry Pi-Maker Media, Inc (2014).pdf
+Kinser, Jason M - Image operators image processing in Python (2019).pdf
+Kirti Seth, Ashish Seth, Aprna Tripathi - Component-Based Systems_ Estimating Efforts Using Soft Computing Techniques (2020, CRC Press) - libgen.li.pdf
+Kirti Seth, Ashish Seth, Aprna Tripathi - Component-Based Systems_ Estimating Efforts Using Soft Computing Techniques (2020, CRC Press) - libgen.li_2.pdf
+Kiselev's Geometry [Book I Planimetry] (Sumizdat 2006).pdf
+Kivy - Interactive Applications and Games in Python, 2nd Edition (Packt 2015).pdf
+Kivy Blueprints-Packt Publishing - ebooks Account (2015).pdf
+Kivy Interactive Applications in Python (Packt 2013).pdf
+kivy.pdf
+Klaus Förster, Bernd Öggl-HTML5 Guidelines for Web Developers-Pearson (2011).pdf
+Kleppmann, Martin - Designing data-intensive applications_ the big ideas behind reliable, scalable, and maintainable systems-O'Reilly Media (2018).pdf
+Kostas Terzidis-Algorithms for visual design using the Processing language-Wiley (2009).pdf
+Kraig BrockschmidtProgramming-BrockschmidtProgramming Windows Store Apps with HTML, CSS, and javascript Second Edition Preview-Microsoft Press (2013).pdf
+kreyszig.pdf
+Kristian Rother (auth.) - Pro Python Best Practices_ Debugging, Testing and Maintenance (2017, Apress).pdf
+Kristofer Layon-The Web Designer's Guide to iOS Apps_ Create iPhone, iPod touch, and iPad apps with Web Standards (HTML5, CSS3, and JavaScript) (Voices That Matter)-New Riders Press (2010).pdf
+Krooswyk, Steven_ Ou, Jeffrey_ Zhang, Hanqiao - High speed digital design _ design of high speed interconnects and signaling (2015, Morgan Kaufmann is an imprint of Elsevier).pdf
+Kumar Chetan Sharma, Stoyan Stefanov, Ved Antani - JavaScript_ Object-Oriented Programming (2017, Packt Publishing).pdf
+Kunwar Singh Vaisla - Computational Science-Arcler Press (2020).pdf
+Kurt Mehlhorn, Peter Sanders-Algorithms and Data Structures_ The Basic Toolbox-Springer (2008).pdf
+Kurt W. Smith-Cython - A guide for Python programmers-O'Reilly (2015).pdf
+Lambert K., Osborne M.-Fundamentals of Java  AP Computer Science Essentials-Course Technology, Cengage Learning (2011).pdf
+Lawrence Wu , Alex Miller - Daily Coding Problem_ Get exceptionally good at coding interviews by solving one problem every day (2019)2.pdf
+LazyProgrammer-Deep Learning in Python Prerequisites (2016).pdf
+Lea Verou - CSS Secrets_ Better Solutions to Everyday Web Design Problems-O'Reilly Media (2015).pdf
+Lea Verou-CSS Secrets_ Better Solutions to Everyday Web Design Problems-O'Reilly Media (2015).pdf
+Learn Java 8 in a Week.pdf
+Learn Java Scrip.Fa.pdf
+Learn More Python 3 the Hard Way The Next Step for New Python Programmers.pdf
+Learn Python 3 the Hard Way.pdf
+Learn Python The Hard Way (Addison-Wesley 2013).pdf
+Learn Python3 the Hard Way.pdf
+Learn Raspberry Pi Programming with Python (Apress 2006).pdf
+Learning Cython Programming (Packt 2013).pdf
+Learning Django Web Development (Packt 2013).pdf
+Learning Flask Framework (Packt 2014).pdf
+Learning Geospatial Analysis with Python (Packt 2013).pdf
+Learning IPython for Interactive Computing and Data Visualization (Packt 2013).pdf
+Learning Python Design Patterns (Packt 2013).pdf
+Learning Python Design Patterns (Packt 2016).pdf
+Learning Python Network Programming (Packt Publishing 2015).pdf
+Learning Python Networking.pdf
+Learning Python with Raspberry Pi (Wiley 2014).pdf
+Learning Python [5th Editon] (O'Reilly Media 2013).pdf
+Learning Robotics using Python (Packt 2015).pdf
+Learning scikit-learn Machine Learning in Python (Packt 2013).pdf
+Learning Selenium Testing Tools with Python (Packt 2014).pdf
+Learning SQL, 2nd Edition.pdf
+Learning Website Development with Django(Packt 2016).pdf
+Learning-JavaScript_[www.ketabesabz.com].pdf
+Lee Vaughan - Impractical Python Projects_ Playful Programming Activities to Make You Smarter-No Starch Press (2018).pdf
+Leif Azzopardi, David Maxwell-Tango With Django_ A beginner’s Guide to Web Development With Python _ Django 1.9-Leanpub (2017).pdf
+Len Bass_ Paul Clements_ Rick Kazman - Software Architecture in Practice, 4th Edition-Addison-Wesley Professional (2021).pdf
+Leslie F. Sikos-Mastering Structured Data on the Semantic Web_ From HTML5 Microdata to Linked Open Data-Apress (2015).pdf
+Leslie Sikos-Web Standards  Mastering HTML5, CSS3, and XML-Apress (2014).pdf
+Life-3-0-Being-Human-in-the-Age-of-Artificial-Intelligence.pdf
+Lightweight Django (O'reilly 2014).pdf
+Lillian Pierson - Data Science For Dummies (2021, For Dummies) - libgen.li.pdf
+Linear Algebra Signal Processing.pdf
+Linus Torvalds, David Diamond-Just for Fun_ The Story of an Accidental Revolutionary-HarperCollins (2001).pdf
+Linux-Command-Line-and-Shell-Scripting-Bible.pdf
+Logan Syd.-GTK+ Programming in C.pdf
+Logic & Computer Design Fundamentals (5th Edition) 2015.pdf
+Logic and Computer Design Fundamentals (Pearson 2014).pdf
+Logic and computer design fundamentals.pdf
+Logic-and-Discrete-Mathematics-A-Concise-Introduction.pdf
+Logic-for-Computer-Science-and-Artificial-Intelligence.pdf
+Louis Lazaris-Jump Start CSS-SitePoint (2013).pdf
+Louise Amoore, Volha Piotukh-Algorithmic Life_ Calculative Devices in the Age of Big Data-Routledge (2016).pdf
+Luciano Ramalho - Fluent Python (2021, O'Reilly Media, Inc.) - libgen.li.pdf
+Luciano Ramalho-Fluent Python-O'Reilly Media (2015)_2.pdf
+Lukas Ruebbelke-AngularJS in Action-Manning Publications (2015).pdf
+Luke Sneeringer - Professional Python (2016, Wrox).pdf
+Luke Stevens, RJ Owen (auth.)-The Truth About HTML5-Apress (2014).pdf
+László Lovász-Combinatorial Problems and Exercises-North Holland (1993).pdf
+M Naghibzadeh - Operating System_ Concepts and Techniques (2005, iUniverse, Inc.).pdf
+M. MOka-Use MySQL with Python (2016).pdf
+Machine Learning in Python Essential Techniques for Predictive Analysis (Wiley 2015).pdf
+Machine-Learning-The-Art-and-Science-of-Algorithms-that-Make-Sense-of-Data.pdf
+Magnus Lie Hetland-Beginning Python_ From Novice to Professional-Apress (2017).pdf
+Making Games with Python & Pygame (CreateSpace Independent Publishing Platform 2012).pdf
+Making use of Pytho (John Wiley & Sons 2002).pdf
+Makzan-HTML5 Game Development by Example, 2nd Edition_ Make the most of HTML5 techniques to create exciting games from scratch-Packt Publishing (2015).pdf
+Makzan-HTML5 Game Development Hotshot-Packt Publishing (2014).pdf
+Malini Devi - C++ Programming Language for Beginners with Easy tips.-Amazon Digital Services LLC (2018).pdf
+Manohar Swamynathan (auth.)-Mastering Machine Learning with Python in Six Steps_ A Practical Implementation Guide to Predictive Data Analytics Using Python-Apress (2017).pdf
+Manoj Waikar-Data-oriented Development with AngularJS-Packt Publishing (2015).pdf
+Manuel Rubio-Sanchez - Introduction to Recursive Programming-CRC Press (2017).pdf
+Marcin Moskala, Igor Wojda - Android Development with Kotlin (2017, Packt).pdf
+Marco Casario, Nathalie Wormser, Dan Saltzman, Anselm Bradford, Jonathan Reid, Francesco Improta, Aaron Congleton-CSS3 Solutions_ Essential Techniques for CSS3 Developers-friendsofED (2012).pdf
+Marek Cygan, Fedor V. Fomin, Lukasz Kowalik-Parameterized Algorithms-Springer International Publishing (2015).pdf
+Margaret L. Lial, John Hornsby, David I. Schneider, Callie Daniels, Teresa McGinnis - College Algebra (2016, Pearson).pdf
+Margaret L. Lial, Thomas W. Hungerford, John P. Holcomb, Bernadette Mullins - Mathematics with Applications In the Management, Natural and Social Sciences (2014, Pearson).pdf
+Marijn Haverbeke - Eloquent Javascript_ A Modern Introduction to Programming-No Starch Press (2018).pdf
+Mark A. Weiss-Data Structures & Algorithm Analysis in C++-Prentice Hall (2013).pdf
+Mark Collins-Pro HTML5 with Visual Studio 2015-Apress (2015).pdf
+Mark G. Sobell, Matthew Helmke - A Practical Guide to Linux Commands, Editors, and Shell Programming-Addison-Wesley Professional (2017).pdf
+Mark J. Guzdial-Introduction to Computing and Programming in Python, a Multimedia Approach-PH (2005).pdf
+Mark J. P. Wolf (editor) - Encyclopedia of Video Games_ The Culture, Technology, and Art of Gaming [3 volumes]-Greenwood (2021).pdf
+Mark L. Gillenson - Fundamentals of Database Management Systems, 2nd Edition  -John Wiley & Sons (2011).pdf
+Mark L. Murphy-The Busy Coder's Guide to Android Development-CommonsWare, LLC (2008).pdf
+Mark Lawrence Murphy-The Busy Coder's Guide to Advanced Android Development-CommonsWare, LLC (2009).pdf
+Mark Lutz-Learning Python, 5th Edition-O’Reilly Media (2013).pdf
+Mark Myers - A Smarter Way to Learn HTML & CSS_ Learn it faster. Remember it longer. (2015, CreateSpace Independent Publishing Platform).pdf
+Mark Myers - A Smarter Way to Learn JavaScript_ The new approach that uses technology to cut your effort in half (2014, CreateSpace Independent Publishing Platform).pdf
+Mark Myers - A Smarter Way to Learn Python_ Learn it faster. Remember it longer. (2017, CreateSpace IPP).pdf
+Mark Myers - A Smarter Way to Learn Python_ Learn it faster. Remember it longer.-CreateSpace IPP (2017).pdf
+Mark Myers-A Smarter Way to Learn HTML & CSS_ Learn it faster. Remember it longer.-CreateSpace Independent Publishing Platform (2015).pdf
+Mark Phillips, Jon Chappell-Guitar For Dummies-For Dummies (2005).pdf
+Mark Pilgrim-Dive Into Python-Apress (2004).pdf
+Mark Pilgrim-Durchstarten mit HTML5  -O'Reilly Verlag (2011).pdf
+Mark Roseman Modern Tkinter for Busy Python Developers.pdf
+Mark Ryan - Geometry Essentials For Dummies-For Dummies (2011).pdf
+Mark Williams, Cory Benfield, Brian Warner, Moshe Zadka, Dustin Mitchell, Kevin Samuel, Pierre Tardy - Expert Twisted_ Event-Driven and Asynchronous Programming with Python-Apress (2019).pdf
+Mark Zegarelli - Basic Math and Pre-Algebra Workbook For Dummies (2014, For Dummies).pdf
+Mark Zegarelli - Calculus II For Dummies-For Dummies (2012).pdf
+Marschner, Steve_ Shirley, Peter-Fundamentals of Computer Graphics, Fourth Edition-A K Peters, Limited, Taylor & Francis Group [distributor (Jan. 2016).pdf
+Martin Erwig-Once Upon an Algorithm_ How Stories Explain Computing-The MIT Press (2017)_2.pdf
+Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts-Refactoring_ Improving the Design of Existing Code-Addison-Wesley Professional (1999).pdf
+Martin Fowler-Patterns of Enterprise Application Architecture-Addison-Wesley Professional (2002)_2.pdf
+Marty Lewinter, Jeanine Meyer-Elementary number theory with programming-Wiley (2016).pdf
+Mary Jane Sterling-Algebra I Essentials For Dummies (2010).pdf
+Mary Jane Sterling-Algebra I For Dummies-For Dummies (2010).pdf
+Mary Jane Sterling-Algebra II Essentials For Dummies (For Dummies (Math & Science))-For Dummies (2010).pdf
+Mary Jane Sterling-Linear Algebra for Dummies -Wiley (2009).pdf
+Mary Jane Sterling-Trigonometry For Dummies-For Dummies (2014).pdf
+Mastering Django Core.pdf
+Mastering Object-oriented Python (Packt 2014).pdf
+Mastering Python Design Patterns (Packt 2015).pdf
+Mastering Python Regular Expressions (Packt Publishing 2014).pdf
+Mastering Python.pdf
+Mastering Regular Expressions (O'Reilly 2006).pdf
+Mastering-Machine-Learning-with-Python-in-Six-Steps-A-Practical-Implementation-Guide-to-Predictive-Data-Analytics-Using-Python.pdf
+Mat Ryer-Go Programming Blueprints-Packt Publishing (2017).pdf
+Mathematical Objects in C++, Computational Tools in A Unified Object-Oriented Approach (CRC 2009).pdf
+Mathematics, A Discrete Introduction (Cengage Learning 2012).pdf
+Mathematics-for-Computer-Science.pdf
+Mathematics-of-Discrete-Structures-for-Computer-Science.pdf
+Mathew Patterson-Create Stunning HTML Email That Just Works-SitePoint (2010).pdf
+Matt Frisbie-AngularJS Web Application Development Cookbook-Packt Publishing (2014).pdf
+Matt Timmons-Brown - Learn Robotics with Raspberry Pi_ Build and Code Your Own Moving, Sensing, Thinking Robots-No Starch Press (2018).pdf
+Matthew Eernisse-Build Your Own Ajax Web Applications-SitePoint (2006)_2.pdf
+Matthew Justice - How Computers Really Work_ A Hands-On Guide to the Inner Workings of the Machine-No Starch Press (2020).pdf
+Matthew Kirk - Thoughtful Machine Learning with Python_ A Test-Driven Approach (2017, O’Reilly Media).pdf
+Matthew MacDonald-HTML5_ The Missing Manual-O'Reilly Media (2014).pdf
+Matthew West-HTML5 Foundations-Wiley (2013).pdf
+Maurice Charbit-Digital Signal Processing with Python Programming-Wiley-ISTE (2017).pdf
+Maurice Herlihy, Nir Shavit-The Art of Multiprocessor Programming-Morgan Kaufmann (2012).pdf
+Max Hailperin - Operating systems and middleware_ supporting controlled interaction   (2006, Course Technology).pdf
+McGraw.Hill.Comptia.network plus.pdf
+Meadows, Donella H. Wright, Diana - Thinking in Systems_ A Primer .pdf
+Meenakshi , Kamal Rawat - Dynamic Programming for Coding Interviews_ A Bottom-Up Approach to Problem Solving-Notion Press (2017).pdf
+Michael Bowers, Dionysios Synodinos, Victor Sumner-Pro HTML5 and CSS3 Design Patterns-Apress (2011).pdf
+Michael Bowles-Machine Learning in Python_ Essential Techniques for Predictive Analysis-Wiley (2015).pdf
+Michael Feathers - Working Effectively with Legacy Code (2004, Prentice Hall).pdf
+Michael J. Foord, Christian Muirhead-IronPython in action-Manning (2008).pdf
+Michael James Hernandez-Database design for mere mortals_ a hands-on guide to relational database design, 2nd Edition  -Addison-Wesley Professional (2003).pdf
+Michael Kerrisk - The Linux programming interface_ a Linux and UNIX system programming handbook (2010, No Starch Press).pdf
+Michael L. Scott - Programming Language Pragmatics (2015, Morgan Kaufmann).pdf
+Michael Macaulay - Introduction to Web Interaction Design With HTML and CSS-CRC Press (2018).pdf
+Michael McCool,James Reinders,James Reinders-Structured Parallel Programming Patterns for Efficient Computation-Morgan Kaufmann (2012).pdf
+Michael McMillan-Data Structures and Algorithms with JavaScript-O'Reilly Media (2014).pdf
+Michael Mitzenmacher, Eli Upfal - Probability and Computing_ Randomization and Probabilistic Techniques in Algorithms and Data Analysis (2017, Cambridge University Press).pdf
+Michael Schmalz-C_ Database Basics-O'Reilly Media (2012).pdf
+Michael Sipser-Introduction to the Theory of Computation-Thomson South-Western (2012).pdf
+Michael T. Goodrich, Roberto Tamassia, David M. Mount-Data Structures and Algorithms in C++  -Wiley (2011).pdf
+Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser-Data Structures and Algorithms in Java-Wiley (2014).pdf
+Michal Jaworski, Tarek Ziade - Expert Python Programming-Packt Publishing (2019).pdf
+Michal Jaworski, Tarek Ziadé - Expert Python Programming_ Master Python by learning the best coding practices and advanced programming concepts (2021, Packt Publishing) - libgen.li.pdf
+Mikael Olsson (auth.)-CSS Quick Syntax Reference Guide-Apress (2014).pdf
+Mikael Olsson-CSS Quick Syntax Reference-Apress (2014).pdf
+Mike Driscoll - Python Interviews_ Discussions with Python Experts (2018, Packt Publishing).pdf
+Miles Burke-The Principles of Successful Freelancing-SitePoint (2008).pdf
+Mitsunori Ogihara - Fundamentals of Java Programming-Springer International Publishing (2018).pdf
+Modern-compiler-design.pdf
+Mohammed Zuhair Al-Taie and Seifedine Kadry-Python for Graph and Network Analysis-Springer (2017).pdf
+MongoDB and Python, Patterns and processes for the popular document-oriented database  (O'Reilly Media 2011).pdf
+More Python programming for the absolute beginner (Course Technology 2012).pdf
+Morgan.Kaufmann.There.Dec.2014.ISBN.0124166911.pdf
+Moritz Lenz - Python Continuous Integration and Delivery_ A Concise Guide with Examples-Apress (2019).pdf
+Ms. Zufishan Kamal, Mr. Ajmal Saeed, Mr. Hanif Ahsan Zubedi - Computer Science for Grade 9. I-Sindh Textbook Board, Jamshoro (2020).pdf
+Mueller J.P.-CSS3 For Dummies-Wiley (2014).pdf
+Mykel J. Kochenderfer, Tim A. Wheeler - Algorithms for Optimization-The MIT Press (2019).pdf
+MySQL for Python- Database Access Made Easy (Packt Publish 2014).pdf
+N. David Mermin-Quantum Computer Science_ An Introduction (2007).pdf
+N.K. Tiwari, Jitendra Agrawal, Shishir K. Shandilya-Data Structures-I K International Publishing House (2016).pdf
+Narasimha Karumanchi-Data Structures and Algorithms Made Easy_ Data Structures and Algorithmic Puzzles-CareerMonk Plublications (2017).pdf
+Nate Cooper-Build Your Own Website_ A Comic Guide to HTML, CSS and Wordpress-No Starch Press (2014).pdf
+Nathan Rozentals-Mastering TypeScript - Build enterprise-ready, industrial strength web applications using TypeScript and leading JavaScript Frameworks-Packt Publishing (2015).pdf
+Nathan Youngman, Roger Peppé - Get Programming with Go-Manning Publications (2018).pdf
+Natural Language Processing with Python-O'Reilly Media (2009).pdf
+Navin Kumar Manaswi - Deep Learning with Applications Using Python (2018, Apress).pdf
+Nehal Shah, Gabriel José Balda Ortíz-HTML5 Enterprise Application Development-Packt Publishing (2013).pdf
+Nell Dale, Daniel T. Joyce, Chip Weems-Object-Oriented Data Structures Using Java-Jones & Bartlett Learning (2011).pdf
+Neural Networks And Deep Learning.pdf
+Nicholas Brown-TypeScript_ JavaScript Development Guide (2016).pdf
+Nicholas C. Zakas - The Principles of Object-Oriented JavaScript (2014, No Starch Press).pdf
+Nick Bostrom-Superintelligence_ Paths, Dangers, Strategies-Oxford University Press (2014).pdf
+Nick Morgan - JavaScript for Kids_ A Playful Introduction to Programming-No Starch Press (2014).pdf
+Niema Moshiri, Liz Izhikevich - Design and Analysis of Data Structures (2018, Independently published) (copy).pdf
+Nigel George-Mastering Django_ Core-Packt (2016).pdf
+Nikhil Ketkar (auth.)-Deep Learning with Python_ A Hands-on Introduction-Apress (2017).pdf
+Nishant Shukla - Machine Learning with TensorFlow (2018, Manning Publications).pdf
+Noah Gift, Jeremy M. Jones-Python for Unix and Linux System Administration-O'Reilly Media (2008).pdf
+Noam Nisan, Shimon Schocken-The Elements of Computing Systems_ Building a Modern Computer from First Principles-The MIT Press (2005).pdf
+Norman Biggs-Quite Right_ The Story of Mathematics, Measurement and Money-Oxford University Press (2016).pdf
+Numerical Methods in Engineering with Python 3 (Combridge 2013).pdf
+Numerical Python (Apress 2015).pdf
+NumPy 1.5 Beginner's Guide -Packt Publishing (2011).pdf
+NumPy Beginner's Guide-Packt Publishing (2013).pdf
+Nyhoff, Jeffrey_ Nyhoff, Larry R-Processing _ an introduction to programming-Chapman and Hall_CRC (2017).pdf
+O'Leary, Michael L - A first course in mathematical logic and set theory (2016, John Wiley & Sons, Incorporated).pdf
+Object Oriented Programming With C++ (Tata McGraw-Hill Education 2008).pdf
+Object-Oriented Analysis and Design for Information Systems  Modeling with UML, OCL, and IFML-MK (2014).pdf
+Object-Oriented Analysis and Design with Applications ( Addison-Wesley 2007).pdf
+Object-oriented construction handbook (Morgan Kaufmann 2005).pdf
+Object-Oriented Programming in C++ [4th Edition] (Sams 2002).pdf
+Object-Oriented Thought Process, 3rd Edition.pdf
+Object-Thinking.pdf
+OcuppyTheWeb - Linux Basics for Hackers-No Starch Press (2019).pdf
+Oh, Jae - Operating systems _ a multi-perspective episodic approach (2017, Cognella Academic Publishing).pdf
+OOP demystified (McGraw-Hill Professional 2004).pdf
+Oop-Learn-Object-Oriented-Thinking-and-Programming.pdf
+OpenCV Computer Vision with Python (Packt 2013).pdf
+Operating Systems, Internals and Design Principles [7th Edition, Test Bank]  (Prentice Hall 2012).pdf
+Operating Systems, Internals and Design Principles [7th Edition] (Prentice Hall 2012).pdf
+Operating Systems-Concurrent-and-Distributed-Software-Design.pdf
+Operating Systemsm, Internals and Design Principles [7th Edition, Solutions] (Prentice Hall 2012).pdf
+Operating-System-Concepts.pdf
+Operating-System-Design-The-Xinu-Approach.pdf
+Operating-Systems-Design-and-Implementation.pdf
+Operating-Systems-In-Depth-Design-and-Programming.pdf
+Oppel , Andy-SQL_ A Beginner's Guide _-McGraw-Hill Osborne Media  (2008).pdf
+OReilly.Front.Dec.2015.ISBN.1491926783.pdf
+OReilly.Head.First.Android.Development.Jul.2011.ISBN.1449393306.pdf
+OReilly.Head.First.JavaScript.Programming.Apr.2014.ISBN.144934013X.pdf
+OReilly.Head.First.JQuery.Sep.2011.ISBN.1449393217_2.pdf
+OReilly.Head.First.Software.Development.Jan.2008.ISBN.0596527357.pdf
+Ozan Varol - THINK LIKE A ROCKET SCIENTIST -  The Workbook (2019).pdf
+Ozan Varol - Think Like a Rocket Scientist_ Simple Strategies You Can Use to Make Giant Leaps in Work and Life (2020).pdf
+Packt.Java.Jun.2015.ISBN.1785288725.pdf
+Packt.Python.3.Object.Oriented.Programming.1849511268.pdf
+Packt_Python_Network_Programming.pdf
+Paolo Ferragina, Fabrizio Luccio - Computational Thinking_ First Algorithms, Then Code (2018, Springer International Publishing).pdf
+Parallel Programming with Python (Packt 2014).pdf
+Pascal Rettig-Professional HTML5 Mobile Game Development-Wrox (2012).pdf
+Patrick McNeil-The Web Designer's Idea Book, Vol. 2_ More of the Best Themes, Trends and Styles in Website Design-HOW Books (2010).pdf
+Patrick Meier-Digital Humanitarians_ How Big Data Is Changing the Face of Humanitarian Response-CRC Press (2015).pdf
+Patrick Viafore - Robust Python_ Write Clean and Maintainable Code (2021, O'Reilly Media) - libgen.li.pdf
+Paul Ammann, Jeff Offutt - Introduction to Software Testing (2017, Cambridge University Press).pdf
+Paul Ammann, Jeff Offutt-Introduction to Software Testing-Cambridge University Press (2017).pdf
+Paul C. Jorgensen, Byron DeVries - Software Testing_ A Craftsman’s Approach-Auerbach Publications (2021).pdf
+Paul Deitel, Dr. Harvey Deitel - Python for Programmers_ with Big Data and Artificial Intelligence Case Studies-Pearson Higher Ed (2019).pdf
+Paul Deitel, Harvey Deitel - Java_ How to Program Early Objects (2017, Pearson).pdf
+Paul Deitel, Harvey Deitel-C_ How to Program, 7th Edition-Prentice Hall (2012).pdf
+Paul E. McKenney - Is Parallel Programming Hard, And, If So, What Can You Do About It_ (2017).pdf
+Paul Gries, Jennifer Campbell, Jason Montojo - Practical Programming_ An Introduction to Computer Science Using Python 3.6-Pragmatic Bookshelf (2017).pdf
+Paul J. Deitel, Harvey Deitel - C How to Program-Pearson (2015).pdf
+Paul J. Deitel, Harvey Deitel - Intro to Python for Computer Science and Data Science_ Learning to Program with AI, Big Data and The Cloud-Pearson (2020).pdf
+Paul Mabry-Becoming A Programmer_ A Beginner’s Guide-Adzara Media (2016).pdf
+Paul Orland - Math for Programmers 3D graphics, machine learning, and simulations with Python Version 10-Manning Publications (2020).pdf
+Paul S. Wang - Mastering Modern Linux-CRC Press (2018).pdf
+Paul Scherz, Simon Monk-Practical Electronics for Inventors, 4th Edition-McGraw-Hill Education TAB (2016).pdf
+Pawel Kozlowski, Peter Bacon Darwin-Mastering Web Application Development with AngularJS-Packt Publishing (2013).pdf
+Pearson.Computing.With.Python.An.Introduction.to.Python.for.Science.and.Engineering.0273786431.pdf
+Per Brinch Hansen (auth.), Per Brinch Hansen (eds.) - Classic Operating Systems_ From Batch Processing To Distributed Systems (2001, Springer-Verlag New York).pdf
+Percival, H.J.W.-Test-Driven Development with Python_ Obey the Testing Goat_ Using Django, Selenium, and JavaScript-O’Reilly Media (2017).pdf
+Perry Xiao - Practical Java Programming for IoT, AI, and Blockchain-Wiley (2019).pdf
+Peter Bevelin - Seeking Wisdom_ From Darwin to Munger, 3rd Edition-PCA Publications L.L.C. (2007).pdf
+Peter Brass-Advanced data structures-Cambrige University Press (2008).pdf
+Peter Bruce, Andrew Bruce, Peter Gedeck - Practical Statistics for Data Scientists_ 50+ Essential Concepts Using R and Python-O'Reilly Media (2020).pdf
+Peter Flach-Machine Learning_ The Art and Science of Algorithms that Make Sense of Data-Cambridge University Press (2012).pdf
+Peter Gasston-The Book of CSS3-No Starch Press (2014).pdf
+Peter Gasston-The Book of CSS3_ A Developer's Guide to the Future of Web Design  -No Starch Press (2011).pdf
+Peter Gasston-The Modern Web_ Multi-Device Web Development with HTML5, CSS3, and JavaScript-No Starch Press (2013).pdf
+Peter Harrington-Machine Learning in Action-Manning Publications (2012).pdf
+Peter Linz - An Introduction to Formal Languages and Automata-Peter Linz (2016).pdf
+Peter Lubbers, Brian Albers, Frank Salim-Pro HTML5 Programming_ Powerful APIs for Richer Internet Application Development-Apress (2010).pdf
+Peter M. Higgins - Professor Higgins’s Problem Collection (2017, Oxford University Press).pdf
+Peter Prinz, Ulla Kirch-Prinz-C Pocket Reference-O'Reilly Media (2002).pdf
+Peter Thiel, Blake Masters-Peter Thiel, Blake Masters-Zero to One_ Notes on Startups, or How to Build the Future-Crown Business-Crown Business (2014).pdf
+Peter Van Der Linden-Expert C Programming - Deep C Secrets-Prentice Hall .pdf
+Peters Morgan - Data Analysis From Scratch With Python_ Beginner Guide using Python, Pandas, NumPy, Scikit-Learn, IPython, TensorFlow and Matplotlib-AI Sciences LLC (2018).pdf
+Peter_Linz-An_Introduction_to_Formal_Languages_and.pdf
+Philip Herron-Learning Cython Programming-Packt Publishing (2016).pdf
+Practical Django Projects-Apress (2008).pdf
+Practical Programming, An Introduction to Computer Science Using Python 3 (Pragmatic Bookshelf 2013).pdf
+Practical-Machine-Learning-with-Python-A-Problem-Solver-s-Guide-to-Building-Real-World-Intelligent-Systems.pdf
+Practical-Web-Scraping-for-Data-Science-Best-Practices-and-Examples-with-Python.pdf
+Prajyot Mainkar Salvatore Giordano - Google Flutter Mobile Development Quick Start Guide-Packt_ (2019).pdf
+Pratap Dangeti - Statistics for Machine Learning_ Techniques for exploring supervised, unsupervised, and reinforcement learning models with Python and R (2017, Packt Publishing).pdf
+PreCalculus 5th Edition Test Bank.pdf
+Precalculus Concepts Through Functions.pdf
+Precalculus, 5th Edition (Cengage Learning 2011).pdf
+PreCalculus, Fifth Edition Sloution Manual.pdf
+Precalculus.pdf
+Prentice.Hall.Java.6th.Edition.Mar.2015.ISBN.0133957055.pdf
+Principles Of Data Mining.pdf
+Pro Android Python with SL4A-Apress (2011).pdf
+Pro Django, 2nd Edition (Apress 2015).pdf
+Pro Python (Apress 2015).pdf
+Pro Python System Administration [2nd Edtion] (Apress 2014).pdf
+Pro Python [2nd Editon] (Apress 2014).pdf
+Probability And Statistics For Com.pdf
+Problem Solving with Algorithms and Data Structures Using Python [2nd Edition] (Franklin, Beedle & Associates 2011).pdf
+Professional Python (Wrox 2016).pdf
+Professional-Scala.pdf
+Program Arcade Games_ With Python and Pygame (Apress 2015).pdf
+Programming ArcGIS 10.1 with Python Cookbook (Packt 2013).pdf
+Programming for Absolute Beginner (Course Technolgey 2007).pdf
+Programming in Python 3, A Complete Introduction to the Python Language (Addison Wesley 2010).pdf
+Programming Language Concepts (Springer 2012).pdf
+Programming Language Fundamentals by Example (Auerbac 2007).pdf
+Programming Language Pragmatics, Third Edition(2009) Solution.pdf
+Programming Language Pragmatics, Third Edition(2009).pdf
+Programming Python (O'Reilly 2012).pdf
+Programming Python-O'Reilly (2011).pdf
+Programming World Wide Web [Eight Edition] (Pearson 2015).pdf
+Proof-Theory-Sequent-Calculi-and-Related-Formalisms.pdf
+Publishing ArcPy and ArcGIS Geospatial  Analysis with Python (Packt 2015).pdf
+Publishing Hacking Secret Ciphers with Python (CreateSpace 2013).pdf
+Puneet Mathur - Machine Learning Applications Using Python_ Cases Studies from Healthcare, Retail, and Finance (2019, Apress).pdf
+Puneet Mathur - Machine Learning Applications Using Python_ Cases Studies from Healthcare, Retail, and Finance-Apress (2019).pdf
+PySide GUI Application Development (Packt 2014).pdf
+Python 2.6 Text Processing Beginners Guide (Packt Publishing 2010).pdf
+Python 3 For Absolute Beginners (Apress 2010).pdf
+Python 3 Object Oriented Programming - 3rd Edition - (2018).pdf
+Python 3 Object Oriented Programming, Harness the power of Python 3 objects (Packt Publishing 2010).pdf
+Python 3 Object-Oriented Programming, 2nd Edition (Packt 2014).pdf
+Python 3 Text Processing with NLTK 3 Cookbook (Packt Publishing 2014).pdf
+Python 3 Web Development Beginner (Packt 2011).pdf
+Python Algorithms, Mastering Basic Algorithms in the Python Language (Apress 2014).pdf
+Python All in one.pdf
+Python and AWS Cookbook  (O'Reilly 2011).pdf
+Python and Tkinter Programming-Manning Publications (2000).pdf
+Python and XML (Packt 2014).pdf
+Python by Example (Cambridge 2019).pdf
+Python by Example (Cambridge University 2019).pdf
+Python Cookbook (O'Reilly Media 2013).pdf
+Python Crash Course.pdf
+Python Create-Modify-Reuse (Wrox 2006).pdf
+Python Data Analysis Cookbook.pdf
+Python Data Visualization Cookbook (Packt 2013).pdf
+Python Essential Reference (Addison Wesley 2009).pdf
+Python Essentials, A Rapid Guide to the Fundamental Features of Python (Packt Publishing 2015).pdf
+Python Farsi.PDF
+Python for besy Java developer.pdf
+Python for Data Analysis (OReilly 2013).pdf
+Python For Dummies (Wiley 2006).pdf
+Python for Everyone (Wiley 2014).pdf
+Python for Finance (Packt 2014).pdf
+Python for Finance Analyze Big Financial Data (OReilly 2015).pdf
+Python for Google App Engine(Packt 2015).pdf
+Python for Kids, A Playful Introduction to Programming (No Starch Press 2012).pdf
+Python for Secret Agents (Packt 2014).pdf
+Python for Software Design - How to Think Like a Computer Scientist (2009).pdf
+Python for Unix and Linux System Administration (O'Reilly 2008).pdf
+Python for web application (2016).pdf
+Python ForensicsA Workbench for Inventing and Sharing Digital Forensic Technology (Elsevier Inc, Syngress 2014).pdf
+Python Geospatial Development 2nd (Packt 2013).pdf
+Python GUI Programming Cookbook (Packt 2015).pdf
+Python Gui Programming cookbook.pdf
+Python High Performance Programming (Packt 2013).pdf
+Python in a Nutshell, 2nd Edition (Packt 2006).pdf
+Python in a nutshell-OReilly (2006).pdf
+Python in Easy Steps (In Easy Steps Ltd 2014).pdf
+Python Machine Learning Coockbook.pdf
+Python Machine Learning-Packt Publishing (2015).pdf
+Python Machine Learning.pdf
+Python Multimedia, Beginner's Guide (Packt Publishing 2010).pdf
+Python Network Programming Cookbook (Packt 2013).pdf
+Python Notes for Professionals.pdf
+Python Parallel Programming Cookbook (Packt 2015).pdf
+Python Penetration Testing Essentials (Packt 2015).pdf
+Python Playground Geeky Projects for the Curious Programmer (No Starch Press 2015).pdf
+Python Pocket Reference (O'Reilly 2014).pdf
+Python Power! The Comprehensive Guide (Thomson 2008).pdf
+Python Programming for Arduino (Packt 2015).pdf
+Python Programming for the Absolute Beginner, 3rd Edition (Cengage Learning PTR 2010).pdf
+Python Programming Fundamentals (Springer-Verlag London 2014).pdf
+Python Programming, An Introduction to Computer Science (Franklin, Beedle & Associates 2009).pdf
+Python Projects (Wrox 2014).pdf
+Python Projects for Kids.pdf
+Python Requests Essentials (Packt  2015).pdf
+Python Testing with pytest.pdf
+Python Tools for Visual Studio (Packt 2013).pdf
+Python Unlocked (Packt 2015).pdf
+Python Web Development with Django (Addison Wesely 2015).pdf
+Python-Machine-Learning-Case-Studies-Five-Case-Studies-for-the-Data-Scientist.pdf
+Qt5 Python Gui Programming.pdf
+Rachel Andrew-HTML utopia_ designing without tables using CSS-SitePoint (2006).pdf
+Rachel Andrew-The CSS3 Anthology_ Take Your Sites to New Heights-SitePoint (2012).pdf
+Rajiv Chopra - C Programming_ A Self-Teaching Introduction-Mercury Learning & Information (2018).pdf
+Randal E. Bryant, David R. O'Hallaron - Computer Systems_ A Programmer's Perspective (2011, Prentice-Hall).pdf
+Randal E. Bryant, David R. O’Hallaron - Computer Systems. A Programmer’s Perspective [3rd ed.] (2016, Pearson).pdf
+Randall Hyde Write Great Code, Vol.1- Understanding the Machine.pdf
+Randall Hyde Write Great Code, Volume 2- Thinking Low-Level, Writing High-Level.pdf
+Rao R.P.N. - Brain-Computer Interfacing_ An Introduction (2013, Cambridge University Press).pdf
+Rap Payne - Beginning App Development with Flutter-Apress (2019).pdf
+RApid Gui Programming iwht Python and .pdf
+Rapid GUI programming with Python and Qt_ the definitive guide to PyQt programming (Prentice Hall 2008).pdf
+Rashi Gupta-Making Use of Python-John Wiley & Sons (2002).pdf
+Raspberry Pi Cookbook for Python Programmers (Packt 2014).pdf
+Raspberry Pi Projects for Kids (Packt 2014).pdf
+Raul Sidnei Wazlawick-Object-Oriented Analysis and Design for Information Systems  Modeling with UML, OCL, and IFML-Morgan Kaufmann (2014).pdf
+Raymond M. Smullyan-To Mock a Mockingbird and Other Logic Puzzles_ Including an Amazing Adventure in Combinatory Logic-Knopf (1985).pdf
+RB Whitaker-The C_ Player's Guide-Starbound Software (2015).pdf
+Real World Instrumentation with Python_ Automated Data Acquisition and Control Systems-O'Reilly Media (2010).pdf
+Real_Reading_1 [www.languagecentre.ir].pdf
+Real_Reading_2 [www.languagecentre.ir].pdf
+Real_Reading_3 [www.languagecentre.ir].pdf
+Real_Reading_4 [www.languagecentre.ir].pdf
+Recomender Systems.pdf
+Refactoring-to-Patterns.pdf
+Regular Expressions for Perl, Ruby, PHP, Python, C, Java and .NET (O'Reilly 2010).pdf
+Relational Database Programming.pdf
+Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau - Operating Systems_ Three Easy Pieces (2015, Arpaci-Dusseau).pdf
+Renee M Teate - SQL for Data Scientists_ A Beginner's Guide for Building Datasets for Analysis (2021, Wiley) - libgen.li.pdf
+Rex van der Spuy-Advanced Game Design with HTML5 and JavaScript-Apress (2015).pdf
+Rex van der Spuy-Foundation game design with HTML5 and JavaScript-Apress _ friends of ED (2012).pdf
+Reynolds - Schaum's Outline of Principles of Computer Science (2008, Mcgraw~Hill).pdf
+Rhonda Hoenigman-Visualizing Data Structures-Lulu.com (2015).pdf
+Richard Bird-Pearls of Functional Algorithm Design-Cambridge University Press (2010).pdf
+Richard C. Detmer-Introduction to 80x86 Assembly Language and Computer Architecture-Jones & Bartlett Pub (2001).pdf
+Richard F Schmidt - Software Engineering_ Architecture-driven Software Development (2013, Morgan Kaufmann).pdf
+Richard J. Heaslip-Managing complex projects and programs _ how to improve leadership of complex initiatives using a third-generation approach-John Wiley & Sons Inc (2014).pdf
+Richard Keller-Learning AngularJS Animations_ Enhance user experience with awesome animations in AngularJS using CSS and JavaScript-Packt Publishing (2014).pdf
+Richard M. Stallman, Lawrence Lessig, Joshua Gay, Laurence Lessig-Free software, free society_ selected essays of Richard M. Stallman-Free Software Foundation (2002).pdf
+Rick L.-AngularJS Handbook_ Easy Web App Development (2016).pdf
+Rob Crowther, Joe Lennon, Ash Blue, Greg Wanish-HTML5 in Action-Manning Publications (2014).pdf
+Rob Crowther-Hello! HTML5 & CSS3_ A User Friendly Reference Guide-Manning Publications (2012).pdf
+Rob Hawkes-Foundation HTML5 Canvas_ For Games and Entertainment-friendsofED (2011).pdf
+Rob Hope - Landing Page Hot Tips-Rob Hope (2020).pdf
+Rob Kitchin-The Data Revolution_ Big Data, Open Data, Data Infrastructures and Their Consequences-SAGE Publications (2014).pdf
+Rob Larsen - Mastering SVG_ Ace web animations, visualizations, and vector graphics with HTML, CSS, and JavaScript (2018, Packt Publishing Ltd) - libgen.li.pdf
+Rob Larsen-Beginning HTML and CSS-Wrox (2013).pdf
+Rob Mastrodomenico - The Python Book (2022, John Wiley & Sons) - libgen.li.pdf
+Rob Miles - Begin to code with Python-Microsoft (2018).pdf
+Robert C. Martin-The Clean Coder_ A Code of Conduct for Professional Programmers (Robert C. Martin Series)-Prentice Hall (2011).pdf
+Robert Floyd Sekerka-Thermal physics _ thermodynamics and statistical mechanics for scientists and engineers-Elsevier (2015).pdf
+Robert Harper-Practical Foundations for Programming Languages-Cambridge University Press (2012).pdf
+Robert Johansson - Numerical Python_ Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib-Apress (2019).pdf
+Robert Kruse, Alexander Ryba - Data Structures and Program Design in C++.pdf
+Robert Lafore-Data Structures and Algorithms in Java-Sams (2002).pdf
+Robert Love - Linux Kernel Development (2010, Addison-Wesley Professional).pdf
+Robert Plantz - Introduction to Computer Organization_ An Under the Hood Look at Hardware and x86-64 Assembly (2022, No Starch Press) - libgen.li.pdf
+Robert Sedgewick, Kevin Wayne - Algorithms (2011, Addison-Wesley Professional).pdf
+Robert Sedgewick, Kevin Wayne - Computer Science_ An Interdisciplinary Approach (2016, Addison-Wesley Professional).pdf
+Robert Smallshire, Austin Bingham - The Python Apprentice_ A Practical and Thorough Introduction to the Python Programming Language-Packt Publishing (2017).pdf
+Robert Smallshire, Austin Bingham - The Python Journeyman-leanpub.com (2018).pdf
+Robert W. Numrich - Parallel Programming with Co-Arrays-CRC (2019).pdf
+Robin J. Wilson-Introduction to Graph Theory-Pears (2010).pdf
+Robin Nixon-HTML5_ 20 Lessons to Successful Web Development-McGraw-Hill Osborne Media (2015).pdf
+Robin Nixon-Plug-In CSS 100 Power Solutions-McGraw-Hill Osborne Media (2011).pdf
+Rodrigo Branas-AngularJS Essentials-Packt Publishing (2014).pdf
+Rodrigo Silveira-Learning HTML5 by Creating Fun Games-Packt Publishing (2013).pdf
+Roger Jennings-Cloud Computing with the Windows Azure Platform (Wrox Programmer to Programmer) (2009).pdf
+Roland Backhouse-Algorithmic Problem Solving-John Wiley & Sons (2011).pdf
+Rolf Johannesson, Kamil Sh. Zigangirov-Fundamentals of Convolutional Coding, 2nd Edition-Wiley (2015).pdf
+Ron Jeffries-The Nature of Software Development_ Keep It Simple, Make It Valuable, Build It Piece by Piece-The Pragmatic Programmers (2015).pdf
+Ron White, Tim Downs - How Computers Work_ The Evolution of Technology (2015, Que Publishing).pdf
+Ronald Mak-Writing Compilers and Interpreters_ A Software Engineering Approach, Third Edition  -Wiley (2009).pdf
+Roselyn Teukolsky-Barron's AP Computer Science A-Barron's Educational Series (2015).pdf
+Rosen, Kenneth H - Discrete mathematics and its applications (2019, McGraw-Hill).pdf
+RTC - Freelance Newbie-RealToughCandy (2019).pdf
+Rudolf Pecinovsky - Oop - Learn Object Oriented Thinking and Programming (2013, Tomas Bruckner).pdf
+Rudolph Russell - Machine Learning_ Step-by-Step Guide To Implement Machine Learning Algorithms with Python (2018, CreateSpace Independent Publishing Platform).pdf
+Rudolph Russell - Machine Learning_ Step-by-Step Guide To Implement Machine Learning Algorithms with Python-CreateSpace Independent Publishing Platform (2018).pdf
+Rudy Limeback-Simply SQL-SitePoint (2009).pdf
+Russ Miller, Laurence Boxer-Algorithms sequential & parallel_ a unified approach-Cengage Learning (2012).pdf
+Ryan Heitz-Hello Raspberry Pi!_ Python programming for kids and other beginners-Manning Publications (2016).pdf
+Ryan Stephens, Ron D. Plew, Arie D. Jones-Sams Teach Yourself SQL in 24 Hours -Sams (2008).pdf
+S. Srinivasan-Guide to Big Data Applications-Springer (2017).pdf
+Sam Priddy, Sam Atkinson, Lizzie Davey, Daniel Mills, Ben Morgan - Help Your Kids with Computer Coding (2014, DK Publishing).pdf
+Sams Teach Yourself HTML, CSS, and JavaScript All in One.pdf
+Sams.C.2nd.Edition.Sep.2000.ISBN.067231861X.pdf
+Sams.SQL.4th.Edition.Jan.2012.ISBN.0672336073.pdf
+Sams.Teach.Yourself.HTML5.In.10.Minutes.5th.Edition.Dec.2010.ISBN.0672333333.pdf
+Sams.Teach.Yourself.HTML5.Mobile.Application.Development.In.24.Hours.Nov.2011.ISBN.0672334402.pdf
+Sams.Teach.Yourself.SQL.10.Minutes.5th.Edition.Dec.2010.ISBN.0672333333.pdf
+Sandeep Panda-AngularJS_ Novice to Ninja-SitePoint (2014).pdf
+Sandro Paganotti-Designing Next Generation Web Projects with CSS3-Packt Publishing (2013).pdf
+Sanjib Sinha (auth.)-Beginning Ethical Hacking with Python-Apress (2017).pdf
+Sarah Harris, David Harris - Digital Design and Computer Architecture_ RISC-V Edition-Morgan Kaufmann (2021).pdf
+Sau Sheong Chang - Go Web Programming-Manning Publications (2016).pdf
+SciPy and NumPy_ An Overview for Developers-O'Reilly Media (2012).pdf
+Scott Chacon, Ben Straub - Pro Git-Apress (2014).pdf
+Scott Meyers-Effective STL_ 50 Specific Ways to Improve Your Use of the Standard Template Library (Addison-Wesley Professional Computing Series)-Addison-Wesley Professional (2001).pdf
+Scott Millett-Patterns, Principles and Practices of Domain-Driven Design-Wrox (2015).pdf
+Sebastian Raschka, Vahid Mirjalili - Python Machine Learning 2nd ed(2017, Packt Publishing).pdf
+sebesta.pdf
+Secure coding in c and c++.pdf
+Serious PYthon.pdf
+Shane Conder, Lauren Darcey-Sams Teach Yourself Android Application Development in 24 Hours  -Sams Publishing (2011).pdf
+Shaumik Daityari-Jump Start Git-SitePoint (2015).pdf
+Ship it! A Practical Guide to Successful Software Projects.pdf
+Shubhangi Agarwal - Learning Go Programming_ Build ScalableNext-Gen Web Application using Golang (English Edition) (2021, BPB Publications) - libgen.li.pdf
+Silas Toms-ArcPy and ArcGIS_ Geospatial Analysis with Python-Packt Publishing - ebooks Account (2015).pdf
+Silvia Pfeiffer, Tom Green-Beginning HTML5 Media_ Make the most of the new video and audio standards for the Web-Apress (2015).pdf
+Simon Bailey-AngularJS Testing Cookbook-Packt Publishing (2015).pdf
+Simon Collison, Andy Budd, Cameron Moll-CSS Mastery_ Advanced Web Standards Solutions, Second Edition-friends of ED (2009).pdf
+Simon Long - An Introduction to C & GUI Programming (2019, Raspberry Pi Trading).pdf
+Soft Skills The software developer's life manual (Manning 2014).pdf
+software-engineering-pressman.pdf
+Software-Engineering-with-UML.pdf
+Springer.Data.Apr.2015.ISBN.3319141414.pdf
+Springer.Intr.Dec.2012.ISBN.146145316X.pdf
+SQL and Relational Theory.pdf
+SQL Antipatterns.pdf
+SQL For Dummies, 7th Edition.pdf
+Sriraman Sridharan, R. Balakrishnan - Foundations of Discrete Mathematics with Algorithms and Programming (2019, CRC Press).pdf
+Starting Out with Python [2nd Edition] (Pearson Education 2011).pdf
+Stefan Björnander-C ++ Windows Programming-Packt Publishing (2016).pdf
+Stefan Hollos-Information Theory A Concise Introduction-Abrazol Publishing (2015).pdf
+Stellan Ohlsson-Deep Learning_ How the Mind Overrides Experience-Cambridge University Press (2011).pdf
+Stephane Faroult, Peter Robson-The art of SQL-O'Reilly Media (2006).pdf
+Stephen R. Davis - C++ for Dummies-For Dummies (2014).pdf
+Steve Fulton, Jeff Fulton-HTML5 Canvas-O'Reilly Media (2013).pdf
+Steve Klabnik, Carol Nichols - The Rust Programming Language-No Starch Press (2019).pdf
+Steve Krug Don't Make Me Think- A Common Sense Approach to Web Usability [2nd Edition] (New Riders 2006).pdf
+Steve Marschner, Peter Shirley - Fundamentals of Computer Graphics (2021, A K Peters_CRC Press) - libgen.li.pdf
+Steve Parker - Shell Scripting_ Expert Recipes for Linux, Bash and More   (2011, John Wiley & Sons).pdf
+Steve Scargall - Programming Persistent Memory_ A Comprehensive Guide For Developers (2020, Apress).pdf
+Steven F. Lott - Functional Python Programming_ Discover the power of functional programming, generator functions, lazy evaluation, the built-in itertools library, and monads-Packt Publishing (2018).pdf
+Steven F. Lott - Functional Python Programming_ Discover the power of functional programming, generator functions, lazy evaluation, the built-in itertools library, and monads-Packt Publishing (2018)_2.pdf
+Steven F. Lott, Dusty Phillips - Python Object-Oriented Programming_ Build robust and maintainable object-oriented Python applications and libraries (2021, Packt Publishing) - libgen.li.pdf
+steven F.Lott - mastering object-oriented python (2019, Packt Publishing Ltd.) - libgen.lc.pdf
+Steven J. Janke-Mathematical Structures for Computer Graphics-Wiley (2014).pdf
+Steven M. Schafer-HTML, XHTML, and CSS Bible-Wiley (2010).pdf
+Steven S Skiena-The Algorithm Design Manual-Springer (2010).pdf
+Structured Computer Organization (Pearson 2013).pdf
+Structured Computer Organization, Manual.pdf
+SUGANDHA SHARANYA-Data Structures and Algorithms_ USING C (2016).pdf
+Sumit Raj - Building Chatbots with Python_ Using Natural Language Processing and Machine Learning (2019, Apress).pdf
+Sumit Raj - Building Chatbots with Python_ Using Natural Language Processing and Machine Learning-Apress (2019).pdf
+Survey of Operating Systems.pdf
+Susanna S. Epp - Discrete Mathematics_ Introduction to Mathematical Reasoning (2011, Brooks_Cole).pdf
+Sushil K. Prasad, Anshul Gupta, Arnold Rosenberg, Alan Sussman, Charles Weems - Topics in Parallel and Distributed Computing_ Enhancing the Undergraduate Curriculum_ Performance, Concurrency, and Prog.pdf
+Svein Linge, Hans Petter Langtangen-Programming for Computations - Python  A Gentle Introduction to Numerical Simulations with Python-Springer (2016).pdf
+Sven Lennartz, Vitaly Friedman-Mastering CSS For Web Developer-Smashing Media GmbH (2011).pdf
+Swing for Jython Graphical Jython UI and Scripts Development using Java Swing and WebSphere Application Server (Apress 2015).pdf
+Syed Fazle Rahman-Jump Start Bootstrap-SitePoint (2014).pdf
+Sylvain Hellegouarch-CherryPy Essentials - Rapid Python Web Application Development-Packt Publishing (2007).pdf
+Syngress.Publishing.Python.Forensics.A.Workbench.for.Inventing.and.Sharing.Digital.Forensic.Technology.(2014).pdf
+Systems Programming In Unix Linux.pdf
+Systems-Analysis-and-Design-An-Object-Oriented-Approach-with-UML.pdf
+T.R. Padmanabhan-Programming with Python-Springer (2017).pdf
+Tanenbaum Andrew S., Wetherall David J.-Computer Networks-Prentice Hall (2011).pdf
+Teach Your Kids to Code, A Parent-Friendly Guide to Python Programming (No Starch Press 2015).pdf
+Ten-Steps-to-Linux-Survival-Essentials-for-Navigating-the-Bash-Jungle.pdf
+Terry Felke-Morris - Web Development and Design Foundations with HTML5-Pearson (2016).pdf
+Test-Driven Development.with Python (OReilly 2014).pdf
+Testing Python (Wiley 2014).pdf
+The ANSI C Programming Language (Prentice Hall 1988).pdf
+The Art and Craft of Problem Solving, Second Edition-Wiley (2007).pdf
+The art of game design.pdf
+The C++ Programming Language, 4th Edition (Addison-Wesley 2013).pdf
+The Data Science Design Manual.pdf
+The Debian Administrator’s Handbook_ Debian Wheezy from Discovery to Mastery-Freexian SARL (2013).pdf
+The Definitive Guide to SQLite (Apress 2006).pdf
+The Everything Machine.pdf
+The Object-Oriented Thought Process (Addison-Wesley Professional 2008).pdf
+The Passionate Programmer_ Creating a Remarkable Career in Software Development (Pragmatic Life)-Pragmatic Bookshelf (2009).pdf
+The Practice of Computing Using Python [Second Edition] (Addison-Wesley 2012).pdf
+The Pragmatic Programmer,From Journeyman to Master (Addison Wesley 2000).pdf
+The Principles of Object-Oriented JavaScript (No Starch Press 2014).pdf
+The Python Language Reference Manual (Lulu.com 2016).pdf
+The Python Quick Syntax Reference (Apress 2014).pdf
+The Python Standard Library by Example (Pearson 2011).pdf
+The Python Work book.pdf
+The Python Workbook, A Brief Introduction with Exercises and Solutions (Springer International Publishing 2014).pdf
+The Quick Python Book (2).pdf
+The Quick Python Book, Second Edition (Manning Publications 2010).pdf
+The Quick Python Book.pdf
+The ultimate guide to coding with Python (Imagine Publishing Ltd 2016).pdf
+The-Art-of-Linux-Kernel-Design-Illustrating-the-Operating-System-Design-Principle-and-Implementation.pdf
+The-Cambridge-Handbook-of-Artificial-Intelligence.pdf
+The-compiler-design-handbook-optimizations-and-machine-code-generation.pdf
+The-compiler-design-handbook-optimizations-and-machine-code-generation_2.pdf
+The-Hacker-s-Guide-to-Scaling-Python.pdf
+The-Master-Algorithm-How-the-Quest-for-the-Ultimate-Learning-Machine-Will-Remake-Our-World.pdf
+Theory-of-Computation.pdf
+Think Bayes Bayesian Statistics in Python (OReilly 2013).pdf
+Think Like a Programmer (No Starch 2012).pdf
+Think Python (O'Reilly 2012).pdf
+Thinking and Learning Refactor Your Wetware (Pragmatic 2008).pdf
+Thinking in Java [4th Edition] (Prentice Hall 2006).pdf
+ThoCalEarTra13tEdi.pdf
+Thom Parkin-Git Fundamentals-SitePoint (2014).pdf
+Thomas Anderson, Michael Dahlin-Operating Systems_ Principles and Practice-Recursive Books (2012).pdf
+Thomas Claudius Huber-Getting Started with TypeScript _ Includes Introduction to Angular-Amazon Digital Services LLC (2017).pdf
+Thomas Connolly, Carolyn Begg - Database Systems_ A Practical Approach to Design, Implementation, and Management_ Global Edition (2014, Pearson Education Limited).pdf
+Thomas early-13ed-solution.pdf
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein - Introduction to Algorithms-The MIT Press (2022).pdf
+Thomas H. Cormen-Algorithms unlocked-The MIT Press (2013).pdf
+Thomas Mailund (auth.) - Introduction to Computational Thinking_ Problem Solving, Algorithms, Data Structures, and More (2021, Apress) [10.1007_978-1-4842-7077-6] - libgen.li.pdf
+Thomas P. Trappenberg - Fundamentals of Machine Learning (2020, Oxford University Press) [10.1093_oso_9780198828044.001.0001] - libgen.li.pdf
+Thomas Rauber, Gudula Rünger (auth.)-Parallel Programming_ for Multicore and Cluster Systems-Springer Berlin Heidelberg (2010).pdf
+Thomas W. Doeppner - Operating Systems In Depth_ Design and Programming (2010, Wiley).pdf
+Thomas_Calculus_12th.pdf
+Thomas_Calculus_12th_solutions.pdf
+Tiffany B Brown, Kerry Butters, Sandeep Panda-Jump Start HTML5_ Get up to speed with HTML5 in a weekend-SitePoint (2014).pdf
+Tim Chaplin-AngularJS Test-driven Development-Packt Publishing (2015).pdf
+Tim Danton - The Computers That Made Britain_ The Home Computer Revolution of the 1980s (2021, Raspberry Pi Press) - libgen.li.pdf
+Tim Hurson-Think Better_ An Innovator's Guide to Productive Thinking-McGraw-Hill (2007).pdf
+Tim Roughgarden - Algorithms Illuminated (Part 3)_ Greedy Algorithms and Dynamic Programming-Soundlikeyourself Publishing, LLC (2019).pdf
+Tim Roughgarden-Algorithms Illuminated_ Part 1_ The Basics-Soundlikeyourself Publ. (2017).pdf
+tir121009_preview.pdf
+Tkinter GUI Application Development Blueprints (Packt 2016).pdf
+Tkinter GUI Application Development HOTSHOT-Packt Publishing (2013).pdf
+Tobias Macey - 97 Things Every Data Engineer Should Know_ Collective Wisdom from the Experts-O'Reilly (2021).pdf
+Toby Segaran-Programming Collective Intelligence_ Building Smart Web 2.0 Applications-O'Reilly Media (2007).pdf
+Toby Velte, Anthony Velte, Robert Elsenpeter-Cloud Computing, A Practical Approach-McGraw-Hill Osborne Media (2009).pdf
+Tom Aratyn - Building Django 2.0 Web Applications_ Create enterprise-grade, scalable Python web applications easily with Django 2.0-Packt Publishing - ebooks Account (2018).pdf
+Tom Dalling-Programming for Beginners_ Learn to Code by Making Little Games (2015).pdf
+Tom DeMarco, Tim Lister-Peopleware_ Productive Projects and Teams-Addison-Wesley Professional (2013).pdf
+Tom Green, Michael Clawson-Foundation Adobe Edge Animate for HTML5, CSS3, and JavaScript Development-friendsofED (2012).pdf
+Tom Negrino, Dori Smith-Styling Web Pages with CSS_ Visual QuickProject Guide-Peachpit Press (2009).pdf
+Tom Stuart - Understanding Computation_ From Simple Machines to Impossible Programs (2013, O'Reilly Media).pdf
+Tommy Olsson, Paul O'Brien-The CSS_ The Ultimate Reference-SitePoint (2008).pdf
+Tony Gaddis - Starting Out with Python, Global Edition-Pearson Education (2018).pdf
+Tony Gaddis-Starting Out With Python-Pearson (2015).pdf
+Too Big to Ingnore.pdf
+Trigonometry  (Birkhäuser 2001).pdf
+Trigonometry.pdf
+Tristan Bunn - Learn Python Visually_ Creative Coding with Processing.py (2021, No Starch Press) - libgen.li.pdf
+Twisted Network Programming Essentials, 2nd Edition (O'reilly 2014).pdf
+Two Scoops of Django_ Best Practices for Django 1.8-Two Scoops Press (2015).pdf
+Umesh Kumar Tiwari, Santosh Kumar - Component-Based Software Engineering_ Methods and Metrics-CRC Press (2020).pdf
+Understanding Network Hacks, Attack and Defense with Python (Springer 2015).pdf
+Understanding Operating Systems.pdf
+Understanding-Machine-Learning-From-Theory-to-Algorithms.pdf
+UNIX-and-Linux-System-Administration-Handbook.pdf
+UX Strategy How to Devise Innovative Digital Products that People Want (O'Reilly Media 2015).pdf
+V. Keerti Kotaru (auth.)-Material Design implementation with AngularJS_ UI Component Framework-Apress (2016).pdf
+V. Rajaraman, C. Siva Ram Murthy-Parallel Computers Architecture and Programming-PHI (2016).pdf
+Valentina Porcu - Python for Data Mining Quick Syntax Reference-Apress (2019).pdf
+Valeri Karpov, Diego Netto-Professional AngularJS-Wrox (2015).pdf
+Varela C.A.-Programming distributed computing systems_ a foundational approach-MIT (2013).pdf
+Various - Computer Science (Grade 11) (2020, National Book Foundation, Federal Textbook Board) - libgen.li.pdf
+Various - Computer Science (Grade 12). 12-National Book Foundation, Federal Textbook Board (2020).pdf
+Vasan Subramanian - Pro MERN Stack_ Full Stack Web App Development with Mongo, Express, React, and Node (2019, Apress).pdf
+Vaughn Vernon-Domain-Driven Design Distilled-Addison-Wesley Professional (2016).pdf
+Ved Antani_ Gaston C. Hillar_ Stoyan Stefanov - Javascript_ Object Oriented Programming (2016, Packt Publishing).pdf
+Vedran Dakic, Jasmin Redzepagic - Linux Command Line and Shell Scripting Techniques_ Master practical aspects of the Linux command line and then use it as a part (2022, Packt Publishing) - libgen.li.pdf
+Vidya Vrat Agarwal-Beginning C_ 5.0 Databases, 2nd Edition-Apress (2).pdf
+Vikash Yadav, Anil Kumar Dubey, Harivans Pratap Singh, Gaurav Du - Process Mining Techniques for Pattern Recognition_ Concepts, Theory, and Practice (2022, CRC Press) - libgen.li.pdf
+Vincent, Jean-Pierre_ Verrecchia, Jonathan-HTML5 _ De la page web à l'application web-Dunod (2012).pdf
+Vinci Rufus-AngularJS Web Application Development Blueprints-Packt Publishing - ebooks Account (2014).pdf
+Violent Python (Syngress 2012).pdf
+Vladimir Silva - Practical Quantum Computing for Developers_ Programming Quantum Rigs in the Cloud using Python, Quantum Assembly Language and IBM QExperience-Apress (2019).pdf
+W. David Ashley, Andrew Krause - Foundations of PyGTK Development_ GUI Creation with Python-Apress (2019).pdf
+Walter Goralski - The Illustrated Network_ How TCP_IP Works in a Modern Network (2017, Morgan Kaufmann).pdf
+Wan Fokkink-Distributed Algorithms_ An Intuitive Approach-The MIT Press (2013).pdf
+Web Design Farsi.pdf
+Web Development Recipes.pdf
+Web Scraping with Python (Packt 2014).pdf
+Web Scraping with Python - Collecting Data from the Modern Web (O'Reilly 2015).pdf
+Wenbing Zhao - From Traditional Fault Tolerance to Blockchain-Wiley-Scrivener (2021).pdf
+Wes McKinney - Python for Data Analysis_ Data Wrangling with Pandas, NumPy, and IPython-O’Reilly Media (2017).pdf
+Wesley Chun-Core Python Programming (2nd Edition)-Prentice Hall (2006).pdf
+Whitney, David - Get coding! (2016) - libgen.lc.pdf
+Wiley.Architectures.for.Computer.Vision.111865918X.pdf
+Wiley.Desing for software .May.2013.ISBN.111994290X.pdf
+Wiley.Princip.7th.Edition.Jun.2014.ISBN.1118078918.pdf
+Wiley.Principles.of.Mathematics.A.Primer.1119131642.pdf
+Wiley.Smashing.Android.UI.Oct.2012.ISBN.1118387287_3.pdf
+Wiley.The.Annotated.Turing.Jun.2008.ISBN.0470229055_2.pdf
+William E. Shotts, Jr. - The Linux Command Line_ A Complete Introduction (2012, No Starch Press).pdf
+William Harrel-HTML, CSS, and JavaScript Mobile Development For Dummies-Wiley (2011).pdf
+William S. Vincent - Django for APIs_ Build Web APIs with Python & Django (2019) - libgen.lc.pdf
+William S. Vincent - Django For Beginners_ Build Websites With Python And Django-Independently Published (2018).pdf
+William S. Vincent - Django for Professionals_ Production Websites with Python & Django (2019) - libgen.lc.pdf
+William Strunk Jr., E. B. White, Roger Angell-The Elements of Style, Fourth Edition-Longman (1999).pdf
+Witold Wysota, Lorenz Haas-Game Programming Using QT-Packt Publishing (2016).pdf
+Wladston Ferreira Filho-Computer Science Distilled-code energy (2017).pdf
+Wolfram Donat - Jumpstarting C_ Learn the All-Purpose Programming Language for Microcontrollers and Computers-Maker Media, Inc (2018).pdf
+WordPress Smashing.pdf
+Y Daniel Liang - Introduction to Java Programming and Data Structures, Comprehensive Version-Pearson (2017).pdf
+Yang Kuang PhD, Michelle Rose Gilman - Pre-Calculus Workbook For Dummies-For Dummies (2011).pdf
+Yonghui Wu, Jiande Wang - Data Structure Practice_ for Collegiate Programming Contests and Education-CRC Press (2016).pdf
+Yonghui Wu, Jiande Wang-Data Structure Practice_ for Collegiate Programming Contests and Education-CRC Press (2016).pdf
+Zachariah Moreno-AngularJS Deployment Essentials-Packt Publishing ( 2015).pdf
+Zachary Kessin-Programming HTML5 Applications_ Building Powerful Cross-Platform Environments in Javascript  -O'Reilly Media (2011).pdf
+Zed A. Shaw-Learn Python 3 the Hard Way-Addison-Wesley (2017).pdf
+Zsolt Nagy - Soft Skills to Advance Your Developer Career_ Actionable Steps to Help Maximize Your Potential-Apress (2019).pdf
+[1863-7310] Kingsley Sage - Concise Guide to Object-Oriented Programming - An Accessible Approach Using Java. (2019).pdf
+[Addison-Wesley Object Technology Series] Martin Fowler - Refactoring_ Improving the Design of Existing Code (2018, Addison-Wesley Professional).pdf
+[Advances in Web Technologies and Engineering] Yakup Akgl - App and Website Accessibility Developments and Compliance Strategies (2021, Engineering Science Reference) - libgen.li.pdf
+[AI for Everything] Niklas Hageback - AI for Creativity (2021, CRC Press) - libgen.li.pdf
+[All-in-One] Michael Meyers - CompTIA Network+ Certification All-in-One Exam Guide (Exam N10-006) (2015, McGraw-Hill Education).pdf
+[Brandon_Corbin]_WordPress_Top_Plugins(BookFi).pdf
+[Bruno_Miguel_Teixeira_de_Sousa]_Game_Programming_(BookSee.org).pdf
+[Cambridge International Examinations] Sylvia Langfield, Dave Duddell - Cambridge International AS and A Level Computer Science Coursebook (2016, Cambridge University Press).pdf
+[Cay_S._Horstmann]_Core_Java_Volume_I--Fundamental(BookZZ.org).pdf
+[Changqing_Li]_Advanced_Applications_and_Structure(b-ok.org).pdf
+[Chapman _ Hall_CRC Textbooks in Computing] Mark J. Johnson - A Concise Introduction to Programming in Python, Second Edition (2018, Chapman and Hall_CRC).pdf
+[Charles_Platt]_Make_Electronics(BookFi).pdf
+[Chuck_Tomasi,_Kreg_Steppe]_Sams_Teach_Yourself_Wo(BookFi).pdf
+[Computer software engineering series] Jeffrey D Ullman - Principles of database systems (1980, Computer Science Press).pdf
+[Cynthia_Y._Young]_Algebra_and_Trigonometry(BookZZ.org).pdf
+[Deborah_Morley_and_Charles_S._Parker]_Understandi(b-ok.org).pdf
+[Engineering Computer Science Engineering Series] Arijit Saha, Nilotpal Manna - Digital Principles and Logic Design (Engineering) (Computer Science) (Engineering Series) (2007, Jones & Bartlett Publishers).pdf
+[Essentials of Physics Series] Darren Walker PhD - Computational Physics (2022, Mercury Learning and Information) - libgen.li.pdf
+[For Dummies] Camille McCue - Coding for Kids for Dummies (2019, Wiley).pdf
+[For Dummies] John Paul Mueller - Functional Programming for Dummies (2019, Wiley).pdf
+[For Dummies_ Computers] Chris Minnick, Eva Holland - JavaScript For Kids For Dummies (2015, Wiley).pdf
+[Forrest_M._Mims_III]_Getting_started_in_electroni(BookFi).pdf
+[George_Plumley]_WordPress_24-Hour_Trainer_Watch,(BookFi).pdf
+[Jeff_Siarto]_Head_First_WordPress_A_Brain-Friend(BookFi).pdf
+[Larry_Gonick,_Craig_Criddle]_The_cartoon_guide_to(BookZZ.org).pdf
+[Learning] Larry Rockoff - The Language of SQL (2016, Addison-Wesley).pdf
+[Lisa_Sabin-Wilson,_Cory_Miller,_Kevin_Palmer,_And(BookFi).pdf
+[Lisa_Sabin-Wilson]_WordPress®_For_Dummies®(BookZZ.org).pdf
+[Mathematics Research Developments] Mikhail S. Tarkov - Parallel Programming_ Practical Aspects, Models and Current Limitations (2014, Nova Science Pub Inc).pdf
+[Matthew_MacDonald]_WordPress_The_Missing_Manual(BookZZ.org).pdf
+[MindTap Course List] Patrick M. Carey - New Perspectives on HTML 5 and CSS_ Comprehensive_ Comprehensive (2020, Cengage Learning) - libgen.li.pdf
+[Oxford higher education] Chauhan, Naresh - Principles of operating systems (2014, Oxford University Press).pdf
+[Oxford Studies in Language and Law] Stefan Larsson - Conceptions in the code_ how metaphors explain legal challenges in digital times (2017, Oxford University Press).pdf
+[Pragmatic programmers] Joe Kutner - The healthy programmer_ get fit, feel better, and keep coding (2013, Pragmatic Bookshelf) - libgen.lc.pdf
+[Prentice-Hall International series in computer science] Richard Bornat - Programming from First Principles (Prentice-Hall International series in computer science) (1986, Pearson Education Limited).pdf
+[Principles of computer science series] Naqvi, Shamim_ Tsur, Shalom - A logical language for data and knowledge bases (1989, Computer Science Press).pdf
+[Principles of Science] Salem Press - Principles of Computer Science (2016, Salem Pr).pdf
+[Raena_Jackson_Armitage,_Mick_Olinik]_The_WordPress Anthology.pdf
+[Robert_C._Martin]_Agile_Software_Development,_Pri(BookZZ.org).pdf
+[Ron_Larson_(with_the_assistance_of_David_C._Falvo(BookZZ.org).pdf
+[Russell_C._Hibbeler]_Structural_Analysis_-_Hibbel(b-ok.org).pdf
+[Sams Teach Yourself] Greg Perry, Dean Miller - Beginning Programming in 24 Hours, Sams Teach Yourself (4th Edition) (2019, Sams Publishing) - libgen.lc.epub
+[Samuel_P._Harbison,_Guy_L._Steele]_C_A_Reference(BookFi).pdf
+[Sam_Priddy,_Sam_Atkinson,_Lizzie_Davey,_Daniel_Mi(b-ok.org).pdf
+[Smith,_I._M.;_Griffiths,_D._V;_Margetts,_L]_Progr(b-ok.org).pdf
+[Study Guide] William S. Davis, Shohreh S. Hashemi - Operating systems_ a systematic view_ study guide (2001, Addison Wesley Publishing Company).pdf
+[Thord_Daniel_Hedengren]_Smashing_WordPress_Beyon(BookFi).pdf
+[Wiley Series in Probability and Statistics] Steven W. Knox - Machine Learning_ a Concise Introduction (2018, Wiley)_2.pdf
+[Wrox Beginning guides] Neil Matthew, Richard Stones - Beginning Linux programming (2007, Wiley).pdf
