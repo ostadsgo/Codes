@@ -23,24 +23,24 @@ class Player(pg.sprite.Sprite):
         self.rect = self.image.get_rect()
         self.rect.centerx = WIDTH / 2
         self.rect.bottom = HEIGHT - 10
-        self.speedx = 5
+        self.speedx = 0
         self.go_right = True
         self.go_left = False
 
     def update(self):
-        if self.go_right:
-            self.rect.x += self.speedx
+        self.speedx = 0
+        keystate = pg.key.get_pressed()
 
-        if self.rect.right >= WIDTH:
-            self.go_right = False
-            self.go_left = True
-
-        if self.go_left:
-            self.rect.x -= self.speedx
-
-        if self.rect.left <= 0:
-            self.go_left = False
-            self.go_right = True
+        if keystate[pg.K_LEFT]:
+            self.speedx = -5
+        if keystate[pg.K_RIGHT]:
+            self.speedx = 5
+        self.rect.x += self.speedx
+        # check wall
+        if self.rect.right > WIDTH:
+            self.rect.right = WIDTH
+        if self.rect.left < 0:
+            self.rect.left = 0
 
 
 # initial pg and create main window
