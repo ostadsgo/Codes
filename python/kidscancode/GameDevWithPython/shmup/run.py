@@ -1,4 +1,5 @@
 import pygame as pg
+import random
 
 
 WIDTH = 360
@@ -43,6 +44,21 @@ class Player(pg.sprite.Sprite):
             self.rect.left = 0
 
 
+class Mob(pg.sprite.Sprite):
+    def __init__(self):
+        super().__init__()
+        self.image = pg.Surface((50, 50))
+        self.image.fill(RED)
+        self.rect = self.image.get_rect()
+        # position of the mob
+        self.rect.x = random.randrange(WIDTH - self.rect.width)
+        self.rect.y = random.randrange(-100, 40)
+        self.speedy = random.randrange = (1, 8)
+
+    def update(self):
+        self.rect.y += self.speedy
+
+
 # initial pg and create main window
 pg.init()
 pg.mixer.init()
@@ -52,7 +68,9 @@ clock = pg.time.Clock()
 
 all_sprites = pg.sprite.Group()
 player = Player()
+mob = Mob()
 all_sprites.add(player)
+all_sprites.add(mob)
 
 
 running = True
