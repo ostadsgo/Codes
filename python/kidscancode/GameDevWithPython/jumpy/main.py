@@ -1,6 +1,7 @@
 # Jumpy platform game.
 import pygame as pg
 from settings import *
+from sprite import *
 
 
 class Game:
@@ -11,10 +12,23 @@ class Game:
         pg.display.set_caption(TITLE)
         self.clock = pg.time.Clock()
         self.running = True
+        # sprite groups
+        self.all_sprites = pg.sprite.Group()
+        self.paltforms = pg.sprite.Group()
 
     # start new game if you lose.
     def new(self):
-        self.all_sprites = pg.sprite.Group()
+        # make a player
+        self.player = Player()
+        self.all_sprites.add(self.player)
+        # make a platform
+        p1 = Platform(0, HEIGHT - 40, WIDTH, 60)
+        p2 = Platform(WIDTH / 2, 450, 100, 10)
+        self.all_sprites.add(p1)
+        self.all_sprites.add(p2)
+        self.paltforms.add(p1)
+        self.paltforms.add(p2)
+        # run the game
         self.run()
 
     # Game loop
@@ -28,6 +42,10 @@ class Game:
 
     def update(self):
         self.all_sprites.update()
+        hits = pg.sprite.spritecollide(self.player, self.paltforms, False)
+        if hits:
+            self.player.pos.y = hits[0].rect.top
+            self.player.vel.y = 0
 
     def events(self):
         for event in pg.event.get():
