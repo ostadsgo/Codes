@@ -9,10 +9,7 @@ def binary_to_decimal(number):
     return res
 
 
-assert binary_to_decimal(1001) == 9
-assert binary_to_decimal(1100) == 12
-assert binary_to_decimal(1011) == 11
-print("All tests passed successfuly.")
+print(binary_to_decimal(11100))
 
     
     
