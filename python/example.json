@@ -1,0 +1,44 @@
+john: 12, "london","UK", 
+joe: 19, "Bosston","US",
+
+
+name = x.split(":")[0]
+age = x.split(":")[1:][0]
+city = x.split(":")[1:][1]
+
+# CSV (Comma Seperated Values)
+
+john,12,"london","uk", "1.80", "Bachlor",
+
+name, age, city, country, *reset = x.split(",")
+
+
+# XML (extensible Markup Language)
+<person>
+    <name>John</name>
+    <age>12</age>
+    <city>London</city>
+    <country>US</country>
+    <rest>
+        <hight>1.8</hight>
+        <grduate>Bachlor</grduate>
+    </rest>
+</person>
+
+# JSON (Javascript Object Notion)
+
+[
+    {"name": "John", "age": 12, "city": "London"},
+    {"name": "Jeff", "age": 22, "city": "London", "rest": {"hight": 1.9, "country": "UK"}},
+],
+
+{"weather": 10, "status": "fog", "rainper": "25%"}
+
+TOML
+-
+name:john
+age: 12
+
+
+
+
