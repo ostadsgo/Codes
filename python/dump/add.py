@@ -30,3 +30,7 @@ while True:
         print('wrong choice.')
     input()
         
+def x():
+  pass
+def x():
+    pass

@@ -28,7 +28,7 @@ class ElementTable:
     def make(self, text):
         """Make a table based on give text (semi table text.)"""
 
-    j
+        pass
 
 
 def element_pattern(text: str) -> list[str]:
