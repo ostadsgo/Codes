@@ -3,10 +3,7 @@ import random
 x = random.randint(1, 20)
 print("The random number is", x)
 
-print("Lila gool ast.")
 
-import turtle as t
-pen = t.Pen()
-pen.forward(100)
-
+s = "This is a my message to everybody."
+s += "learn how to create programm. It is a way of thinking."
 
