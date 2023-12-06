@@ -8,3 +8,16 @@ try:
 except ValueError:
     print("Please enter interger value.")
 
+
+["Even", "Odd"][4 % 2]
+
+["Even", "Odd"][0]
+
+
+x = ["Even", "Odd"]
+
+x = [4 % 2]
+
+x[0] # => Even
+
+
