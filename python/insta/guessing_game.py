@@ -1,5 +1,6 @@
 from random import randrange
 
+d = {"hello": "salama"}
 
 HAND = 10
 RANDOM_NUMBER = randrange(1, 100)
@@ -19,3 +20,12 @@ while HAND > 0:
 
 if HAND <= 0:
     print("You didn't win this time :-(")
+
+
+# this is a comment
+def hello():
+    return "hello"
+
+"""
+"""
+hello()

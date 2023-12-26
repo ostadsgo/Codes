@@ -1,0 +1,67 @@
+#!/bin/bash
+
+
+RED='\033[0;31m'
+NC='\033[0m'  # No Color
+
+items=(
+"${RED}ni${NC}     Network Info (Network information)"
+""
+"${RED}ua${NC}     User Add (Create 3 new user)"
+"${RED}ul${NC}     User List (List all login users)"
+"${RED}uv${NC}     User View (View user properties)"
+"${RED}um${NC}     User Modify (Modify user properties)"
+"${RED}ud${NC}     User Delete (Delete a login user)"
+""
+"${RED}ga${NC}     Group Add (Create a new group)"
+"${RED}gl${NC}     Group List (List all groups, not system groups)"
+"${RED}gv${NC}     Group View (List all users in a group)"
+"${RED}gm${NC}     Group Modify (Add/remove user to/fron a group)"
+"${RED}gd${NC}     Group Delete (Delete a group, not system groups)"
+""
+
+"${RED}fa${NC}     Folder Add (Create a new folder)"
+"${RED}fl${NC}     Folder List (View content in a folder)"
+"${RED}fv${NC}     Folder View (View folder properties)"
+"${RED}fm${NC}     Folder Modify (Modify folder properties)"
+"${RED}fd${NC}     Folder Delete (Delete a folders)"
+""
+"${RED}ex${NC}     Exit"
+)
+
+
+clear
+echo "********************************"
+echo "SYSTEM MANAGER (version 1.0.0)"
+echo "--------------------------------"
+# Print out the menu items.
+for item in "${items[@]}"; do
+    echo -e "$item"
+done
+echo "--------------------------------"
+
+read -rp  "Choice: " user_choice
+
+# Network information
+if [ "$user_choice" == "ni" ];
+then
+    computer_name=$(uname -n)
+    echo "${RED}Computer name:${NC} $computer_name"
+    
+    network_interfaces=$(ip addr | awk '/^[0-9]+:/ {print $2}' | cut -d ':' -f 1)
+    echo "$network_interfaces"
+
+# User add
+elif [ "$user_choice" == "ua" ];
+then
+    echo "elif"
+
+# Exit
+elif [ "$user_choice" == "ex" ]
+then
+    exit
+else
+    echo "Error: Invalid choice."
+fi
+
+
