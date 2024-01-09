@@ -10,3 +10,11 @@ def iseven2(n):
         return False
 
 
+def main():
+    # this is the main function
+    iseven(1)
+
+
+
+if __name__ == "__main__":
+    pass

@@ -1,3 +1,7 @@
+from math import sqrt
+
+
+
 def normal():
     chars = "aaaabbaaccaadddcaad"
     counter = {}

@@ -1,3 +1,7 @@
+from math import sqrt
+
+sqrt(16)
+print("This is a programm that draw dimond.")
 
 
 def triangle(n: int):
@@ -12,7 +16,11 @@ def triangle(n: int):
 
 def draw_diamond(n: int):
     lines = triangle(n)
-    print('\n'.join(lines))
-    print('\n'.join(lines[-2::-1]))
+    print("\n".join(lines))
+    print("\n".join(lines[-2::-1]))
 
-draw_diamond(5)
+
+try:
+    draw_diamond(5)
+except ValueError:
+    pass
