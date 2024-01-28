@@ -1,6 +1,5 @@
 import random
 import sys
-import time
 
 import pygame as pg
 
@@ -17,7 +16,6 @@ def main():
     screen = pg.display.set_mode((screen_width, screen_hight))
     clock = pg.time.Clock()
 
-    i = 1
     # create game loop
     running = True
     while running:
@@ -33,12 +31,9 @@ def main():
         screen.fill(color)
         pg.display.flip()
 
-        print("berfore tick", i)
         # frame rate / aka wait to see the screen change
-        clock.tick(2)
-        print("after tick", i)
+        clock.tick(10)
         
-        i += 1
 
     pg.quit()
     sys.exit()
