@@ -1,6 +1,9 @@
 import math
 import table
 
+x = 0
+if x: 
+ print('hello')
 
 class MomentA:
     plane1 = []

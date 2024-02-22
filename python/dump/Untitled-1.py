@@ -1,16 +1,17 @@
-def has_duplicates(lst):
-    element_count = {}
-    for elem in lst:
-        if elem in element_count:
-            # Perform some action if elements are equal
-            element_count[elem] = element_count.get(elem, 0) + 1
-        #     element_count[elem] += 1 # x += 1   x = x + 1
-        # else:
-        #     element_count[elem] = 1
+test_string = "Some string." 
+vowel_count = 0
 
-    return element_count
+for ch in test_string:
+    if ch == 'a' or ch == 'A':
+        vowel_count += 1
+    if ch == 'e' or ch == 'E':
+        vowel_count += 1
+    if ch == 'i' or ch == 'I':
+        vowel_count += 1
+    if ch == 'o' or ch == 'O':
+        vowel_count += 1
+    if ch == 'u' or ch == 'U':
+        vowel_count += 1
 
+print(vowel_count)  # => 3
 
-x = "hello world"
-res = has_duplicates(x)
-print(res)
