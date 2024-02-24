@@ -1,0 +1,13 @@
+tk = import("tkinter");
+ttk = import("tkinter.ttk");
+
+
+
+main :: () {
+    root := tk.Tk();
+    root.title("Hello World Program");
+    button = ttk.Button(root, text="Some button");
+    button.pack();
+    root.mainloop();
+}
+
