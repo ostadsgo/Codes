@@ -1,7 +1,14 @@
 import tkinter as tk
-
 from tkinter import ttk
 
+number: int = 10
+
+type("string")
+set("something")
+dict("hello")
+
+def function(name: str, age: int) -> str:
+    return "hello"
 
 def calculate():
     try:

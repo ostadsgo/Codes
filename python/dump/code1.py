@@ -1,9 +1,13 @@
 
+def say_hello(name: str) -> str:
+    return f"Hello {name}"
 
 
 
-# Variables
-name = "John"
-age = 1
+def main():
+    name: str = "John"
+    print(say_hello(name))
 
 
+if __name__ == "__main__":
+    main()
