@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1rem;
+    --white: #fff;
+}
+
+body {
+    background: rgb(226, 183, 183);
+}
+
+main {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid red;
+
+}
+
+.mainframe {
+    display: flex;
+    width: 60%;
+    margin: 0 auto;
+}
+
+main img {
+    width: 300px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    gap: 4.5em;
+    padding: 5% 10%;
+    min-width: 580px;
+    background-color: var(--white);
+    margin: 0 auto;
+
+}
+
+.content h1 {
+    font-weight: 700;
+    font-size: 3rem;
+    width: 150px;
+}
+
+.content img {
+    width: 120px;
+}
+
+.content p {
+    line-height: 1.2;
+    margin-top: 1.5em;
+}
+
+.content h1,
+.content p,
+.content input {
+    margin-bottom: .3em;
+}
+
+
+.subscribe {
+    margin-top: 1.5em;
+    position: relative;
+}
+
+.subscribe input {
+    border-radius: 20px;
+    outline: none;
+    border: 1px solid gray;
+    padding: .4em 1.5em;
+}
+
+.subscribe button {
+    padding: .5em 2em;
+    border-radius: 20px;
+    position: absolute;
+    left: 180px;
+    background: linear-gradient(139deg, rgba(214, 200, 200, 1) 0%, rgba(121, 9, 68, 1) 39%, rgba(147, 36, 86, 1) 100%);
+    border: none;
+    color: var(--white)
+}

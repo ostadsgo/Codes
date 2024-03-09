@@ -1,22 +1,3 @@
-# password = "Pyth0n&me"
-# symobls = "!@#$%%^&*()_+-="
-# is_upper = 0
-# is_digit = 0 
-# is_symbol = 0
-# pass_length = 8
-# for ch in password:
-#     if ch.isupper():
-#         is_upper += 1
-#     if ch.isdigit():
-#         is_digit += 1
-#     if ch in symobls:
-#         is_symbol += 1
-#     print(ch, "is upper", is_upper, "is digit", is_digit, "is symbol", is_symbol)
-#
-# strength = is_upper + is_digit + is_symbol
-# print(strength)
-#
-#
 from string import punctuation
 
 
@@ -37,6 +18,36 @@ def password_strength(password: str) -> int:
         rules = [ch.isupper(), ch.isdigit(), ch in punctuation]
         strength += 1 if any(rules) else 0
     return strength
+
+def has_upper(passwd: str) -> bool:
+    for ch in passwd:
+        if ch.isupper:
+            return True
+    return False
+
+def has_punch(passwd: str) -> bool:
+    for ch in passwd:
+        if ch in punctuation:
+            return True
+    return False
+
+def has_num(passwd: str) -> bool:
+    for ch in passwd:
+        if ch in  "1234567890":
+            return True
+    return False
+
+def is_it_strong(passwd: str) -> bool:
+    """ If the length of the passwd is 8 character or more 
+        and it is contain at least one upper char one puncuation 
+        and one number return True otherwise False
+    """
+    conds = [
+        len(passwd) >= 8,
+        has_upper(passwd),
+        has_punch(passwd),
+        has_num(passwd)
+    ]
 
 
 assert password_strength("Python!") == 2

@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+
+*, 
+*::after, 
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    --dark-cyan: hsl(185, 75%, 39%);
+    --very-dark-desaturated-blue: hsl(229, 23%, 23%);
+    --dark-grayish-blue: hsl(227, 10%, 46%);
+    --dark-gray: hsl(0, 0%, 59%);
+}
+
+body {
+    max-width: 1440px;
+    background-color: var(--dark-cyan);
+}
+
+main {
+    min-width: 100vw;
+    min-height: 100vh;
+    background: url("images/bg-pattern-bottom.svg") no-repeat 650px 350px;
+}
+
+.main-window {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 100vw;
+    min-height: 100vh;
+}
+
+.top-img {
+    position: absolute;
+    top: -80%;
+    left: -25%;
+}
+
+
+
+.profile {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.profile > img {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.profile-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 1.5em;
+}
+
+.profile-content > h3 {
+    color: var(--very-dark-desaturated-blue);
+    font-size: 1rem;
+}
+
+.profile-content #age {
+    color: var(--dark-gray);
+    margin-left: 1em;
+    font-weight: 400;
+}
+
+.profile-content #city {
+    color: var(--dark-gray);
+    font-size: .8rem;
+    margin-top: 5px;
+    font-weight: 800;
+
+}
+.profile-content > img {
+    border-radius: 50%;
+    margin-top: -30%;
+    border: 5px solid #fff;
+    padding-bottom: 1em;
+}
+
+
+
+.profile-footer {
+    padding-block: 1.5em;
+    display: flex;
+    border-top: 1px solid rgb(221, 220, 220);
+    width: 100%;
+    justify-content: space-evenly;
+    color: var(--very-dark-desaturated-blue);
+    font-size: 1rem;
+}
+
+.stat > p {
+    font-size: 12px;
+    color: var(--dark-gray);
+}
+
+
+/* Media query */
+@media only screen  and (max-width: 500px) {
+    main {
+    background: url("images/bg-pattern-bottom.svg") no-repeat 100px 350px;
+        
+    }
+
+    .top-img {
+        top: -20%;
+        left: -70%;
+        width: 100%;
+    }
+    
+}
+
+
+
+
+

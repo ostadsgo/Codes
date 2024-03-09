@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: hsl(217, 54%, 11%);
+  height: 100%;
+}
+
+.card {
+  background-color: hsl(216, 50%, 16%);
+  margin: auto;
+  width: 50%;
+  border-radius: 10px;
+}
+
+#card-img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.card-body {
+  padding: 1rem;
+}
+
+.card-body h4 {
+  color: hsl(0, 0%, 100%);
+  margin-top: 10px;
+}
+
+.card-body p {
+  color: hsl(215, 51%, 70%);
+  margin-top: 20px;
+}
+
+.price {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.price .eth {
+  color: hsl(178, 100%, 50%);
+}
+
+.eth span {
+  margin-top: -10px;
+}
+
+.price .days-left {
+  color: hsl(215, 51%, 70%);
+}
+
+
+
+.user {
+  display: flex;
+  margin-top: 10px;
+  margin-left: 1rem;
+  padding-bottom: 1rem;
+}
+
+.user p {
+  color: hsl(215, 51%, 70%);
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.user img {
+  width: 32px;
+  height: 32px;
+  border: 2px solid white;
+  border-radius: 50%;
+}
+
+#text-white {
+  color: hsl(0, 0%, 100%);
+}
+
+hr {
+  color: hsl(215, 32%, 27%);
+  margin: 0  15px 15px;
+
+}
+
+

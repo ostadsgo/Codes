@@ -1,0 +1,134 @@
+.header {
+
+  &.open {
+
+    .overlay {
+      animation: fade-in 300ms ease-in-out forwards ;
+    }
+
+    .header__toggle {
+      > span:first-child {
+        transform: rotate(45deg);
+      }
+      
+      > span:nth-child(2) {
+        opacity: 0;
+      }
+      
+      > span:last-child {
+        transform: rotate(-45deg);
+      }
+    } // end toggle 
+  } // end of open
+
+  // overlay
+  .overlay {
+    opacity: 0;
+    position: fixed;
+    top: 3.75rem;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: linear-gradient($darkBlue, transparent);
+    animation: fade-out 300ms ease-in-out forwards ;
+  }
+
+  nav {
+    padding-top: 1.0625rem;
+    padding-bottom: 1.0625rem;
+  } 
+
+  &__logo {
+    img {
+      width: 8.8125rem;
+      height: 1.375rem;
+    }
+  }
+ 
+  // mobile menu
+  &__toggle { 
+
+    > span {
+      display: block;
+      width: 26px;
+      height: 2px;
+      background-color: $darkBlue;
+      transition: all 300ms ease-in-out;
+      transform-origin: 3px 1px;
+
+      &:not(:last-child) {
+        margin-bottom: 5px;
+      }
+    }
+  } // end of __toggle
+
+  &__menu {
+    position: absolute;
+    background: $white;
+    padding: 1.625rem;
+    border-radius: 5px;
+    margin-top: 1.5rem;
+    width: calc(100% - 3rem);
+    left: 50%;
+    transform: translateX(-50%);
+
+
+    a {
+      display: block;
+      color: $darkBlue;
+      padding: 0.625rem;
+      text-align: center;
+    }
+  }
+
+  &__links {
+    a {
+      position: relative;
+      font-size: $fontSm;
+      color: $grayishBlue;
+      transition: color 300ms ease-in-out;
+      
+      &:not(:last-child) {
+        margin-right: 32px;
+      }
+
+      &::before {
+        content: "";
+        display: block;
+        position: absolute;
+        height: 5px;
+        background: linear-gradient(to right, $limeGreen, $brightCyan);;
+        left: 0;
+        right: 0;
+        bottom: -30px;
+        opacity: 0;
+        transition: opacity 300ms ease-in-out;
+      }
+
+      &:hover {
+        color: $darkBlue;
+
+        &::before {
+          opacity: 1;
+        }
+      }
+
+
+
+    }
+  }
+
+  &__cta {
+    font-size: $fontSm;
+    font-weight: 400;
+    color: white;
+    transition: opcity 300ms ease-in-out;
+    
+    &:hover {
+      opacity: 0.75;
+    }
+  }
+
+}
+
+

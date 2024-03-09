@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bright-orange: hsl(31, 77%, 52%);
+  --dark-cyan: hsl(184, 100%, 22%);
+  --very-dark-cyan: hsl(179, 100%, 13%);
+  --very-light-gray: hsl(0, 0%, 95%);
+  --t-white: hsla(0, 0%, 100%, 0.75);
+}
+
+a {
+  text-decoration: none;
+}
+
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  height: 100vh;
+  margin: 0 auto;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2em;
+  min-width: 220px;
+  min-height: 300px;
+  padding: 1.7em;
+}
+
+.card img {
+  width: 42px;
+}
+
+.card h2 {
+  font-family: 'Big Shoulders Display';
+  font-weight: 700;
+  color: var(--t-white);
+}
+
+.card p,
+.card a {
+  font-size: 15px;
+  font-family: 'Lexend Deca';
+  font-weight: 400;
+}
+
+.card p {
+  line-height: 1.7;
+  color: var(--t-white);
+}
+
+.card a {
+  background: var(--very-light-gray);
+  display: block;
+  margin-top: 3em;
+  width: 100px;
+  border-radius: 30px;
+  text-align: center;
+  padding: .6em;
+}
+
+.card a:hover {
+  background: none;
+  outline: 3px solid var(--very-light-gray);
+  color: var(--very-light-gray);
+}
+
+.card-1 {
+  background: var(--bright-orange);
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+
+.card-1 a {
+  color: var(--bright-orange);
+}
+
+.card-2 {
+  background-color: var(--dark-cyan);
+}
+
+.card-2 a {
+  color: var(--dark-cyan);
+}
+
+.card-3 {
+  background-color: var(--very-dark-cyan);
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+
+.card-3 a {
+  color: var(--very-dark-cyan);
+}
+
+@media screen and (max-width: 375px) {
+  .cards {
+    flex-direction: column;
+    height: 100%;
+    margin-block: 10%;
+  }
+
+  .card-1 {
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 6px;
+  }
+
+  .card-3 {
+    border-bottom-left-radius: 6px;
+    border-top-right-radius: 0;
+  }
+
+
+}

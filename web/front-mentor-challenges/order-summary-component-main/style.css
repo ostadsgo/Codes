@@ -1,0 +1,123 @@
+* {
+  padding: 0;
+  margin: 0;    
+  box-sizing: border-box;
+}
+
+:root {
+  --pale-blue: hsl(225, 100%, 94%);
+  --bright-blue: hsl(245, 75%, 52%);
+  --very-pale-blue: hsl(225, 100%, 98%);
+  --desaturated-blue: hsl(224, 23%, 55%);
+  --dark-blue: hsl(223, 47%, 23%);
+}
+
+a {
+  text-decoration: none;
+  color: var(--bright-blue);
+}
+
+ul {
+  list-style-type: none;
+}
+
+
+p {
+  color: var(--desaturated-blue);
+}
+
+.container {
+  background: url("images/pattern-background-desktop.svg") no-repeat var(--pale-blue);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card {
+  width: 350px;
+  background-color: var(--very-pale-blue);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.card > img {
+  width: 100%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  margin-bottom: 30px;
+}
+
+.card > h2 {
+  margin-bottom: 10px;
+}
+
+.card > p {
+  font-size: 14px;
+  width: 80%;
+  margin: auto;
+}
+
+.card > h2, .card > p {
+  text-align: center;
+}
+
+
+/* Subscritpion */
+.subscription {
+  display: flex;
+  margin-top: 30px;
+  justify-content: space-evenly;
+  margin-bottom: 30px;
+  align-items: center;
+}
+
+.subscription > div {
+  display: flex;
+  gap: 15px;
+}
+.subscription img {
+  width: 45px;
+  height: 45px;
+}
+
+.subscription  h4 {
+  font-size: 15px;
+}
+
+.subscription p , .subscription a {
+  font-size: 14px;
+}
+
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.primary-btn {
+  background-color: var(--bright-blue);
+  color: var(--very-pale-blue);
+  text-align: center;
+  padding: .45em;
+  border-radius: 10px;
+  width: 80%;
+  font-weight: bold;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+
+}
+
+.secondary-btn {
+  margin-top: 10px;
+  margin-bottom: 30px;
+  color: var(--desaturated-blue);
+  font-weight: bold;
+  font-size: 14px;
+}
