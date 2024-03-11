@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 from PIL import ImageTk, Image
 
+
 root = tk.Tk()
 root.title("Custom entry")
 
