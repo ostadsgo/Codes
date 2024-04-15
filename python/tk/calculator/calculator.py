@@ -1,7 +1,15 @@
-# Follow for more: @ostadsgo.
-import tkinter as tk
-from tkinter import ttk
+"""Calculator program written with python and tkinter
+Ths program is just 100 lines of code
+This writting is not matter."""
 
+# This is the first line of comment
+# and this is the second one
+# date: 2024/4/11
+# Follo  fo  morj  jostadsgo.
+this
+
+port tkinter as tk
+from tkinter import ttk
 
 def calculate():
     try:
