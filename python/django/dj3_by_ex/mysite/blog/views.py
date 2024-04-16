@@ -1,5 +1,5 @@
+from django.core.mail import send_mail
 from django.core.paginator import EmptyPage, PageNotAnInteger, Paginator
-from django.forms import EmailField
 from django.shortcuts import get_object_or_404, render
 from django.views.generic import ListView
 
@@ -27,13 +27,23 @@ def post_detail(request, year, month, day, post):
 
 
 def post_share(request, post_id):
+    sent = False
     post = get_object_or_404(Post, id=post_id, status="published")
     if request.method == "POST":
         form = EmailPostForm(request.POST)
         if form.is_valid():
             cd = form.cleaned_data
-            # send email 
-        pass
+            post_url = request.build_absolute_uri(post.get_absolute_url())
+            print(post_url)
+            subject = cd["name"]
+            message = f"Read {post.title} at {post_url}\n cd['name'] comments: {cd['comments']}"
+            mail_to = cd["to"]
+            send_mail(subject, message, "saeidtempmail@gmail.com", [mail_to])
+            sent = True
     else:
         form = EmailPostForm()
-    return render(request, "blog/post/share.html", {"post": post, "form": form})
+        print(post.get_absolute_url())
+
+    return render(
+        request, "blog/post/share.html", {"post": post, "form": form, "sent": sent}
+    )
