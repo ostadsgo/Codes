@@ -19,8 +19,9 @@ pg.display.set_caption(TITLE)
 clock = pg.time.Clock()
 
 # Text
-font = pg.font.Font(FONT_DIR / "Pixeltype.ttf", 50)
-text = font.render("Points : 0", False, "Black")
+font = pg.font.Font(FONT_DIR / "Pixeltype.ttf", 40)
+score = font.render("Points : 0", False, (64, 64, 64))
+score_rect = score.get_rect(center=(WIDTH // 2, 50))
 
 # Graphics
 sky = pg.image.load(IMAGE_DIR / "Sky.png")
@@ -42,17 +43,20 @@ while running:
 
     screen.fill((0, 0, 0))
     # Showing graphics
-    screen.blit(text, (WIDTH // 2 - 50, 10))
     screen.blit(sky, (0, 0))
+    pg.draw.rect(screen, "#c0e8ec", score_rect)
+    screen.blit(score, score_rect)
     screen.blit(ground, (0, HEIGHT - 150))
+    # snail
     screen.blit(snail, snail_rect)
-    # snail Movment
     snail_rect.x -= 5
     if snail_rect.left < -50:
         snail_rect.left = WIDTH + 50
-    # player movement
 
+    # player
     screen.blit(player, player_rect)
+
+    # collision between player and snail
 
     # Draw the images by FPS
     clock.tick(FPS)
