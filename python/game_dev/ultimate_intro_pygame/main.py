@@ -2,6 +2,13 @@ from pathlib import Path
 
 import pygame as pg
 
+
+def update_score(score_point):
+    score = font.render(f"Points : {score_point}", False, (64, 64, 64))
+    score_rect = score.get_rect(center=(WIDTH // 2, 50))
+    return score, score_rect
+
+
 TITLE = "My Game"
 WIDTH = 800
 HEIGHT = 450
@@ -19,9 +26,8 @@ pg.display.set_caption(TITLE)
 clock = pg.time.Clock()
 
 # Text
+score_point = 0
 font = pg.font.Font(FONT_DIR / "Pixeltype.ttf", 40)
-score = font.render("Points : 0", False, (64, 64, 64))
-score_rect = score.get_rect(center=(WIDTH // 2, 50))
 
 # Graphics
 sky = pg.image.load(IMAGE_DIR / "Sky.png")
@@ -35,35 +41,60 @@ player = pg.image.load(IMAGE_DIR / "Player" / "player_walk_1.png")
 player_rect = player.get_rect(midbottom=(100, GROUND))
 player_gravity = 0
 
+game_over = False
 running = True
 while running:
     # Event handling.
     for event in pg.event.get():
         if event.type == pg.QUIT:
             running = False
-        if event.type == pg.KEYDOWN:
-            if event.key == pg.K_SPACE and player_rect.bottom == GROUND:
+        if not game_over:
+            if event.type == pg.KEYDOWN:
+                if event.key == pg.K_SPACE and player_rect.bottom == GROUND:
                     player_gravity = -20
+                    print(
+                        snail_rect.left,
+                        player_rect.right,
+                        "=",
+                        snail_rect.left - player_rect.right,
+                    )
+                    if 10 < snail_rect.left - player_rect.right < 60:
+                        print(score_point)
+                        score_point += 10
+                        score, score_rect = update_score(score_point)
+                        screen.blit(score, score_rect)
+        else:
+            if event.type == pg.KEYDOWN and event.key == pg.K_SPACE:
+                game_over = False
+                score_point = 0
 
-    screen.fill((0, 0, 0))
-    # ----- Showing graphics -----
-    screen.blit(sky, (0, 0))
-    pg.draw.rect(screen, "#c0e8ec", score_rect)
-    screen.blit(score, score_rect)
-    screen.blit(ground, (0, GROUND))
-    # ----- snail -----
-    screen.blit(snail, snail_rect)
-    snail_rect.x -= 5
-    if snail_rect.left < -50:
-        snail_rect.left = WIDTH + 50
-    # ------ player ------
-    screen.blit(player, player_rect)
-    player_gravity += 1
-    player_rect.y += player_gravity
-    if player_rect.bottom > GROUND:
-        player_rect.bottom = GROUND
+    if not game_over:
+        screen.fill((0, 0, 0))
+        # ----- Showing graphics -----
+        screen.blit(sky, (0, 0))
+        score, score_rect = update_score(score_point)
+        pg.draw.rect(screen, "#c0e8ec", score_rect)
+        screen.blit(score, score_rect)
+        screen.blit(ground, (0, GROUND))
+        # ----- snail -----
+        screen.blit(snail, snail_rect)
+        snail_rect.x -= 5
+        if snail_rect.left < -50:
+            snail_rect.left = WIDTH + 50
+        # ------ player ------
+        screen.blit(player, player_rect)
+        player_gravity += 1
+        player_rect.y += player_gravity
+        if player_rect.bottom > GROUND:
+            player_rect.bottom = GROUND
+        # ----- Collision ------
+        if snail_rect.colliderect(player_rect):
+            game_over = True
 
-    # collision between player and snail
+    else:  # game over
+        screen.fill("red")
+        player_rect.midbottom = (100, GROUND)
+        snail_rect.midbottom = (WIDTH - 100, GROUND)
 
     # Draw the images by FPS
     clock.tick(FPS)
