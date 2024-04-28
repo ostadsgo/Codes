@@ -37,10 +37,12 @@ snail_rect = snail.get_rect(midbottom=(WIDTH - 100, GROUND))
 snail_x = 600
 
 # Player
-player = pg.image.load(IMAGE_DIR / "Player" / "player_walk_1.png")
+player = pg.image.load(IMAGE_DIR / "Player" / "player_walk_1.png").convert_alpha()
 player_rect = player.get_rect(midbottom=(100, GROUND))
 player_gravity = 0
-
+# for game over screen
+player_stand = pg.image.load(IMAGE_DIR / "Player" / "player_stand.png").convert_alpha()
+player_stand_rect = player_stand.get_rect(center=(WIDTH // 2, HEIGHT // 2))
 game_over = False
 running = True
 while running:
@@ -92,9 +94,16 @@ while running:
             game_over = True
 
     else:  # game over
-        screen.fill("red")
+        screen.fill("#D6DAC8")
         player_rect.midbottom = (100, GROUND)
         snail_rect.midbottom = (WIDTH - 100, GROUND)
+        game_over_screen = font.render(
+            f"Game Over - Press <SPACE> to continue", False, (64, 64, 64)
+        )
+        game_over_screen_rect = game_over_screen.get_rect(center=(WIDTH // 2, 100))
+        screen.blit(game_over_screen, game_over_screen_rect)
+        player_stand_trans = pg.transform.rotozoom(player_stand, 0, 2)
+        screen.blit(player_stand_trans, player_stand_rect)
 
     # Draw the images by FPS
     clock.tick(FPS)

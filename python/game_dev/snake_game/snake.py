@@ -1,54 +1,82 @@
-import curses
+import random
 
-stdscr = curses.initscr()
+import pygame as pg
 
-curses.noecho()    # Do not print key presses to the screen
-curses.cbreak()    # Do not wait for the Enter key
-curses.curs_set(0)    # Hide the cursor
 
-y, x = stdscr.getmaxyx()    # Get the size of the console
+class Snake:
+    def __init__(self):
+        self.body = [(1, 1), (2, 1), (3, 1)]
+        self.head = self.body[-1]
 
-# Display the current expression
-current_expression = ""
-stdscr.addstr(0, 0, f"Current expression: {current_expression}")
+    def draw(self, screen):
+        for x, y in self.body:
+            pg.draw.rect(screen, "#00ff00", (x * 50, y * 50, 49, 49))
 
-# Display the current result
-current_result = 0
-stdscr.addstr(y - 2, 0, f"Current result: {current_result}")
+    def move_right(self):
+        pass
 
-# Handle keypresses
-while True:
-    # Get the key pressed
-    key = stdscr.getch()
+    def move_left(self):
+        pass
 
-    # Handle numbers
-    if key >= ord('0') and key <= ord('9'):
-        current_expression = current_expression + chr(key)
-        stdscr.addstr(0, x - 3, current_expression)
 
-    # Handle operators
-    elif key == ord('+') or key == ord('-') or key == ord('*') or key == ord('/'):
-        if current_expression != "":
-            # Evaluate the current expression
-            try:
-                current_result = eval(current_expression)
-            except ZeroDivisionError:
-                stdscr.addstr(y - 2, 0, "Error: division by zero")
-                current_expression = ""
+class Food:
+    def __init__(self):
+        self.eaten = True
+        pg.draw.rect(screen, "#ff0000", (300, 350, 50, 50))
 
-            # Update the display
-            stdscr.addstr(0, 0, f"Current expression: {current_expression}")
-            stdscr.addstr(y - 2, 0, f"Current result: {current_result}")
+    def draw(self, screen, x=300, y=400):
+        pg.draw.rect(screen, "#ff0000", (x, y, 50, 50))
 
-            # Reset the current expression
-            current_expression = ""
 
-    # Handle clear
-    elif key == ord('C'):
-        current_expression = ""
-        current_result = 0
+def draw_grid(screen, width, height, block_size):
+    for x in range(0, width, block_size):
+        for y in range(0, height, block_size):
+            rect = pg.Rect(x, y, 50, 50)
+            pg.draw.rect(screen, "#373737", rect, 1)
 
-        stdscr.addstr(0, 0, f"Current expression: {current_expression}")
-        stdscr.addstr(y - 2, 0, f"Current result: {current_result}")
 
-    stdscr.refresh()
+pg.init()
+
+TITLE = "My Game"
+WIDTH = 600
+HEIGHT = 450
+BLOCK_SIZE = 50
+SCREEN_SIZE = (WIDTH, HEIGHT)
+FPS = 60
+BLACK = "#000000"
+screen = pg.display.set_mode(SCREEN_SIZE)
+pg.display.set_caption(TITLE)
+clock = pg.time.Clock()
+snake = Snake()
+food = Food()
+
+running = True
+while running:
+    # --- events ---
+    for event in pg.event.get():
+        if event.type == pg.QUIT:
+            running = False
+        if event.type == pg.KEYDOWN:
+            if event.key == pg.K_RIGHT:
+                pass
+            if event.key == pg.K_LEFT:
+                pass
+            if event.key == pg.K_UP:
+                pass
+            if event.key == pg.K_DOWN:
+                pass
+
+    # --- draw ---
+    screen.fill(BLACK)
+    draw_grid(screen, WIDTH, HEIGHT, BLOCK_SIZE)
+    snake.draw(screen)
+    food.draw(screen)
+
+    # -- collision ---
+
+    # --- update ---
+    clock.tick(FPS)
+    pg.display.update()
+
+pg.quit()
+exit()

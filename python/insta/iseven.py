@@ -9,6 +9,8 @@ def iseven2(n):
     else:
         return False
 
+def iseven3(n: int) -> bool:
+    return [False, True][n % 2]
 
 def main():
     # this is the main function
