@@ -1,0 +1,16 @@
+{% extends "main.html" %}
+
+{% block content %}
+  <ul>
+    {% for room in rooms %}
+      <li>
+        <span>@{{ room.host.username }}</span>
+        <a href="{% url 'room' room.id %}">{{ room.name }}</a>
+        <small>{{ room.topic.name }}</small>
+      </li>
+      <hr>
+    {% endfor %}
+  </ul>
+
+{% endblock %}
+
