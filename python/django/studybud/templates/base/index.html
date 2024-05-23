@@ -7,6 +7,8 @@
         <span>@{{ room.host.username }}</span>
         <a href="{% url 'room' room.id %}">{{ room.name }}</a>
         <small>{{ room.topic.name }}</small>
+        <a href="{% url 'update-room' room.id %}">Edit</a>
+        <a href="{% url 'delete-room' room.id %}">Delete</a>
       </li>
       <hr>
     {% endfor %}
