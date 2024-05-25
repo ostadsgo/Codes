@@ -9,4 +9,7 @@ urlpatterns = [
     path("create-room/", views.create_room, name="create-room"),
     path("update-room/<int:pk>/", views.update_room, name="update-room"),
     path("delete-room/<int:pk>/", views.delete_room, name="delete-room"),
+    # auth
+    path("login/", views.login_page, name="login"),
+    path("logout/", views.logout_user, name="logout"),
 ]
