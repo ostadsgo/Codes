@@ -32,7 +32,7 @@ class Player(pg.sprite.Sprite):
         if self.pos.x < 0:
             self.pos.x = settings.WIDTH
 
-        self.rect.center = (int(self.pos.x), int(self.pos.y))
+        self.rect.midbottom = (int(self.pos.x), int(self.pos.y))
 
 class Platform(pg.sprite.Sprite):
     def __init__(self, x, y, w, h):
