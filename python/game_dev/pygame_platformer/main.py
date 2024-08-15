@@ -1,6 +1,6 @@
 import pygame as pg
 import settings
-from sprites import Player, Platform
+from sprites import Platform, Player
 
 
 class Game:
@@ -14,17 +14,15 @@ class Game:
         self.playing = True
 
     def new(self):
-        #start new game after `game over`
+        # start new game after `game over`
         self.all_sprites = pg.sprite.Group()
         self.platforms = pg.sprite.Group()
-        self.player = Player()
+        self.player = Player(self)
         self.all_sprites.add(self.player)
-        p1 = Platform(0, settings.HEIGHT - 40, settings.WIDTH, 40)
-        self.all_sprites.add(p1)
-        self.platforms.add(p1)
-        p2 = Platform(settings.WIDTH / 2 - 50, settings.HEIGHT * 3 / 4, 100, 20)
-        self.all_sprites.add(p2)
-        self.platforms.add(p2)
+        for plat in settings.PLATFORM_LIST:
+            p = Platform(*plat)
+            self.all_sprites.add(p)
+            self.platforms.add(p)
         self.run()
 
     def run(self):
@@ -41,13 +39,18 @@ class Game:
                 if self.playing:
                     self.playing = False
                 self.running = False
+            if event.type == pg.KEYDOWN:
+                if event.key == pg.K_SPACE:
+                    self.player.jump()
 
     def update(self):
         self.all_sprites.update()
-        hits = pg.sprite.spritecollide(self.player, self.platforms, False)
-        if hits:
-            self.player.pos.y = hits[0].rect.top
-            self.player.vel.y = 0
+        # if player hits a platform - only falling
+        if self.player.vel.y > 0:
+            hits = pg.sprite.spritecollide(self.player, self.platforms, False)
+            if hits:
+                self.player.pos.y = hits[0].rect.top
+                self.player.vel.y = 0
 
     def draw(self):
         self.screen.fill(settings.BLACK)
