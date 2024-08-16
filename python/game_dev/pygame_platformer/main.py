@@ -1,3 +1,4 @@
+import random
 import pygame as pg
 import settings
 from sprites import Platform, Player
@@ -51,6 +52,24 @@ class Game:
             if hits:
                 self.player.pos.y = hits[0].rect.top
                 self.player.vel.y = 0
+
+        # player reaches 1/4 height of the screen.
+        if self.player.rect.top <= settings.HEIGHT / 4:
+            self.player.pos.y += (self.player.vel.y)
+            for plat in self.platforms:
+                plat.rect.y += abs(self.player.vel.y)
+                # delete platforms under screen
+                if plat.rect.top > settings.HEIGHT:
+                    plat.kill()
+
+        while len(self.platforms) < 6:
+            width = random.randrange(50, 100)
+            x = random.randrange(0, settings.WIDTH - width)
+            y = random.randrange(-75, -30)
+            p = Platform(x, y, width, 20)
+            self.platforms.add(p)
+            self.all_sprites.add(p)
+
 
     def draw(self):
         self.screen.fill(settings.BLACK)
