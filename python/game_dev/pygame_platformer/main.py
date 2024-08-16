@@ -12,9 +12,12 @@ class Game:
         pg.display.set_caption(settings.TITLE)
         self.clock = pg.time.Clock()
         self.running = True
-        self.playing = True
+        self.font_name = pg.font.match_font(settings.FONT_NAME)
+
 
     def new(self):
+        self.score = 0
+        self.playing = True
         # start new game after `game over`
         self.all_sprites = pg.sprite.Group()
         self.platforms = pg.sprite.Group()
@@ -55,12 +58,22 @@ class Game:
 
         # player reaches 1/4 height of the screen.
         if self.player.rect.top <= settings.HEIGHT / 4:
-            self.player.pos.y += (self.player.vel.y)
+            self.player.pos.y += abs(self.player.vel.y)
             for plat in self.platforms:
                 plat.rect.y += abs(self.player.vel.y)
                 # delete platforms under screen
                 if plat.rect.top > settings.HEIGHT:
                     plat.kill()
+                    self.score += 10
+
+        # Die
+        if self.player.rect.bottom > settings.HEIGHT:
+            for sprite in self.all_sprites:
+                sprite.rect.y -= max(self.player.vel.y, 10)
+                if sprite.rect.bottom < 0:
+                    sprite.kill()
+        if len(self.platforms) == 0:
+            self.playing = False
 
         while len(self.platforms) < 6:
             width = random.randrange(50, 100)
@@ -74,6 +87,7 @@ class Game:
     def draw(self):
         self.screen.fill(settings.BLACK)
         self.all_sprites.draw(self.screen)
+        self.draw_text(str(self.score), 22, settings.WHITE, settings.WIDTH/2, 15)
         pg.display.flip()
 
     def show_start_screen(self):
@@ -81,6 +95,13 @@ class Game:
 
     def show_game_over_screen(self):
         pass
+
+    def draw_text(self, text, size, color, x, y):
+        font = pg.font.Font(self.font_name, size)
+        text_surf = font.render(text, True, color)
+        text_rect = text_surf.get_rect()
+        text_rect.midtop = (x, y)
+        self.screen.blit(text_surf, text_rect)
 
 
 game = Game()
