@@ -1,7 +1,12 @@
 import random
+
 import pygame as pg
 import settings
 from sprites import Platform, Player
+
+WIDTH = settings.WIDTH
+HEIGHT = settings.HEIGHT
+WHITE = settings.WHITE
 
 
 class Game:
@@ -13,7 +18,6 @@ class Game:
         self.clock = pg.time.Clock()
         self.running = True
         self.font_name = pg.font.match_font(settings.FONT_NAME)
-
 
     def new(self):
         self.score = 0
@@ -83,18 +87,45 @@ class Game:
             self.platforms.add(p)
             self.all_sprites.add(p)
 
-
     def draw(self):
         self.screen.fill(settings.BLACK)
         self.all_sprites.draw(self.screen)
-        self.draw_text(str(self.score), 22, settings.WHITE, settings.WIDTH/2, 15)
+        self.draw_text(str(self.score), 22, settings.WHITE, settings.WIDTH / 2, 15)
         pg.display.flip()
 
     def show_start_screen(self):
-        pass
+        self.screen.fill(settings.BLUE)
+        self.draw_text(settings.TITLE, 48, WHITE, WIDTH / 2, HEIGHT / 4)
+        self.draw_text(
+            "Arrows to move, Space to jump", 22, WHITE, WIDTH / 2, HEIGHT / 2
+        )
+        self.draw_text("Press a key to play", 22, WHITE, WIDTH / 2, HEIGHT * 3 / 4)
+        pg.display.flip()
+        self.wait_for_key()
 
     def show_game_over_screen(self):
-        pass
+        if not self.running:
+            return
+
+        self.screen.fill(settings.BLUE)
+        self.draw_text("Game Over", 48, WHITE, WIDTH / 2, HEIGHT / 4)
+        self.draw_text("score: " + str(self.score), 22, WHITE, WIDTH / 2, HEIGHT / 2)
+        self.draw_text(
+            "Press any key to play again", 22, WHITE, WIDTH / 2, HEIGHT * 3 / 4
+        )
+        pg.display.flip()
+        self.wait_for_key()
+
+    def wait_for_key(self):
+        waiting = True
+        while waiting:
+            self.clock.tick(settings.FPS)
+            for event in pg.event.get():
+                if event.type == pg.QUIT:
+                    waiting = False
+                    self.running = False
+                if event.type == pg.KEYUP:
+                    waiting = False
 
     def draw_text(self, text, size, color, x, y):
         font = pg.font.Font(self.font_name, size)
@@ -109,6 +140,5 @@ game.show_start_screen()
 while game.running:
     game.new()
     game.show_game_over_screen()
-    break
 
 pg.quit()
