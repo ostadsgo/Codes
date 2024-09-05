@@ -3,13 +3,22 @@ import settings
 
 vec = pg.math.Vector2
 
+class Spritesheet:
+    def __init__(self, filename):
+        self.spritesheet = pg.image.load(filename).convert()
+
+    def get_image(self, x, y, width, height):
+        image = pg.Surface((width, height))
+        image.blit(self.spritesheet, (0, 0), (x, y, width, height))
+        image = pg.transform.scale(image, (width // 2, height // 2))
+        return image
+
 
 class Player(pg.sprite.Sprite):
     def __init__(self, game):
         super().__init__()
         self.game = game
-        self.image = pg.Surface((30, 40))
-        self.image.fill(settings.YELLOW)
+        self.image = self.game.spritesheet.get_image(614, 1063, 120, 191)
         self.rect = self.image.get_rect()
         self.rect.center = (settings.WIDTH // 2, settings.HEIGHT // 2)
         self.pos = vec(settings.WIDTH // 2, settings.HEIGHT // 2)
