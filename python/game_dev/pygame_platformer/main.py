@@ -39,7 +39,7 @@ class Game:
         self.player = Player(self)
         self.all_sprites.add(self.player)
         for plat in st.PLATFORM_LIST:
-            p = Platform(*plat)
+            p = Platform(self, *plat)
             self.all_sprites.add(p)
             self.platforms.add(p)
         self.run()
@@ -73,9 +73,9 @@ class Game:
 
         # player reaches 1/4 height of the screen.
         if self.player.rect.top <= st.HEIGHT / 4:
-            self.player.pos.y += abs(self.player.vel.y)
+            self.player.pos.y += max(abs(self.player.vel.y), 2)
             for plat in self.platforms:
-                plat.rect.y += abs(self.player.vel.y)
+                plat.rect.y += max(abs(self.player.vel.y), 2)
                 # delete platforms under screen
                 if plat.rect.top > st.HEIGHT:
                     plat.kill()
@@ -94,13 +94,14 @@ class Game:
             width = random.randrange(50, 100)
             x = random.randrange(0, st.WIDTH - width)
             y = random.randrange(-75, -30)
-            p = Platform(x, y, width, 20)
+            p = Platform(self, x, y)
             self.platforms.add(p)
             self.all_sprites.add(p)
 
     def draw(self):
         self.screen.fill(st.BLACK)
         self.all_sprites.draw(self.screen)
+        self.screen.blit(self.player.image, self.player.rect)
         self.draw_text(str(self.score), 22, st.WHITE, st.WIDTH / 2, 15)
         pg.display.flip()
 

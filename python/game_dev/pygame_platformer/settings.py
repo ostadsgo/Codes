@@ -13,11 +13,11 @@ HS_FILE = "highscore.txt"
 SPRITESHEET = "spritesheet_jumper.png"
 # PLATFORM
 PLATFORM_LIST = [
-    (0, HEIGHT - 40, WIDTH, 40),
-    (WIDTH / 2 - 50, HEIGHT * 3 / 4, 100, 20),
-    (100, HEIGHT / 2, 100, 20),
-    (350, 200, 100, 20),
-    (175, 100, 60, 20),
+    (0, HEIGHT - 50),
+    (WIDTH / 2 - 50, HEIGHT * 3 / 4),
+    (100, HEIGHT / 2),
+    (350, 200),
+    (175, 100),
 ]
 
 # Colors
