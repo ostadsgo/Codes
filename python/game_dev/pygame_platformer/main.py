@@ -61,6 +61,9 @@ class Game:
             if event.type == pg.KEYDOWN:
                 if event.key == pg.K_SPACE:
                     self.player.jump()
+            if event.type == pg.KEYUP:
+                if event.key == pg.K_SPACE:
+                    self.player.jump_cut()
 
     def update(self):
         self.all_sprites.update()
@@ -68,8 +71,14 @@ class Game:
         if self.player.vel.y > 0:
             hits = pg.sprite.spritecollide(self.player, self.platforms, False)
             if hits:
-                self.player.pos.y = hits[0].rect.top
-                self.player.vel.y = 0
+                lowest = hits[0]
+                for hit in hits:
+                    if hit.rect.bottom > lowest.rect.bottom:
+                        lowest = hit
+                if self.player.pos.y < lowest.rect.centery:
+                    self.player.pos.y = lowest.rect.top
+                    self.player.vel.y = 0
+                    self.player.jumping = False
 
         # player reaches 1/4 height of the screen.
         if self.player.rect.top <= st.HEIGHT / 4:
@@ -99,7 +108,7 @@ class Game:
             self.all_sprites.add(p)
 
     def draw(self):
-        self.screen.fill(st.BLACK)
+        self.screen.fill(st.BGCOLOR)
         self.all_sprites.draw(self.screen)
         self.screen.blit(self.player.image, self.player.rect)
         self.draw_text(str(self.score), 22, st.WHITE, st.WIDTH / 2, 15)
