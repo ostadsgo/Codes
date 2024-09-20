@@ -5,6 +5,7 @@
 enum Hand { ROCK, PAPER, SCISSORS };
 enum Outcome { WIN, LOSE, DRAW };
 
+// Decide the winner
 enum Outcome decideOutcome(enum Hand userHand, enum Hand computerHand) {
   enum Outcome outcome;
   if (userHand == ROCK && computerHand == PAPER)
@@ -25,6 +26,7 @@ enum Outcome decideOutcome(enum Hand userHand, enum Hand computerHand) {
   return outcome;
 }
 
+// Print menu and get user's hand
 enum Hand getUserHand() {
   int userChoice;
   printf("1: Rock\n2: Paper\n3: Scissors\n");

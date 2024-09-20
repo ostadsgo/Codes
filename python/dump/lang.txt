@@ -1,0 +1,50 @@
+Python
+JavaScript
+Java
+C++
+C
+C#
+PHP
+SQL
+Go (Golang)
+Ruby
+Swift
+Kotlin
+R
+Rust
+TypeScript
+Objective-C
+Perl
+Scala
+Julia
+MATLAB
+Assembly Language
+Visual Basic .NET
+Dart
+COBOL
+Fortran
+Pascal
+Delphi/Object Pascal
+Lisp
+Prolog
+Lua
+Haskell
+F#
+Erlang
+Clojure
+Groovy
+APL
+Smalltalk
+Ada
+VHDL
+Verilog
+ABAP
+PL/SQL
+SAS
+LabVIEW
+Bash
+PowerShell
+MATLAB
+Julia
+Rust
+TypeScript

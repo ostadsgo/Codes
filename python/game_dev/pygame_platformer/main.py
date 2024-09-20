@@ -18,6 +18,7 @@ class Game:
         self.highscore = 0
         self.dir = path.dirname(__file__)
         self.img_dir = path.join(self.dir, "img")
+        self.snd_dir = path.join(self.dir, "snd")
         self.load_data()
 
     def load_data(self):
@@ -29,6 +30,10 @@ class Game:
                 self.highscore = 0
         # load spritesheet
         self.spritesheet = Spritesheet(path.join(self.img_dir, st.SPRITESHEET))
+
+        # -- load sounds
+        self.jump_sound = pg.mixer.Sound(path.join(self.snd_dir, "Jump33.wav"))
+        self.jump_sound.set_volume(0.5)
 
     def new(self):
         self.score = 0
@@ -42,15 +47,19 @@ class Game:
             p = Platform(self, *plat)
             self.all_sprites.add(p)
             self.platforms.add(p)
+        pg.mixer.music.load(path.join(self.snd_dir, "Happy Tune.ogg"))
         self.run()
 
     def run(self):
+        # play background music
+        pg.mixer.music.play(loops=-1)
         # game loop
         while self.playing:
             self.clock.tick(st.FPS)
             self.events()
             self.update()
             self.draw()
+        pg.mixer.music.fadeout(500)
 
     def events(self):
         for event in pg.event.get():
@@ -115,7 +124,10 @@ class Game:
         pg.display.flip()
 
     def show_start_screen(self):
-        self.screen.fill(st.BLUE)
+        pg.mixer.music.load(path.join(self.snd_dir, "Yippee.ogg"))
+        pg.mixer.music.play(loops=-1)
+        pg.mixer.music.set_volume(.5)
+        self.screen.fill(st.BGCOLOR)
         self.draw_text(st.TITLE, 48, st.WHITE, st.WIDTH / 2, st.HEIGHT / 4)
         self.draw_text(
             "Arrows to move, Space to jump", 22, st.WHITE, st.WIDTH / 2, st.HEIGHT / 2
@@ -126,12 +138,17 @@ class Game:
         self.draw_text(f"High Score: {self.highscore}", 22, st.WHITE, st.WIDTH / 2, 15)
         pg.display.flip()
         self.wait_for_key()
+        pg.mixer.music.fadeout(500)
 
     def show_game_over_screen(self):
         if not self.running:
             return
 
-        self.screen.fill(st.BLUE)
+        pg.mixer.music.load(path.join(self.snd_dir, "Yippee.ogg"))
+        pg.mixer.music.play(loops=-1)
+        pg.mixer.music.set_volume(.5)
+
+        self.screen.fill(st.BGCOLOR)
         self.draw_text("Game Over", 48, st.WHITE, st.WIDTH / 2, st.HEIGHT / 4)
         self.draw_text(
             "score: " + str(self.score), 22, st.WHITE, st.WIDTH / 2, st.HEIGHT / 2
@@ -139,6 +156,7 @@ class Game:
         self.draw_text(
             "Press any key to play again", 22, st.WHITE, st.WIDTH / 2, st.HEIGHT * 3 / 4
         )
+        self.draw_text(f"High Score: {self.highscore}", 22, st.WHITE, st.WIDTH / 2, 15)
         if self.score > self.highscore:
             self.highscore = self.score
             self.draw_text(
@@ -155,6 +173,7 @@ class Game:
 
         pg.display.flip()
         self.wait_for_key()
+        pg.mixer.music.fadeout(500)
 
     def wait_for_key(self):
         waiting = True

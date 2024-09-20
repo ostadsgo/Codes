@@ -2,13 +2,8 @@
 Ths program is just 100 lines of code
 This writting is not matter."""
 
-# This is the first line of comment
-# and this is the second one
-# date: 2024/4/11
-# Follo  fo  morj  jostadsgo.
-this
 
-port tkinter as tk
+import tkinter as tk
 from tkinter import ttk
 
 def calculate():
@@ -107,3 +102,12 @@ for row_number in range(0, column_size):
 
 
 root.mainloop()
+
+print()
+
+def hello():
+    pass
+
+
+
+hello()
