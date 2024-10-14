@@ -1,4 +1,4 @@
-from random import choice
+from random import choice, randrange
 
 import pygame as pg
 import settings as st
@@ -19,7 +19,8 @@ class Spritesheet:
 
 class Player(pg.sprite.Sprite):
     def __init__(self, game):
-        super().__init__()
+        self.groups = game.all_sprites
+        super().__init__(self.groups)
         self.game = game
         self.walking = False
         self.jumping = False
@@ -101,10 +102,11 @@ class Player(pg.sprite.Sprite):
                 self.rect = self.image.get_rect()
                 self.rect.bottom = bottom
 
-    def jump_cut(self): 
+    def jump_cut(self):
         if self.jumping:
             if self.vel.y < -3:
                 self.vel.y = -3
+
     def jump(self):
         # jump only if standing on platform
         self.rect.x += 2  # move player one pixel below to see if he is on a platform.
@@ -118,7 +120,8 @@ class Player(pg.sprite.Sprite):
 
 class Platform(pg.sprite.Sprite):
     def __init__(self, game, x, y):
-        super().__init__()
+        self.groups = (game.all_sprites, game.platforms)
+        super().__init__(self.groups)
         self.game = game
         images = [
             self.game.spritesheet.get_image(0, 288, 380, 94),
@@ -129,3 +132,39 @@ class Platform(pg.sprite.Sprite):
         self.rect = self.image.get_rect()
         self.rect.x = x
         self.rect.y = y
+
+        # display powerup
+        if randrange(100) < st.POW_SPAWN_PCT:
+            Pow(self.game, self)
+
+
+class Pow(pg.sprite.Sprite):
+    def __init__(self, game, plat):
+        self.groups = game.all_sprites, game.powerups
+        super().__init__(self.groups)
+        self.game = game
+        self.plat = plat
+        self.type = choice(["boost"])
+        self.image = self.game.spritesheet.get_image(820, 1805, 71, 70)
+        self.image.set_colorkey(st.BLACK)
+        self.rect = self.image.get_rect()
+        self.rect.centerx = self.plat.rect.centerx
+        self.rect.bottom = self.plat.rect.top - 5
+
+    def update(self):
+        self.rect.bottom = self.plat.rect.top - 5
+        if not self.game.platforms.has(self.plat):
+            self.kill()
+
+
+class Mobo(pg.sprite.Sprite):
+    def __init__(self, game):
+        super().__init__(self.groups)
+        self.image_up = self.game.spritesheet.get_image(566, 510, 122, 139)
+        self.image_up.set_colorkey(BLACK)
+        self.image_down = self.game.spritesheet.get_image(568, 1534, 122, 135)
+        self.image_down.set_colorkey(BLACK)
+        self.image = self.image_up
+        self.rect = self.image.get_rect()
+
+

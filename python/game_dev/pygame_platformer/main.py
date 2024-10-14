@@ -33,6 +33,7 @@ class Game:
 
         # -- load sounds
         self.jump_sound = pg.mixer.Sound(path.join(self.snd_dir, "Jump33.wav"))
+        self.boost_sound = pg.mixer.Sound(path.join(self.snd_dir, "Boost16.wav"))
         self.jump_sound.set_volume(0.5)
 
     def new(self):
@@ -41,12 +42,10 @@ class Game:
         # start new game after `game over`
         self.all_sprites = pg.sprite.Group()
         self.platforms = pg.sprite.Group()
+        self.powerups = pg.sprite.Group()
         self.player = Player(self)
-        self.all_sprites.add(self.player)
         for plat in st.PLATFORM_LIST:
-            p = Platform(self, *plat)
-            self.all_sprites.add(p)
-            self.platforms.add(p)
+            Platform(self, *plat)
         pg.mixer.music.load(path.join(self.snd_dir, "Happy Tune.ogg"))
         self.run()
 
@@ -84,10 +83,14 @@ class Game:
                 for hit in hits:
                     if hit.rect.bottom > lowest.rect.bottom:
                         lowest = hit
-                if self.player.pos.y < lowest.rect.centery:
-                    self.player.pos.y = lowest.rect.top
-                    self.player.vel.y = 0
-                    self.player.jumping = False
+                if (
+                    self.player.pos.x < lowest.rect.right + 5
+                    and self.player.pos.y > lowest.rect.left - 5
+                ):
+                    if self.player.pos.y < lowest.rect.centery:
+                        self.player.pos.y = lowest.rect.top
+                        self.player.vel.y = 0
+                        self.player.jumping = False
 
         # player reaches 1/4 height of the screen.
         if self.player.rect.top <= st.HEIGHT / 4:
@@ -99,6 +102,13 @@ class Game:
                     plat.kill()
                     self.score += 10
 
+        # POWERUP
+        pow_hits = pg.sprite.spritecollide(self.player, self.powerups, True)
+        for pow in pow_hits:
+            if pow.type == "boost":
+                self.boost_sound.play()
+                self.player.vel.y = -st.BOOST_POWER
+                self.player.jumping = False
         # Die
         if self.player.rect.bottom > st.HEIGHT:
             for sprite in self.all_sprites:
@@ -112,9 +122,7 @@ class Game:
             width = random.randrange(50, 100)
             x = random.randrange(0, st.WIDTH - width)
             y = random.randrange(-75, -30)
-            p = Platform(self, x, y)
-            self.platforms.add(p)
-            self.all_sprites.add(p)
+            Platform(self, x, y)
 
     def draw(self):
         self.screen.fill(st.BGCOLOR)
@@ -126,7 +134,7 @@ class Game:
     def show_start_screen(self):
         pg.mixer.music.load(path.join(self.snd_dir, "Yippee.ogg"))
         pg.mixer.music.play(loops=-1)
-        pg.mixer.music.set_volume(.5)
+        pg.mixer.music.set_volume(0.5)
         self.screen.fill(st.BGCOLOR)
         self.draw_text(st.TITLE, 48, st.WHITE, st.WIDTH / 2, st.HEIGHT / 4)
         self.draw_text(
@@ -146,7 +154,7 @@ class Game:
 
         pg.mixer.music.load(path.join(self.snd_dir, "Yippee.ogg"))
         pg.mixer.music.play(loops=-1)
-        pg.mixer.music.set_volume(.5)
+        pg.mixer.music.set_volume(0.5)
 
         self.screen.fill(st.BGCOLOR)
         self.draw_text("Game Over", 48, st.WHITE, st.WIDTH / 2, st.HEIGHT / 4)
