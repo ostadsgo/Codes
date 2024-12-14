@@ -4,6 +4,7 @@ import timeit
 def sum_1(*numbers):
     return sum(numbers)
 
+
 def sum_2(*numbers):
     total = 0
     for number in numbers:

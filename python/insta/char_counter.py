@@ -20,3 +20,6 @@ for char in chars:
     counter[char] = counter.setdefault(char, 0) + 1
 
 print(counter)
+
+
+norm()
