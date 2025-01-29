@@ -1,3 +1,0 @@
-
-
-input("Enter something...")

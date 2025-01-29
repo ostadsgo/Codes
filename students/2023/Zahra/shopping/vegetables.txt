@@ -1,7 +1,0 @@
-cabbage:15
- lettuce:20
- broccoli:75
- peas:35
- green beans:65
- parsley:25
- mint:10
