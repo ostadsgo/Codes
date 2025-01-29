@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block title %}
+خانه و فروشگاه جنگو
+{% endblock %}
+{% block body %}
+<h1>home page</h1>
+{% for data in category %}
+<a href="{{ data.get_absolute_url }}">
+<h1>{{ data.name }}</h1>
+    </a>
+<img src="{{ data.image.url }}"  alt="">
+{% endfor %}
+{% endblock %}
