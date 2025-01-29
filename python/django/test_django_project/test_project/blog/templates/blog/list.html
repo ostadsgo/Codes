@@ -4,6 +4,7 @@
   <h1>All Posts List</h1>
   {% for post in posts %}
     <a href="{% url 'post_detail' post.slug  %}"><h1>{{ post.title }}</h1></a>
+    <span>{{ post.updated|date:"Y/M/d" }}</span>
     <p>{{ post.body|truncatewords:15 }}</p>
   {% endfor %}
 {% endblock %}

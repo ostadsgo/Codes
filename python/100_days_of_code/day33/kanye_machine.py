@@ -59,6 +59,7 @@ class QuoteUi(tk.Frame):
 
 
 class MainFrame(tk.Frame):
+    """ this is a exmple of mainframe in tkinter. """
     def __init__(self, master):
         super().__init__(master)
         quote_ui = QuoteUi(master)

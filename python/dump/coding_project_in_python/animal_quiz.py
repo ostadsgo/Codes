@@ -1,4 +1,5 @@
 def check_answer(guess, corr_ans):
+    "something to do."
     global score
     for _ in range(2):
         ans = input(guess)
@@ -12,6 +13,8 @@ def check_answer(guess, corr_ans):
 
     return False
 
+
+check_answer()
 
 print("Guess the Animal!")
 score = 0
