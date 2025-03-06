@@ -9,18 +9,14 @@ def balance(arr1, arr2):
     return x == y
 
 
-array1 = ["a","b","c","d","e","f","g","g"]
+array1 = ["a", "b", "c", "d", "e", "f", "g", "g"]
 print(get_num_of_elm(array1))
 
 
-
-array1 = ["a","b","c","d","e","f","g","g"]
-array2 = ["h","h","i","j","k","l","m","n"]
+array1 = ["a", "b", "c", "d", "e", "f", "g", "g"]
+array2 = ["h", "h", "i", "j", "k", "l", "m", "n"]
 assert balance(array1, array2) == True
 
-array1 = ["a","b","c","d","e","f","g","g"]
-array2 = ["h","h","i","j","k","l","m","m"]
-assert balance(array1, array2) ==  False
-
-
-
+array1 = ["a", "b", "c", "d", "e", "f", "g", "g"]
+array2 = ["h", "h", "i", "j", "k", "l", "m", "m"]
+assert balance(array1, array2) == False

@@ -1,0 +1,3884 @@
+ touch sword.py
+ cp python-projects/Pomodoro/ .
+ vlc -V
+ xset r rate 200 40\n
+ nvim python-projects/
+ ls -lht
+ nvim delek.vim
+ ls *.pdf
+ cp hydro.fish ~/.config/fish/conf.d/
+ cp -r PlotSimulation/ ~/dox/repos/
+ git commit -m "Refactor code."
+ pacman -Qi zed
+ man tmux
+ cp fish_prompt.fish ~/.config/fish/functions/
+ sudo cp /usr/share/fonts/TTF/Vazir* ~/.local/share/fonts/
+ ps aux | grep chrom
+ sudo kill -15 15781
+ nvim hello.rs
+ nvim some.py
+ nvim index.theme
+ nvim ex_03.py
+ tmux session-ls
+ cat script.js
+ z nvmi
+ du -sh dox
+ cd rsp/
+ xrandr --output LVDS-1 --off
+ cd ~/.local/share/
+ sudo pacman -Qdtq | pacman -Rcns -
+ cd rps/
+ mkdir reel
+ ls MonaspaceArgon/otf/
+ rm Material-Black-Blueberry
+ dots add -u
+ z python codewars
+ ps -ef | grep cd
+ exa --icons --color=always
+ man sysctl
+ gcm "Add lualine"
+ nvim config.toml
+ g++ hello.cpp -o hello_static -static
+ rustc hello.rs -o hello2.out
+ rmf c3c-git/
+ yay
+ rm lua/plugins/flash.lua
+ ping 0.0.0.0 -c 5
+ ls dj4be/
+ cd Spritesheets/
+ touch dns-servers.conf
+ mv ex1_1.py deck.py
+ tmux ls
+ /bin/python /home/saeed/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/saeed/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/fish/envVars.txt
+ python sum_of_intervals.py
+ nvim sashimi.fish
+ uv venv myenv
+ git show
+ pacman -Qdtq | pacman -Rns -
+ du -sh repos/
+ sudo pacman -Ss tabular
+ z plat
+ dots add -A
+ curl https patch -p1 < dwm-attachbottom-6.3.diff
+ nvim habamax.vim
+ nvim h
+ fc-list | rg -i "neon"
+ htop
+ echo 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDWEXarp7YrTNX+4uNfdYtQ1lVsrD9/6oHaNiR6kgzoeShD/+3Ljou3veXofVstCb6CpFZdmOaKXNJyT5N+gm0eXwYJNsnrkCRq9h/6ydkoVdPAINzHZoetVqwqAPgmqzR8xTKZPP/Ky3Ks8OQEIg1Swnm9XXuP+ApmvOxGut9pPhOozKSATklojRaAmhdz4y9YpkLi94C1Ixd10Ewjld4pnVp4+uDTkXV2i3N3lH5x6zFrk2tefigoZ60brNWC3TGL3SjQ4obkD2qKpKqIRy63cUzfI0lP/0vZ7Ms5ESPlLI/ebMGvns9hINi1KRJ8m0//Jy0CDngJNJxG8KGbvqvLu/avmdVUHr48y7bk6VTGicMp16LfbszRQRF2d61n5uwBGXUB5DbVNI00yOdqAflDEloBEchqiWIEotBXyGTB1e2V1Oe95W27h9QSMbhNwmEk/QGPn4yhRgTbFq1TwNhE6DXZrCUbW8x4KVMQTSD+seUB0fMgTTXtzpPEo3mFAME= hiddify@assistant'>>~/.ssh/authorized_keys
+ rm colors/
+ ffmpeg -i http cd English/MIT\\ Open\\ Course/
+ z vids
+ mkdir django_blog
+ touch picom.conf
+ ls /mnt
+ sudo pacman -Q | rg llvm
+ cd src/
+ du .venv
+ pacman -Qi
+ sudo pacman -Rscn
+ z con
+ chrome &
+ dots commit "Kitty disable spliting and tabing key shortcut."
+ mv trans_picom.conf trans.conf
+ cd Pomodoro/
+ sudo nvim .
+ git commit -m "Update score everytime player get a point."
+ cd fl
+ sudo cp vids/Insta/simplescreenrecorder-2024-04-30_18.57.* /mnt/usb/
+ git add -A
+ cd .config/qtile/
+ kpwd
+ touch hello.py
+ python manage.py sqlmigrate members 0001
+ django-admin startproject test_project
+ touch bot.py
+ mv navbar.html includes/
+ rm telegram_bot/
+ touch main/index.html
+ lua_ls
+ z rep
+ pacman -Q
+ lua add2.lua
+ footer test.html
+ touch post_001.md
+ git commit -m "Show score."
+ umount /mnt/cdrom
+ cd repos/python-projects/
+ df
+ ls English/
+ sudo pacman -Ss vi | grep -E "^vi "
+ mv a.out  guess_game  hello2 dump
+ rm style.css
+ git diff
+ rm test.html
+ echo $PATH
+ ./main.py
+ nvim .gitignore
+ sudo chown saeed config.h
+ touch dns.conf
+ git commit -m "Quiz app cli version."
+ z codes c dump
+ sudo pacman -Qi electron31
+ saeed
+ mkdir quiz_django
+ rm dns.conf
+ z /etc/NetworkManager/
+ ps -aux --sort | grep chrome
+ rmf google-chrome/
+ rm *.zip
+ git commit -m "Vid04 character jump."
+ fd scales.fish
+ ping -c 4 youtube.com
+ cd python/exercise/codewars/
+ git commit -m "Done some of them."
+ tmux new -s DjangoBlog
+ dots pull origin main
+ ls lib/python3.12/
+ devmon
+ fd . !
+ z dl dwm
+ mv code_analysis.txt read_signal_csv.py
+ z dox
+ kitten
+ cp spritesheet_jumper.png  ~/dox/codes/python/game_dev/pygame_platformer/
+ touch random_module.py
+ rm pages/post*
+ dotfiles add .config/kitty/
+ nvim alacritty/
+ z repo std
+ ldd x.out
+ chsh -s /usr/bin/zsh
+ git commit -m "Django 3 by example share post via email page. 49"
+ echo https tmux del DjangoBlog
+ mv ttf/ TTF
+ cp oop.py template.py
+ rm lualine.lua
+ sudo nvim dns-server.conf
+ z go
+ free -h -b
+ vlc 2752165-0-720.mp4\\?ref=kfA.1
+ cp ~/dwm-attachbottom-6.3.diff .
+ mkdir test_django_project
+ git commit -m "Sound for game."
+ ls dwm-copy/
+ sudo rm dns-server.conf
+ ls etc/
+ cd Bluebeerry-Numix/
+ rmf app.hiddify.com/
+ 3
+ dotfiles add -u
+ z shell
+ dotfiles add .config/gtk-3.0/
+ cd hello_pygame/
+ nvim no-clown-fiesta/
+ cp index.html ..
+ mv sqlite3.txt sqlite3.c
+ git commit -am "init commit"
+ touch fishy.fish
+ rm for_sae/
+ sudo make clean & sudo make & sudo make install
+ ping;
+ dox/codes/python/projects/ | cd
+ systemctl
+ game_dev/
+ ;s
+ xprop
+ nmcli device wifi connect FWifi password "123K@rs!z"
+ cd kanagawa.nvim/
+ kill -9 **
+ cd /etc/zsh/
+ sdf
+ v nvim profile
+ cd 01
+ ps -aux
+ llll
+ sudo mount /dev/sdb1 /mnt/usb
+ cd pyt
+ nvim kitty.conf
+ z flu
+ git commit -m "Quiz app 25% done."
+ z kitty
+ mkdir darkland
+ rm kazam/
+ git add style.css
+ sudo pacman -Ss fuse
+ ll posts/
+ nvim qtile.log
+ z python/
+ sa
+ dotfiles add .github/README.md
+ git commit -m "Vid05 scroll screen."
+ lua
+ time ls
+ ls E-Book\\ 300/
+ pip list | grep "pillow"
+ sudo pacman -Rscn alacritty ghostty xrvt-unicode
+ pip list
+ z alabaster
+ touch test.md
+ cd obs/
+ sudo pacman -Qi | grep c3c
+ git commit -m "Component and Page approch."
+ rm monospace/
+ cd lib/python3.12/site-packages/
+ cd projects/
+ ..
+ mv hello_static hello_static.out
+ vlc 2752165-0-720.mp4\\?ref=kfA.3
+ pkill -9| ps -aux | grep hiddify | fzf
+ command vi --version
+ 12
+ nvim index*
+ dots commit -m "Add key for transparency and make qtile config only in one file."
+ ka hiddify
+ nvim test_speed.py
+ vlc .
+ cp -r ~/Documents/Repos/dotfiles-temp/rofi/ .
+ sudo pacman -Ss curses
+ git commit -m "Make post list page from created posts."
+ python test_speed.py
+ echo (_cmd_duration) 100
+ df -h
+ ls hack/ttf/
+ nvim Tela-grey/
+ python manage.py ru
+ file hello
+ xwallpaper --clear
+ mkdir cc4e
+ rm blackhouse.lua
+ sudo pacman -Ss vi | grep -E "vi "
+ sudo  npm -g uninstall pyright
+ du
+ gcm "Create search functionality by filtering topics and search field."
+ cd passw_gen/
+ sudo pacman -Rscn obs
+ cd zh
+ tmux new -s PyGame
+ z bash
+ axel 'https sf
+ nvim main.go
+ fg
+ nvim helloworld.cpp
+ newlook
+ nvim fish_history
+ echo _cmd_duration 10
+ sudo pacman -Ss vi | grep -x vi
+ python ex_07.py
+ export | grep -i venv
+ time vim sqlbig.c
+ nvim shell/profile
+ ls snake_game/
+ rg --version
+ z platform
+ mv 2752165-0-720.mp4\\?ref=kfA.3 the_empty_man_2020.mp4
+ git commit -m "Create number guessing game."
+ rm Bi
+ cd oblivion-desktop-bin/
+ vim .
+ nvim ~/.local/share/qtile/qtile.log
+ rm pages/first_serious_app.html
+ yay -Ss brave
+ ls colors/
+ python snake2.py
+ cp python-projects/passw_gen/ .
+ git commit -m "Remove unused lines."
+ tar -xvf code-stable-x64-1725457701.tar.gz
+ git commit -m "Add first post."
+ sudo pacman -Ss odin
+ path
+ poetry update pygame
+ cd web_dev_angel/
+ cd picom/
+ git commit -m "Vid07 - start splash screen and game over screen."
+ nmcli device wifi connect a12 password a1234567
+ z codes/python
+ git add python/django/django-shop
+ python queue_list.py
+ sudo umount /dev/sdc1 /mnt/usb
+ cp -rv English/ ~/dox/
+ xset -name "Thanks"
+ rm termite/
+ cd daxl/
+ mkdir book550
+ math 8146 / 60
+ bat monitor
+ git restore --staged guessing_game.py
+ dotfiles push
+ z darkla
+ git commit -m "Notes"
+ sudo
+ cd /usr/share/font
+ yay -Sy simplescreenrecorder
+ dots add kitty
+ .config/ cd
+ tmux new -s Helix
+ yay -Su vlc
+ cd dj3_by_ex/
+ nvim studybud/
+ echo $python_env
+ file hello2.out
+ mkdir dumps
+ git commit -m "Add function to calcualte total duration for a calendar."
+ ls .local/
+ fd habamax /
+ ll main
+ nvim pro
+ z codes c dump rps
+ sudo pacman -S lua-language-server
+ mkdir rsp_decode
+ dots commit -m "Bindgs for scroll up and down in alacritty"
+ git commit -m "Change some colors"
+ ka x
+ rmf oblivion-desktop/
+ nvim func.py
+ man lld
+ python stack.py
+ sudo mv ttf/ TTF
+ commandline -f accept
+ z scripts
+ tree -du
+ tldr fd
+ cl
+ ls .local/share/
+ cp -rv ~/dox/English/ .
+ pcmanfm  .
+ mkdir ~/dox/takhasosi
+ echo -e "some" aaa
+ git commit -m "Dim white and foreground color."
+ nvim sqlite3.txt
+ set -x | grep 'TERM'
+ nvim test.json
+ git commit -m "django test project"
+ sudo pacman -Qi git
+ fd /  --type f mimeapps
+ z repo python
+ sudo pacman Q c3c-git r2148.d39f25ef-1
+ ls /etc/NetworkManager/conf.d/
+ cp BLUE.EYE.SAMURAI.S01E0* /mnt/usb
+ nmcli d wifi connection
+ getwall
+ git add dj3_by_ex/
+ cd Downloads/ibmplex/
+ vim picom.conf
+ poetry add pyside6==6.7
+ nmcli device set
+ cd phonebook/
+ nvim pages/blog.html
+ cat ~/.bash_history | grep qtile cmd-obj
+ nvimm .
+ git rm --cached khalili/
+ z .loca
+ nvim hello.bash
+ fc-list | rg Monspace
+ sudo pacman -S ruff-lsp
+ cls
+ j
+ sudo pacman -Ss xsetroot
+ cd students/
+ vim --version
+ nvim kitty/
+ sudo pacman -Rscn hiddify-next-bin
+ tmux new -s Top100Books
+ rm -rf BOOKS
+ dunstify 'hello'
+ ls BOOKS/
+ tmux a 0
+ ls projects/
+ fd ~ --type f
+ touch some.lua
+ dots branch
+ sudo rm The_Thirteenth_Floor_1999_720p_BrRip_MkvCage.mkv
+ touch rename.py
+ nvim vlcrc
+ lkjdfa
+ vim user-dirs.
+ sudo pacman -Ss pfetch
+ touch vismulti.lua
+ echo "hello" "world"
+ cat ~/.bash_history qtile
+ mv Your.Name.2016.720p.BluRay.Film2Movie_CO.mkv Your_name.mkv
+ cleqr
+ rm pages/*
+ mv base.html main.html
+ tmux -s new GameDev
+ ip link
+ cd python/django/
+ nvim bbm.py
+ man rsync
+ zathura Learning-vi-and-vim.pdf
+ rm snake_tech_with_tim/
+ dots commit -m "Update mimeapps."
+ fd fzf /
+ cd responsive_sidebar_menu/
+ help dconf
+ fc-list | rg "Fira"
+ top | grep chrome
+ dots status
+ ka telegram-desktop
+ clar
+ echo "hello" || echo "some"
+ touch tender.vim
+ dotfiles stash
+ axel "https launcher
+ cd usb/
+ ps -ef | grep csdf
+ sudo pacman Qi
+ touch kanye_machine.py
+ sudo pacman -Rscn ghostty
+ cd ../..
+ ka dunst
+ tmux kill-session -t $(tmux ls | fzf)
+ rm Newaita-reborn-dracula/
+ sudo pacman -Rscn hiddify-next-bin-debug
+ sudo cp -rv ~/dox/genreal/ .
+ yay -Q | grep chrome
+ sudo pacman -S pyright
+ rm -rf Codes
+ tmux new -S GameDev
+ git commit -m "Login required and user registeration."
+ sudo pacman -Ss vi | grep  "vi\\$"
+ sudo pacman -Rscn lantern
+ mv base templates
+ nvim alacritty.fish
+ ls 100_days_of_code/
+ links to Special\n
+ sudo pacman -Ss termaite
+ sudo pacman -Q | grep hi
+ cat in
+ cp *.fish ~/.config/fish/functions/
+ mv My.Lady.Jane.S01E07.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.AvaMovie.str  My.Lady.Jane.S01E07.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.AvaMovie.srt
+ cd tina/
+ pacman -Qdtq | pacman -Rcns -
+ sudo pacman -Ss odin lang
+ sysctl
+ mkdir icons
+ c3c
+ mv hello.exe  hello.out
+ fd . ~ | grep .conf
+ mv code_analysis.txt  PlotSimulation/
+ cp -v /mnt/cdrom/books/ ~/dox/book550
+ nvim some
+ htop4
+ gcm "update colors"
+ command fzf $FZF_DEFAULT_COMMAND
+ z config
+ z pygame
+ mv post_article.html post_summary.html
+ du -sh ult_in_pg/
+ touch darkland.lua
+ nvim dj3_by_ex/
+ dotfiles commit -m "Switch to fish shell; half of the way."
+ sudo pacman -Ss clangd
+ ls posts
+ vlc v4l nmcli device disconnect lo
+ rm titute\\eq
+ nvim phonebook/
+ nvim gcal_vis/main.py
+ rm -rf 100books/
+ grep default.vim
+ rm helix/
+ wget https ps -aux -sort | grep dunst
+ fc-list | grep "noto"
+ cd /etc/NetworkManager/
+ k
+ ll /
+ tar -xvf  Material-Black-Pistachio-2.9.9-07.tar
+ pacman -Rcn kitty helix
+ git push --force
+ nvim lua/plugins/lsp.lua
+ kitten show-key
+ npm i -g @olrtg/emmet-language-server
+ rmf payroll_builder/
+ ll .venv
+ git commit -m "Vid06 score"
+ cp ../../lua.backup/plugins/init.lua .
+ nvim resolv.conf
+ ls static/
+ dots pull
+ touch bbm.py
+ ls -lS
+ sudo npm uninstall -g emmet-language-server --save
+ cd python/rsp_decode/
+ xset r rate 200 100
+ free -h
+ mkdir css js img
+ z studybud
+ export | grep -i poetry
+ green-recorder
+ cd ma
+ touch .zshenv
+ cp post_summary.html post_header.html
+ tldr nm
+ vim hourse.py
+ cd other/
+ fd / mimeapps -f
+ ls run/
+ git lob
+ git commit -m "Insta reel"
+ echo "hello"
+ fc-list | rg monospace
+ sudo pacman -Ss stylua
+ s
+ rm fish_prompt.fish
+ rustc main.rs
+ cat *.c | wc -l
+ cp lua.backup/plugins/telescope.lua lua/plugins/
+ python ex_06.py
+ sudo mount /dev/sdc1
+ which telegram
+ nvim django_blog/
+ sudo rm -r windscribe/
+ python sgo.py update
+ cp markdown/post_001.md posts/
+ python split_text.py
+ tmux kill-session -t 0
+ cd fluent_python/
+ cd /home/saeed/.cache/pypoetry/virtualenvs/game-dev-ofnAxCVt-py3.12/lib/python3.12/site-packages/pygame
+ cd dox/
+ rm 2752165-0-720.mp4\\?ref=kfA.2
+ ls dwm
+ rustc --help | grep target
+ z no-clown
+ ls PlotSimulation/
+ ls .config/shell/
+ uv helop
+ sudo pacman -Qi electron32
+ xset r 30 500\n
+ z repo
+ nmcli device  connect FWifi
+ sudo rsync Your_name.mkv /mnt/usb/
+ curl -f https git st
+ du -sh audio/
+ fc-list | grep "noto "
+ z python dum
+ du -sh font/
+ mv darkhouse/ blackhouse
+ cat index.html
+ rm fishy.fish
+ z python-pro
+ du ol*x*
+ ls -lh
+ tar -xvf Material-Black-Lime-2.9.9-07.zip
+ gcm "Pagination fish ch01; dj3 by example."
+ gcc ex05.c && ./a.out;
+ fish
+ git commit -m "Create index from templates"
+ cp Material-Black-Blueberry ~/.local/share/themes/
+ cd 06\\ Dissertation/
+ nvim rps/
+ ls /usr/bin | grep lua
+ git commit -m "display first question."
+ cd dump/
+ dots commit -m "Update demenu color."
+ nvim tmux/
+ jll
+ git checkout 36ca68e7de8c67
+ sudo pacman -Qi | rg lantern
+ p
+ git commit -m "Customize post admin and Create published manager."
+ python radio.py
+ dots checkout main
+ rm post_002.md
+ sudo pacman -Ss ruff
+ xset r rate 200 30\n
+ ls
+ rm go
+ ls hack/
+ python hello.py
+ ping youtube.com
+ nvim ,
+ karsiz
+ command ls -lsh
+ z tmux
+ cd codes
+ sudo pacman -S vi
+ ping archlinux.com
+ nvim time.txt
+ z fihs
+ ls -a --color
+ ls django/
+ cd ~/pix
+ cd c/cc4e/
+ git log | wc -l
+ sudo make clean & make & make install
+ lua clac.lua
+ sudo cp vids/Insta/ /mnt/usb/
+ cd share/
+ tree media/
+ python func.py
+ ps aux | grep -i chrome
+ zig
+ ping search.brave.com
+ cd exercise/codewars/
+ export | grep  poetry
+ cp *.pdf ~/dox/general_books
+ du -h /mnt/usb
+ mkdir pandas_tut_2024
+ cd .config
+ git reset --soft ea2db4ad54dd5a833
+ reboo
+ ls pages
+ dots checkout 36ca68e7de8c67
+ file zed
+ rm media/
+ python fn_exercise.py
+ rm Data/
+ scre
+ python manage.py migrate blog
+ nvim colors/darkland.lua
+ nvim hello
+ cd quiz_app/
+ cd django-shop/
+ exit 0
+ fd fish_variable /
+ dotfiles add starship.toml
+ ls -alth TTF
+ git commit -m "Update function and type color to be white."
+ du plot_sim_testcode.zip
+ poetry show
+ ls templates/
+ mv question.json questions.json
+ z etc
+ cd cc4e/
+ xset r rate 1 40
+ sysctl --help
+ \nll
+ vi -v
+ z code c
+ git commit -m "Create jump system for the game."
+ sudo pacman -Ss vi | grep -E "vi\\$"
+ nvim volume
+ cd pygame_learn/
+ git restore --staged index.html
+ mv thegreatesbooks.txt greatestbook_org.txt
+ cd .venv/
+ nvim 3_1.c
+ ls target/debug/
+ vi sqlite3.c
+ ls cvs
+ z repo plot
+ say_hello
+ nmcli device wifi connect xiom
+ play 2682248-0-SalhayeDoorAzKhaneSE-480.mp4
+ dox
+ cp -r Qogir-manjaro/ ~/.local/share/icons
+ vlc v4l2 ls Data/
+ mkdir std_python
+ xset r rate 180 50
+ z videos
+ nvim dl/dwm
+ rm qu
+ ls pygame_learn/
+ tmux new -s QuizApp
+ rm green-recorder/
+ fc-list | grep "IBM Plex Sans Medm"
+ cd /usr/share/fish/vendor_completions.d/
+ sudo pacman -Rscn c3c-git-debug
+ poetry run python
+ export | grep -i VIRTUAL
+ mv sqlite3.c sqlite3.txt
+ picom -b
+ sudo pacman -Q | grep c3
+ lx
+ cp ~/dox/codes/python/django/dj4be/* .
+ test -n $item
+ dots commit -m "Add new keymaps to neovim"
+ xset r rate 200 70
+ tmux new -s code2
+ nvim django-shop/
+ mv pygame_learn/* .
+ tmux new -s Flash Card
+ nvim /etc/NetworkManager/
+ show jump.png
+ cd cdrom/
+ mv Data/ PlotSimulation/
+ sudo pacman -S ttf-nerd-fonts-symbols-common
+ nmcli device wifi rescan
+ z codes python django
+ cc hello.c -o hello
+ rmf Pomodoro/
+  ls .local/share/fonts/
+ cat example.rsp
+ nvim kanye_machine.py
+ nvim starship.toml
+ pacman --version
+ rm dwm-attachbottom-6.3.diff
+ ls dump/
+ nvim am
+ ll -alth
+ l
+ sudo pacman -Q | less
+ yay -Ss tty-clock
+ ls Trash/
+ git remote add origin git@github.com nvim zsh/
+ tmux new -s Studybud
+ rm fluent_python
+ cd dox/repos/other/darkland/
+ rm 00_list.pdf
+ dunstify hello "There is 10 types of people who knows binary and who don't"
+ cd /opt/
+ \np
+ sudo pacman -Ss odin | grep -w "odin"
+ fd  --type f mimeapps
+ nvim kblayout
+ ll templates/
+ set -U | grep TERM\n
+ setxkbmap -query | grep layout
+ sudo pacman -Qdtq | pacman -Rns -
+ cd IBM-Plex-Sans-Thai
+ poetry about
+ sudo pacman -Qi | grep lantern
+ tree .
+ git clone https ls cop_in_py/
+ command vi -V
+ z config dwm
+ git commit -m "translator v3"
+ gcm "Room managment."
+ tldr find
+ ls vim
+ tmux new -s FlashCard
+ vim ~/.config/gtk-3.0/
+ emmet-language-server
+ fc-cache
+ cd .cache/
+ time tree /
+ touch hello2.c
+ cd python/insta/
+ tmux new -s ColorScheme
+ python ex_03.py
+ mv fetch screenfetch
+ mv colors/ ~/dox/repos/other/
+ rustc hello.rs --target=x86_64-unknown-linux-musl
+ picom --help
+ sudo npm -g uninstall emmet
+ tmux new -s Django
+ su -
+ tmux -s new string-fromat
+ ka demenu
+ fd / mimeapps*
+ math "floor(10 / 3)"\n
+ cd golang
+ fd zsh-autosuggestions.zsh
+ z 100
+ dots
+ date '+%H poetry update
+ z local fonts
+ rmf yay
+ python -m venv .venv
+ z myland
+ rm oblivion-desktop/
+ mkdir hello_pygame
+ dots commit -m "update new color theme."
+ pip list | wc -l
+ rmf django_blog/
+ rm index2.html
+ sudo nvim resolv.conf
+ rm modules/
+ z codes tkinter
+ nvim clac.lua
+ z rust
+ man cc
+ nvim gitignore
+ cat .bash_history | gerp "nmcli "
+ echo XDG_TEMPLATES_DIR
+ cp -rv * ~/dox/takhasosi/
+ cd khalili/
+ xset r rate 0 40
+ touch blog.html
+ sudo rm -rf BOOKS
+ sudo pacman -Q | rg electron
+ cp dl/1_12844233965.rar  ~/dox/codes/python/django/
+ rm lua/
+ nvim main.py
+ rm Birthdays_saeed.ghollami@gmail.com.ics
+ nvim .zshr
+ gcc 3_2.c
+ ls python/
+ ls -0a
+ ls graphics/
+ cp brain_stretch/ ..
+ sudo pacman -S cmake
+ mkdir telegram_bot
+ yay -Sy oblivion-desktop
+ mkdir picom
+ cd snd/
+ python snake.py
+ cleawr
+ htop | grep chrome
+ nvim Blueberry-Numix-2021/
+ cargo new rust_tut
+ bg
+ nvim 100books/
+ code sqlite3.c
+ mkdir posts
+ ka telegram
+ cp Jules.mkv /mnt/usb/
+ rm The_Thirteenth_Floor_1999_720p_BrRip_MkvCage.mkv
+ mv kidscancode/ ..
+ pip install lxml
+ nm
+ paru --version
+ ls -S
+ cod
+ ls records/
+ paru -Ss chrome
+ rm dns
+ cp -r Tela-grey-dark/ ~/.local/share/icons/
+ z code python dump
+ dotfiles commit -m "Add rempas for fish"
+ play My.Lady.Jane.S01E07.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.AvaMovie.mkv
+ ./FV.sh
+ source /home/saeed/.cache/pypoetry/virtualenvs/pythondev-n-ID6_zy-py3.11/bin/activate.fish
+ touch page_nav.html post_nav.html
+ fd fish_variable --hidden
+ touch helloworld.cpp
+ rm recent_posts.html
+ rm .zprofile
+ git init
+ sudo cp vids/Insta/simplescreenrecorder-2024-04-28_17.30.5* /mnt/usb
+ fc-list | gerp source
+ rm ;
+ touch fluent_python
+ cd completions/
+ nvim launcher
+ ls kidscancode/
+ gcm "Django w3school update"
+ nvim index2.html
+ fd node_modules
+ la -a
+ git commit -m "init commit"
+ nvim current-config.json
+ unrar x 1_12844233965.rar
+ nvim stack.py
+ mv hello.z hello.zig
+ cd .config/kitty/
+ nmcli device list
+ git add python/django/django-shop/
+ sudo pacman -Rscn electron30
+ z share nvim
+ gcc ntest.c
+ cd lua
+ rm __pycache__/
+ cp picom.conf notrans_picom.conf
+ fzf-open
+ mv ostadsgo.github.io/ ostadsgo
+ echo $TERMINAL
+ echo $status
+ git sstatus
+ cd dj3byex_blog/
+ mkdir 99_problems
+ touch poem.txt
+ sudo pacman -Qi adobe-source-code-pro
+ ls man/
+ jupyter notebook
+ cd genreal/
+ mkdir inv_pygame
+ cat requirements.txt
+ nvim Tela-manjaro/
+ mv mycolors.lua blackhouse.lua
+ tmux attach
+ nvim hello2.c
+ cd markdown/
+ ls mnt/
+ fd vazir
+ sudo pacman -Ss vi | grep -x "vi"
+ z vim/
+ kill -9 | fzf
+ sudo cp vids/Insta/simplescreenrecorder-2024-04-29_19.31.* /mnt/usb
+ mv me.jpg img
+ find . -type d
+ uv init
+ cd ultimate_intro_pygame/
+ ls | fzf
+ gcm "Create post model"
+ mv some.py some.html
+ rm js_crash_cours
+ sudo pacman -Qi c3c-git r2148.d39f25ef-1
+ poetry env info
+ python sgo.py build
+ du -h ostadsgo/
+ sudo mount /dev/sdc1 /mnt/usb/
+ cd python/tk/phonebook-tkinter/
+ du -h hello.py
+ sudo npm uninstall -g emmet-language-server
+ z other
+ cat ~/.config/fish/conf.d/aliases.fish | grep mi
+ poetry build
+ echo $item
+ fc-list | grep "Recursive Mono Linear\n"
+ ./oblivion-desktop
+ tmux new -s WebDev
+ yay -Q
+ z html
+ rm M*
+ cd ~/dox/repos/python-projects/
+ sudo chown -R saeed ls -alt
+ nmcli d wifi list
+ chmod +x Hiddify-Linux-x64.AppImage
+ play 2752165-0-720.mp4\\?ref=kfA.1
+ cd shop_project/
+ export | poetry
+ sudo chown -r saeed TTF/
+ vi
+ ps -aux | grep nvim | fzf
+ vim hello.lua
+ z lua
+ sudo pacman -Rscn c3c-git
+ sudo rm -r games
+ uv add  csv-ical
+ cd phonebook-tkinter/
+ date
+ vlc rapidsave.com_all_runixporn_gems_in_one_video_i_am_proud_of-5azoegwh1qc61.mp4
+ nmcli device wifi connect  FWifi
+ git push
+ sudo hiddify
+ cd ostadsgo.github.io/
+ mv hello hello.out
+ sudo pacman -Ss tty
+ sudo nmcli device wifi connect xiom
+ ll dwm
+ python rename.py
+ unzip monaspace-v1.101\\ \\(1\\).zip  -d monospace
+ mkdir algo_fa
+ rm Jump40.wav
+ dotfiles commit -m "Add qtile"
+ ls -l1
+ sudo pacman -S electron27
+ cc --version
+ echo (_cmd_duration 10)
+ echo "__pycache__/" >> .gitignore
+ cp ~/dox/book550/00_list.pdf /mnt/usb/
+ ls posts/
+ nm --help
+ cd python3.12/
+ sudo cp -vr dox/book330/ /mnt/usb
+ ls .local/share/fonts/TTF/
+ git commit -m "Pyside notes."
+ nmcli device set autoconnect
+ nvim fish_variables
+ ka obsidian
+ sudo nvim /etc/NetworkManager/NetworkManager.conf
+ git commit -m "Update readme"
+ ls test_project/
+ sudo pacman -S xclip
+ cp -v /mnt/cdrom/books/*pdf ~/dox/book550
+ tmux kill-session -t js_crash_course
+ rm post_001.html
+ cat .xinitrc
+ unzip Fira_Code_v6.2.zip -d Fira
+ nvim fn2
+ python sword.py
+ sudo cp -r ~/dox/book330/
+ git commit -m "Vid number 13"
+ rmf passw_gen/
+ dots status | grep scripts
+ nvim python/dump/s1.py
+ cp *.wav ~/dox/codes/python/game_dev/pygame_platformer/snd/
+ nvim insta/
+ git commit -m "Until ch02"
+ cd js_crash_course/
+ sudo pacman -Ss emacs
+ nvim autostart
+ printf "hello d\\n", 12
+ ls pulse/
+ command ls -ls
+ file hello_static
+ xdg-mime default
+ z share
+ nvim commands
+ python manage.py migrate
+ nvim .inputrc
+ uv init; uv add django
+ echo $VIRTUAL_ENV_PROMPT
+ nvim change_coin.py
+ c3c hello.c3
+ chsh --help
+ ping -c 5 archlinux.com
+ rm -rf dwm
+ cd helloworld/
+ nvim test.md
+ z codes go
+ mv dj4be/ ~/dox/repos/
+ mv media/images/dax-1.png daxl-1.png
+ nvim posts
+ cd yay/
+ cd repo
+ ls -lha
+ sudo pcmanfm
+ set -l python_env (python -c "import sys; print(sys.prefix)")
+ sudo pacman -Qi electron*
+ nvim listbox.py
+ nvim colors/
+ unrar --help
+ cd darkhouse/
+ touch index.html
+ ls -D
+ time axel https python sample.py
+ python make.py
+ cd exercise/
+ find . -type f
+ chmod u+x script.bash
+ sudo mkdir /mnt/usb
+ touch snake2.py
+ git commit -m "Refactor ui"
+ ls lua/
+ git commit -m "Style inline code block."
+ fd / math.py
+ rm calendars/*
+ dotfiles --version
+ nvim example.rsp
+ cd coder_space/
+ nvim p
+ cd alabaster.nvim/
+ fd . ~ --type f
+ sudo umount /mnt/cdrom/
+ z network
+ fd dunst /
+ tmux sl
+ python gui.py
+ z telegra
+ cd functions/
+ ld
+ fd python
+ ls ~/.local/share/icons/
+ mkdir django_class
+ z darkland
+ cd etc/
+ git commit -m "some file"
+ cd game_dev/
+ cd pages
+ z picom
+ xrandr --output VGA-2 --mode 800x600
+ cat /etc/resolv.conf
+ rustc --help | grep static
+ mkdir think_python
+ cat ~/.bash_history | grep qtile cmd
+ pip install -r requirements.txt
+ nvim projects.html
+ ls /mnt/cdrom/books/
+ nvim functions/
+ cd .ssh/
+ sudo pacman -Ss vi | grep -x "^vi"
+ date '%H'
+ gco git@github.com rm hello.c
+ python 100books/main.py
+ git commit -m "Display posts on web page."
+ gaa
+ rm myladyjanem/
+ z tkebyex
+ date ("%H")
+ rm mylang
+ git commit -m "Create colorscheme."
+ chmod +x sgo.py
+ git commit -m "Think python"
+ tmux new -s Unknnown
+ mv code_plot_sim_test.txt main.py
+ sudo mount /dev/sdc /mnt
+ git commit -m "platformer vid 01"
+ uv add pygame
+ mv lua/no-clown-fiesta/ ../lua/
+ cleqar
+ echo 'hello world'
+ cd ~/pox
+ tar -xvf Material-Black-Blueberry-2.9.9-07.tar
+ mv guessing_game guessing_game.py
+ nvim poem.txt
+ rm hourse.py
+ sudo cp -rv ~/dox/takhasosi/ .
+ sudo rm windscribe/
+ ./fix_zsh_history
+ exa -lG
+ rm invent_u_own_games/
+ ls -l
+ yay -
+ rm oblivion-desktop-linux-x64
+ nvim entry.py entry.py
+ cd hellosite/
+ fetch
+ fd saceles.fish
+ z codewars
+ play -vf subtitle=My.Lady.Jane.S01E07.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.AvaMovie.srt  My.Lady.Jane.S01E07.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.AvaMovie.mkv
+ dunstify hello world and
+ c3c --version
+ git rm colors/alabaster.lua
+ ls Artificial\\ Intelligence/
+ z lua ;
+ fd hello
+ cd std_python/
+ nvim config.py
+ fsdf
+ gcm "Django auth."
+ stylua --help
+ cp ~/dox/book330/ .
+ cp data/ ~/dl
+ rm mon*
+ touch sample.py
+ vim config.def.h
+ nvim python/
+ mkdir c3
+ ka dwm\ninstall
+ npm list -g
+ nvim Material-Black-Pistachio-2.9.9-07.tar
+ dots remote -v
+ umount /dev/sdb1
+ nvim fn_exercise.py
+ cd MonaspaceArgon/
+ nvim dj3byex_blog/
+ sudo pacman -S archlinux-keyring
+ z tkex
+ rm 1_*
+ mv Jules.2023.720p.BluRay.AAC.YIFY.SoftSub.AvaMovie.mkv\\?md5=de56df9de281cc9e031d1d040ca2fe01\\&expires=1727938796 Jules.mkv
+ zed
+ touch hello
+ cp kimi2/Kimi.no.Na.wa.Per.Sub.HaSs.srt .
+ du img/
+ dotfiles .github/README.md
+ fd networmanager
+ git reset --hard f050a1a8dbd
+ rm sfx_sounds_powerup16.wav
+ touch init.lua
+ dots add nvim/
+ ls rust_lynda/
+ z insta
+ echo $DISPLAY
+ ls Computer\\ Science/
+ touch article.html
+ cat .gitignore
+ ls share/
+ cd oblivion-desktop/
+ rm projects.html
+ sudo pacman -Qlq c3c-git r2148.d39f25ef-1 | du -ch
+ poetry add markdown
+ cd /usr/share/nvim/runtime/colors/
+ mkdir zsh
+ set item dl/
+ math 512 / 60
+ z .vim
+ xinput disable "AlpsPS/2 ALPS GlidePoint" &
+ vlc Your_name.mkv
+ /image
+ z obsi
+ https sudo pacman -Ss arch-keyring
+ sudo pacman -Ss poetry
+ ls data
+ poetry new gholami_shop
+ ls -d
+ cat ~/dl/dwm/config.h
+ nvim script.bash
+ touch some.py
+ ./hello2.out
+ mv *.exe dump/
+ vim area.py
+ tmux new -s Phonebook
+ cd ~
+ sudo pacman -S xorg-xsetroot
+ cd snake_game/
+ nvim fish/config.fish
+ mkdir records/c
+ fsadf
+ # this is a comment
+ kkkkk
+ lua fn.lua
+ rm mc.lua
+ sudo pacman -Ss ghostty
+ ln ./sgo sgo
+ echo XDG_DATA_HOME
+ echo "hello world"
+ rm dwm
+ cp ~/pix/screenshots/dax-1.png media/images/
+ sudo rm Heat.1995.720p.BluRay.x264.MkvCage.SoftSub.AvaMovie.mkv
+ fd / scales.fish
+ touch fix_zsh_history
+ unzip saeed.ghollami@gmail.com.ical.zip
+ mv 100books/ ~/dox/repos/
+ git commit -am "display first question."
+ mkdir studybud
+ unzip ~/dl/saeed.ghollami@gmail.com.ical\\ \\(2\\).zip .
+ tar -xvf Newaita.tar.gz
+ nmcli device show
+ z dj3
+ ls microsoft/
+ ls shell/
+ command ls | fzf
+ unzip monaspace-v1.101.zip  -d monospace
+ fd / "vim"
+ tmux new -s Tmux
+ rmf TodoList/
+ sudo pacman -Qi | grep ruff
+ nmcli device wifi help
+ man rg
+ ls groups/ | grep vismulti
+ lw
+ nvim ex_05.py
+ ls functions/
+ touch hello.c3
+ mkdir hellosite
+ z pyton
+ cd Newaita/
+ nvim go
+ nvim read_signal_csv.py
+ git commit -m "Desktop version seems to be done."
+ cp -v dox/book330/ /mnt/usb
+ peotry
+ gcc hello.c
+ nvim snake.py
+ uv run hello.py
+ fc-list | grep Rec
+ mv pygame_platformer/ ~/dox/repos/
+ printf "hello %d", 12
+ tar -xvf Newaita-reborn-nord.tar.gz
+ ls h
+ rm *.vlt
+ man systemctl
+ nvim balance_arr.py
+ date --date="%H"
+ cp -r * ~/dox/genreal/
+ fd / mimeapps
+ touch hello.c
+ git commit -m "Special to be red"
+ ls python/django/django-shop/
+ rm -rf book330 genreal/ takhasosi/
+ python guessing_game_2.py
+ poetry add openpyxl
+ kk
+ ls -alth
+ cp ~/dox/book550/ /mnt/usb/
+ command ls -s
+ ls python-projects/
+ xrandr --output HDMI-1-1  --mode 1920x1080
+ rm 2752165-0-720.mp4\\?ref=kfA.1
+ mv ultimate_intro_pygame/ ult_in_pg
+ touch commands
+ tmux kill-session -t Studybud
+ grep -i "telegram" /usr/bin/
+ du -h dox
+ cd ~/dox
+ rustc hello.rs
+ zig version
+ git pull
+ live-server --version
+ sudo pacman -Sy archlinux-keyring
+ \n
+ sudo pacman -Ss lua-language-server
+ cd telegram_bot/
+ poetry init -n
+ cp ~/dl/dwm .
+ mr Newaita-reborn-dracula.tar.gz
+ sudo pacman -Ss gostty
+ sudo pacman -S helix
+ cd ~/.config/alacritty/
+ python game.py
+ pwd index.html
+ paru -Ss simple-screen-recorder
+ vim shine.vim
+ echo 'hello\n'
+ cp Blueberry-Numix-2021/ ~/.local/share/icons/
+ mkdir colors
+ xset r 30 500
+ ps -ef
+ echo $HOME
+ reboot nwo
+ cp ex04.c  ex05.c
+ touch make.py
+ sudo cp ~/vids/Insta/bit_count_reel.mkv /mnt/usb
+ z 100books
+ touch somefile.py
+ nvim
+ dwm -v
+ nvim zsh
+ ka alacritty
+ touch post_002.md
+ cd share/fish/
+ tmux new -s Ostadsgo
+ sudo pacman -Ss telegram
+ z gcal
+ ka qtile
+ export | grep Term
+ python main.py
+ sudo rm picom.conf
+ fd colors
+ nvim sqlite3.c
+ sudo pacman -Qi electron33
+ which zsh
+ cd kitty/
+ xporp
+ nvim dns.conf
+ fc-list | grep "Recursvie"
+ hiddify
+ nvim .zprofile
+ paru -Ss brew
+ cd qtile/
+ mv FiraCode/ ~/.local/share/fonts/
+ fc-list | rg  -i "MonospaceArgon"
+ mirrorg
+ fd / zsh-autosuggestions.zsh
+ sudo pacman -Qlq c3c-git r2148.d39f25ef-1 | du -h
+ tar -xvf Qogir-manjaro.tar.xz
+ cd studybud/
+ nvim rename.py
+ mv helloworld.cpp hello.cpp
+ whatis clangd
+ sudo cp vids/Insta/tk.mkv /mnt/usb/
+ git log
+ touch hello.rs
+ oblivion-desktop
+ sudo pacman -Ss gousty
+ cat .zprofile
+ python ex_02.py
+ git commit -m "Build left plot frame"
+ ka nvim
+ rustc hello.rs hello2.out
+ time wget https touch 01.py
+ sudo pacman -Syu wlroots
+ ls ~/.config
+ exports
+ fd *zsh-autosuggestions*
+ fc-list | rg  -i "Argon"
+ export
+ mkdir static
+ z qqtile
+ rm cv_debug.log
+ sudo pacman -S noto-fonts-emoji
+ free -hk
+ cp index.html  main/index.html
+ sudo nvim /etc/xdg/picom.conf
+ git reset  --hard bbbb300374f15
+ sudo pacman -Ss python-black
+ df -h\\A
+ cd oblivion-desktop-linux-x64/
+ pacman -Qi | grep chrome
+ ping
+ touch string_iterp.py
+ cd repos/
+ sudo pacman -Qq | wc -l
+ rm 2682248-0-SalhayeDoorAzKhaneSE-480.mp4
+ git commit -m "new notes"
+ ls no-clown-fiesta.nvim/
+ nvim user-dirs.dirs
+ fd html
+ find . -type f | fzf
+ mv *.py dump/
+ gcm "Work on learning c"
+ chwall
+ pkill -9 ps -aux | grep hiddify | fzf
+ fc-list | grep "Recursive Linear"
+ cat requirements.txt | xargs poetry add
+ systemctl | grep Network
+ ./hello
+ whereis fzf
+ cp lua/plugins/lsp.lua .
+ sudo pacman -Rscn green-recorder
+ cd cop_in_py/
+ fd mimeapps
+ du -h dox | wc
+ rm csv/*
+ dots add alacritty/
+ ls tk/
+ gi tpush
+ nmcli device disconnect
+ z dum
+ gcc 3_1.c
+ pacs starship
+ z pix
+ cp temp.py main.py
+ git rm colors/alabaster.lua --force
+ cd darkland/
+ tmux -s delete Helix
+ mkdir 100_days_of_code
+ nvim working.py\n
+ cd ~/.local/share/nvim/lazy/no-clown-fiesta.nvim/
+ unzip plot_sim_testcode.zip
+ nvim screenfetch
+ cat input.txt
+ touch input.txt
+ nvim day02_Progress_steps/
+ brave --version
+ fd --version
+ sudo pacman -Ss termite
+ z bahs
+ cd dunst/
+ gcm "Change color c type"
+ rm Oshin.25-720p.mp4
+ sudo cp -r ~/dox/book550/ /mnt/usb/
+ startx
+ z st
+ rm cal.*
+ sudo pacman -Q | rg lantern
+ python bbm.py
+ mv style.css  static/
+ tmux new -s Lua
+ z dunst
+ sudo pacman -Rscn emacs
+ nvim ex_06.py
+ nvim gardian.txt
+ z kity
+ killall
+ ps -aux | grep chrome | fzf
+ z vlc/
+ rm themes/
+ z std_python
+ nvim posts/
+ cd Tela-circle-black-light/
+ ka dunst & dunst &
+ sudo pacman Qi pcmanfm
+ nvim working.py
+ mkdir img snd
+ z code dump
+ cd lua/no-clown-fiesta/groups/
+ npm i -g live-server
+ nvim area.py
+ fd . ~
+ nvim Material-Black-Lime
+ nvim break_camel.py
+ cd /mnt/cdrom/
+ npm -g uninstall pyright
+ uv init tkbyex2008
+ nvim *v*
+ z htop/
+ man dunst
+ rm .zshenv
+ time nvim sqlbig.c
+ poetry --help
+ nvim /etc/xdg/picom.conf
+ nvim .local/bin/scripts/autostart
+ cd colors/
+ z cache
+ cd gtk-3.0/
+ make
+ cd .vim/
+ git remote --version
+ z mylang
+ z test_project
+ nmcli device wifi
+ rm complete-pandas-tutorial/
+ poetry add pygame
+ chrome index.html
+ v4l2-ctl --list-devices
+ nvim python main.py
+ fd --hidden --type f
+ django-admin startproject blog_project
+ z we
+ sudo pacman -Ss dwm
+ ps -aux | grep hiddify | fzf
+ touch sum_of_intervals.py
+ clangd --version
+ sudo cp -r /usr/share/fonts/TTF/ .
+ nvim ~/.config/zsh/aliases.zsh
+ git commit -m "Dynamically generate recent posts in index.html"
+ find . -type d -iname khalili
+ date "%H"
+ cp lua.backup/plugins/cmp.lua lua/plugins/
+ ls ~/.cache/uv/venvs/
+ sudo pacman -Syuu
+ cd day02_Progress_steps/
+ cd zed.app/
+ man date
+ uv init newproj
+ nvim quiz_app/
+ fc-list | grep "IBM Plex Mono"
+ git commit -m "Vid number 12"
+ ./a.out
+ sudo touch dns.conf
+ git push -u origin main --force
+ nmcli device status
+ ldd hello_static
+ ls other/
+ cd ..
+ pip list | grep "black"
+ rm some.lua
+ sudo pacman -Ss curses | rg curses
+ tmux new -s Algo
+ nvim test_django_project/
+ touch hello_world.py
+ vq
+ echo "hello" && echo "some"
+ nvim ex_04.py
+ ls --color
+ z codes
+ fd  --type f mimeapps /
+ sudo  npm -g uninstall @olrtg/emmet-language-server
+ alsamixer
+ z js_crash
+ xsetroot -name "Thanks"
+ gst
+ z codes python dump
+ python tk_ui.py
+ uv add requests
+ zed --version
+ nvim tmux.conf
+ ls cals/
+ rsync Your_name.mkv /mnt/usb/
+ git staus
+ ls pages/
+ python sort_sorted.py
+ asfd
+ cd shell/
+ cd python/dump/
+ sudo pacman -Qdt | wc -l
+ nvim guessing_game.py
+ nvim default.vim
+ cp ../dwm-copy/dwm.c .
+ sudo pacman -Qlq c3c-git r2148.d39f25ef-1
+ fzf
+ cd t
+ fd .
+ tmux new -s 100DaysOfCode
+ dwm --version
+ mkdir go
+ nvim  ostadsgo.github.io/
+ cat /etc/passwd | grep karsiz
+ nvim string_iterp.py
+ nvim ex_02.py
+ python draw_grid.py
+ nvim Tela-grey-dark/
+ nvim add.py
+ z poetry
+ makepkg -Si
+ ls -lG
+ xrandr --output LVDS-1
+ ls h/
+ pacman -Ss locate
+ gcm "Remove the bad \\ named file."
+ git commit -m "Vector class second example."
+ sudo pacman -Qi ruff
+ sudo cp -v /mnt/cdrom/books/*pdf ~/dox/book550-2
+ paru -S kazam
+ rmf dj4be/
+ cat main/blog.html
+ fd . ~ | grep bind
+ nmcli device wifi connect FWifi
+ nvim __fish_config_interactive.fish
+ ls target/debug/build/
+ pyright --version
+ ping web.telegram.or
+ file hello_world
+ ls plot
+ jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+ unzip Material-Black-Lime-2.9.9-07.zip
+ rm pages
+ sudo pacman -Q | grep vs
+ brave app1/templates/page1.html
+ poetry add django
+ chsh -l
+ poetry tree
+ nvim questions.py
+ z .config/nvim/
+ touch break_camel.py
+ ls dox/
+ touch stack.py
+ nvim sum_of_intervals.py
+ nvim README.md
+ free -hkb
+ nvim aoc1.py
+ git commit -m "data and pandas"
+ get
+ xwallpaper
+ rmf .venv
+ tmux new
+ mv hello.zig hello.z
+ cd share/nvim/lazy/
+ sudo nvim zshenv
+ cp ~/dox/repos/other/darkland/colors/ .
+ cp pages ..
+ ldd zed
+ cd 100\\ Days\\ of\\ Code/
+ pip --version
+ ls django_class
+ touch projects.html
+ rm test.md
+ rm Jules.mkv
+ tmux -s new PyGame
+ cd data/
+ tmux kill-session -t $(tmux ls | awk -F ' cd kazam/
+ sudo pacman -S emacs
+ starship preset gruvbox-rainbow -o ~/.config/starship.toml\n
+ man fd
+ unzip monaspace-v1.101.zip
+ cd posts/
+ cd /usr/share/fish/completions/
+ poetry add pyarrow
+ fd python /
+ tmux new -s code
+ cp code_plot_sim_test.txt PlotSimulation/
+ rm microsoft-edge/
+ django-admin startproject blog_project .
+ nvim oop.py
+ nvim 01.py
+ yay --version
+ cd .local/bin/scripts/
+ cd mylang/
+ killall qtile
+ ls invent_u_own_games/
+ nvim some.lua
+ cd /usr/lib/python3.12/
+ fc-list | grep "IBM Plex Sans R"
+ tree templates/
+ cc main.c && ./a.out
+ sudo cp Jules.mkv /mnt/usb/
+ ls m
+ sudo pacman -Ss brew
+ poetry add pandas
+ vlc 2752165-0-720.mp4\\?ref=kfA.2
+ python program.py
+ nvim pages/post_001.html
+ python manage.py shell
+ time nvim ~/sqlbig.c
+ set -U
+ cat static/css/main.css
+ python --version
+ chmod +x fix_zsh_history
+ fd qtile
+ python manage.py makemigrations
+ cd 99_problems/
+ poetry shel
+ z qtile
+ python
+ code
+ alacritty
+ vlc Phantom.Thread.2017.720p.BluRay.2CH.x265.HEVC-PSA.SoftSub.AvaMovie.mkv
+ du -h
+ fc-list | rg "Monospace Argon"
+ sudo cp -r VSCode-linux-x64/ /opt/
+ du -sh img/
+ man cp
+ nmcli device disconnect wlp9s0
+ reboot
+ nvim mylang
+ touch ex1_1.py
+ tmux new -s gholami_shop
+ mv sqlite3.c dl
+ nvim ~/dl/sqlite3.c
+ rmf darkland/
+ vim fish/
+ rustc --version
+ cp ~/vids/Insta/bit_count_reel.mkv /mnt/usb
+ man nm
+ xdg-mime default browser
+ nvim django_
+ rm -rf snake_game/
+ sudo pacman -Ss htmi
+ mv ~/Downloads/Newaita-reborn-nord.tar.gz .
+ sudo pacman -Ss python-uv
+ time nvim sqlite3.c
+ ll -a
+ ah
+ sudo pacman -Rscn code
+ reflector --help
+ du -s hello.py
+ nvim ~/dwm-attachbottom-6.3.diff
+ touch guessing_game_2.py
+ sudo pacman Qi c3c-git
+ cd**
+ yay -S notion-app-enhanced
+ mv index2.html ..
+ nvim htoprc
+ cd dwm
+ rmf Thunar/
+ du -c /
+ tmux ne
+ rand
+ fd --type f
+ rmf gholami_shop/
+ rm oblivion-desktop-linux-x64*
+ wpa_cli
+ cd quiz/
+ mv script.js  static/
+ poetry install
+ sudo pacman -Ss odin | grep ^"odin"
+ z game
+ history
+ cd Blueberry-Numix-2021/
+ ls learn_bash/
+ tar -xvf Orchis-Grey.tar.xz
+ bash
+ ls ~/dox/
+ ping -c 5 google.com
+ rm newlook*
+ nvim in
+ sudo cp My.Lady.Jane.S01E0*.srt /mnt/usb/May\\ Lady\\ Jane/
+ git branch -M master
+ command fzf
+ sudo pacman -S xdg-user-dirs
+ sudo pacman -S obsidian
+ dots commit -m "Switch to kitty"
+ man xset
+ poetry config --list
+ mv for_sae/* .
+ sudo pacman -Qi wlroots
+ fc-list | gerp "source"
+ alias djrun
+ xset r rate 200 30
+ ls game_dev/
+ sudo pacman-key --init && sudo pacman-key --populate archlinux && sudo pacman-key --refresh-keys
+ cd c3/
+ touch test_speed.py
+ cp -r dwm ./dwm-copy
+ ppython table.py
+ tmux new -s c
+ git commit -m "Create function for intro messange and get_user_guess"
+ fd -type f
+ cd ~/dox/repos/tkbyex2008/
+ z dump
+ sudo pacman -Ss odin | grep "odin"
+ mv dj3_by_ex/ dj3byex_blog
+ echo $XDG_DATA_HOME
+ cd test_django_project/
+ mkdir dump
+ z insta reel
+ ping google.com
+ sudo pacman -Q alacritty
+ cd icons/
+ ls for_sae/
+ sudo pacman -Ss rxvt
+ alias mirrorl
+ tmux new -s Go
+ nvim pyproject.toml
+ z nvim .
+ nvim dl/sqlite3.c
+ find / -type d -iname "vim"
+ nvim coding_project_in_python/
+ cat pages
+ mkdir day02_Progress_steps
+ ls GuessingGame/
+ gcc -static hello.c -o x.out
+ cd dl
+ cp darkland.vim darkland.vim-backup
+ ls windscribe/
+ gcm "Add  color for `const` c"
+ pacman -Q > programs
+ rm no-clown-fiesta.nvim/
+ nvim hello.o
+ rm Orchis-Grey.tar.xz
+ poetry update django
+ git remote rm origin
+ ls -ld
+ cp ~/dl/dwm/dwm.c .
+ mkdir fonts
+ touch 3_3.c
+ echo hello world
+ ls -a
+ nvim woking.py
+ axel https dots -u
+ git commit -m "Basic app structures."
+ mkdir temp
+ help commandline
+ emacs --version
+ ls plotsim/
+ touch hello.bash
+ python draw_random_color.py
+ z dl
+ cd monaspace-v1.101/
+ z config zsh
+ z share fish
+ ruff --version
+ sudo pacman -Rscn obs-studio
+ mv Data\\ Science\\ from\\ Scratch_\\ First\\ Principles\\ with\\ Python-O Data\\ Science\\ from\\ Scratch_\\ First\\ Principles\\ with\\ Python-O.pdf
+ nvim --version
+ nvim 3_3.c
+ gcc 3_3.c;./a.out
+ cd django_class/
+ sudo pacman -Ss tty-clock
+ xinput disable "AlpsPS/2 ALPS GlidePoint" &\n
+ python sgo
+ rm gui.lua
+ rm style2.css
+ whereis clangd
+ nvim something.py
+ python for_else.py
+ z ultim
+ nvim main/index.html
+ cd share/themes/
+ sudo cp /mnt/usb/*.pdf ~/dox/books
+ touch index.html style.css scripts.js
+ mkdir venvs
+ z repo darkland
+ lld hello
+ vlc
+ exa
+ mv code_plot_sim_test.txt temp.py
+ sudo pacman -Qi | grep zed
+ f
+ nvim .stylua.toml
+ ls ..
+ fd default.list
+ mkdir helloworld
+ cd no-clown-fiesta.nvim/
+ python sgo.py publish
+ command fzf exec$FZF_DEFAULT_COMMAND
+ c3c compile hello.c3
+ ll django/
+ nvim l
+ kitty
+ jz platform\n
+ mv fish_prompt\\ \\(1\\).fish  fish_prompt.fish
+ tmux new -s cc4e
+ nvim dunstrc
+ cd IBM-Plex-Sans-KR/
+ rm dump/
+ nvim calculator/
+ nvim example.py
+ sudo pacman -S ghostty
+ nmcli device
+ mv Kimi.no.Na.wa.Per.Sub.HaSs.srt Your_name.srt
+ git commit -m "Create labeled data and calculate duration in event."
+ n
+ lt
+ nvim ~/.github/README.md
+ git commit -m "Init commit."
+ nvim hello.c3
+ ls -s
+ cat .bash_history | grep "nmcli "
+ git commit -m "Video 3 done."
+ rm drf
+ xz --version
+ sudo pacman -Rscn kazam
+ cd javascript/
+ nvim gtk-3.0/
+ cd qomi/
+ vi something.py
+ time emacs sqlbig.c
+ helix .
+ cp lua.backup/plugins/lsp.lua lua/plugins/
+ ls other
+ sx
+ nvim /usr/share/fish/vendor_functions.d/fzf_key_bindings.fish
+ cat ~/.config/fish/conf.d/binds.fish
+ mkdir includes
+ ka xwallpaper
+ sudo pacman -Ss llvm | grep installed
+ mkdir 100books
+ echo $VIRTUAL_ENV
+ z codes djj3
+ mv Study_b7279ac53610c2ff9c756c165f56026838e5045f79099566b826ae7c553c1c67@group.calendar.google.com.ics study.ics
+ bat .z
+ vim
+ cd flash_card/
+ git restore blog.html
+ rm recently-used.xbel
+ sudo  npm -g uninstall gopls
+ nvim completions/
+ nvim ~/.xinitrc
+ sudo pacman -Rscn helix
+ z qtilr
+ rm N*
+ z kana
+ rm Blueberry-Numix-2021_1.9.3.zip
+ tldr grep
+ rm LICENSE
+ rm saeed.ghollami@gmail.com.ical.zip
+ cp spritesheet_jumper.xml  ~/dox/codes/python/game_dev/pygame_platformer/
+ rm index.html
+ cd .local/bin/
+ nvim Newaita
+ ls /usr/bin
+ cd vim91/
+ xdpyinfo
+ play -vf subtitles=filename=My.Lady.Jane.S01E07.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.AvaMovie.srt  My.Lady.Jane.S01E07.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.AvaMovie.mkv
+ systemctl --help
+ cd ~/.local/share/nvim/lazy/
+ python queue_deque.py
+ localectl status
+ sudo pacman -Ss simple terminal
+ touch max_min.py
+ py
+ z repos
+ pacman -Ss lua-language-server
+ clang --version
+ rm some_dir/
+ cd dev/
+ tmux kill-session -t code4
+ tmux kill-session -t code2
+ starship preset pastel-powerline -o ~/.config/starship.toml\n
+ tmux kill-session -t Django
+ ping -c archlinux.org
+ nvim ch2_5.c
+ z mono
+ tldr cp
+ ls members/templates/
+ find . -type f -name \\*.py | wc -l
+ vim pages/
+ ./HiddifyCli
+ tar -xvf oblivion-desktop-linux-x64.tar.xz
+ rm game_dev/
+ nvim sword.py
+ time code sqlite3.c
+ dots restore fish_variables
+ sd
+ xsetroot -name "$(date)"
+ mv about.html pages
+ cp ~/dl/olympics-data.xlsx  .
+ ls std_python/
+ git clone git@github.com la -alth
+ rm app1/
+ which telegram-desktop
+ z down
+ sudo touch dns-server.conf
+ touch js_crash_cours
+ unzip saeed.ghollami@gmail.com.ical\\ \\(1\\).zip -d calendars
+ z vid
+ sudo pacman -Rscn alacritty ghostty
+ poetry show requests
+ fc-list | grep "Recurcvie"
+ z python-proj
+ rm *
+ sudo pacman -Ss pyright
+ rmf phonebook/
+ git add main.py
+ uv help
+ dotfiles add .bashrc
+ nvim trans.conf
+ ls includes/
+ play 2024-09-20\\ 18-51-17.mp4
+ sudo mount /dev/sda1 /mnt/usb/
+ gcc ex06.c && ./a.out;
+ git commit -m "update color"
+ nvim user-dirs.locale
+ nvim hourse.py
+ chown saeed config.h
+ rm -rf __pycache__/
+ tree /
+ sudo cp My.Lady.Jane.S01E0*.mkv /mnt/usb/May\\ Lady\\ Jane/
+ cd st
+ q fd zsh-autosuggestions
+ cd acme
+ ls gholami_shop/
+ cd calendars/
+ dots commit -m "Create some rempas and fix fish path"
+ play Your_name.mkv
+ python multiple_string.py
+ 1
+ cd NetworkManager/
+ sl
+ sudo cp -r /usr/share/fonts/TTF/
+ which fish
+ poetry new quiz_app
+ tree
+ lantern
+ cd tk/
+ ls /opt
+ c3c | grep link
+ gcc -static hello.c
+ dots push origin HEAD cd dj4be/
+ chrome test.html
+ ls 100books/
+ touch vec.ppy
+ mkdir snake_tech_with_tim
+ dots diff kitty.conf
+ -*-+
+ lua gui.lua
+ nvim hello.lua
+ uv add django
+ cd bal
+ mv pages/ main
+ gs
+ fd . ~ | grep .config
+ ps aux
+ ls /usr/bin | grep "telegram"
+ cd i
+ uv init gcal_vis
+ z usb
+ git status
+ fd --exclude __pycache__/
+ sudo cp ~/dox/book550/ /mnt/usb/
+ show
+ cat ~/.bash_history qtile cmd
+ tldr du
+ ls lib/
+ sudo pacman -Ss zathura
+ nvim zsh/starship.toml
+ nvim questions.json
+ echo "coooool"
+ set -x
+ gcm "Dim fg"
+ asdf
+ sadf
+ cd rust_tut/
+ paru chrome
+ sudo cp vids/Insta/webcam.mkv /mnt/usb/
+ nvim lsp.lua
+ nvim monitor
+ cd vim/
+ nvim gcal_vis/
+ rm dwm-attachaside-6.4.diff
+ cd /usr/share/zsh/plugins/
+ mv 19.\\ My.Lady.Jane.S01E08.God.Save.The.Queen.AMZN.WEBRip.fa.ar.srt  My.Lady.Jane.S01E08.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.AvaMovie.srt
+ cp other/darkland/ .
+ fd . --type d
+ command clear
+ man sxiv
+ picom -b --config /home/saeed/.config/picom/trans.conf
+ xrandr --output VGA-2
+ git add guessing_game.py
+ sudo mkdir books
+ cd top_100_books/
+ rm -rf  cop_in_py/
+ cp images/ ~/dl
+ sudo pacman -Ss xclip
+ exit
+ alacritty &
+ nvim mi
+ z opt
+ c
+ Kc
+ touch posts/post_002.md
+ curl --help
+ sudo pacman -Qi zathura
+ touch .gitignore
+ du -h hello
+ cd calculator/
+ cp python-projects/TodoList/ .
+ cd diss/
+ du /
+ ls rsp_decode/
+ unzip monaspace-v1.101.zip -d monospace
+ sudo pacman -S zathura-pdf-mupdf
+ mv Your_Name._\\(2016\\)_fa.srt Your_name.srt
+ cd Learning/
+ man dusnt
+ git commit -m "Create platform class"
+ nvim dns-server.conf
+ nvim picom.conf
+ mkdir web_dev_angel
+ cc hello.c -static -o hello
+ dotfiles add .local/share/icons/
+ mv ~/dl/example.rsp .
+ set -x | grep "TERM"
+ man ls
+ sudo cp -f vids/Insta/ /mnt/usb/
+ ls images/
+ git add
+ ls data/
+ prevd
+ tar -xvf Tela-manjaro.tar.xz
+ echo $FILEMANAGER
+ rm -rf .git/
+ sudo pacman -S awesome-font
+ nvim random_module.py
+ fc-list | grep "Recursive Mono linear"
+ git statu
+ sudo pacman -Ss helix
+ rm -rf dj4be/
+ cat .bash_history
+ cd TAKHASOSI/
+ dotfiles commit -m "Add rofi, picom, pcmanfm"
+ rm Bluebeerry-Numix/
+ cp ~/dwm-attachaside-6.4.diff .
+ cd c/dump/rsp/
+ ls target/
+ xrandr --output VGA-1-1
+ z 50
+ nvim for_else.py
+ cp -r colors ~/.config/nvim/
+ ls /usr/bin/
+ poetry add taggit
+ cd lualine/
+ play -vf subtitle=filename=My.Lady.Jane.S01E07.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.AvaMovie.srt  My.Lady.Jane.S01E07.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.AvaMovie.mkv
+ unzip saeed.ghollami@gmail.com.ical.zip -d calendar_data
+ sudo make & sudo make clean install
+ fc-list | rg  -i "Monospace Argon"
+ cd 2024/
+ poetry add pyside6==6.6
+ unzip to_saeed.zip -d Data
+ cd IBM-Plex-Sans-Hebrew
+ grep minimal-green.vim
+ cat fish_variables
+ nvim config.fish\n
+ nvim .z
+ export | grep TERM
+ tmux new -s UnixPorn
+ sudo pacman -Rscn rxvt-unicode
+ nvim ma
+ git commit -m "update 100 books goodreaders."
+ export | grep -i ENV
+ unzip ~/dl/saeed.ghollami@gmail.com.ical\\ \\(2\\).zip
+ mkdir shell
+ git commit -m "translator v4"
+ sudo pacman -Ss noto
+ touch test.json
+ cd /home/saeed/.local/share/app.hiddify.com/
+ python sgo.py
+ man commandline
+ sudo pacman -Rscn adobe-source-code-pro-fonts
+ fzf-open-cwd
+ poetry
+ ll markdown/
+ touch darkland.vim
+ nvim Material-Black-Pistachio/
+ xset r rate 200 50
+ nvim zprofile
+ cat /etc/pacman.conf
+ touch func.py
+ nvim aliases.fish
+ pw
+ nvim split_text.py
+ caf
+ cat .z | grep a-zA-Z
+ man free
+ rm *.mkv
+ nvim /etc/fish/config.fish
+ git commit -m "Platformer game."
+ sudo pacman -Qdtq | sudo pacman -Rns -
+ rm Yamicsoft.Windows.Manager.2.0.6.x64.rar\\?1728912014
+ sudo pacman -Ss vi | grep -E "^vi"
+ vlc the_empty_man_2020.mp4
+ touch form.py
+ ps aux | grep -i chrom
+ chown --help
+ exa --version
+ tmux a
+ z scr
+ cd share/icons/
+ lsblk
+ which black
+ rm -rf iwctl/
+ ping search.brave.com/
+ rm about.html
+ dots commit -m "update"
+ cd /usr/share/fish
+ mkdir -p lua/lualine
+ mmv spritesheet_jumper.png  spritesheet_jumper.xml  img
+ cp -r Tela-grey/ ~/.local/share/icons/
+ echo $POETRY_VIRTUALENVS_PROMPT
+ sudo cp -vr dox/book550/ /mnt/usb
+ cd records/
+ nvim mimeapps.list
+ echo $_cmd_duration 100
+ zsx
+ dots add ~/.config/fish
+ sudo pacman -S v4l-utils
+ fd *.html
+ math 12 + 12
+ gcm "Make basic quiz game"
+ mkdir coder_space
+ lls
+ black --version
+ fzf-cd-widget
+ unzip -d myladyjanem my-lady-jane-All-S01.zip
+ z local qtile
+ nvim aliases.zsh
+ rm eDark_Vlc_0_9_0.vlp
+ xset r rate 100 50
+ sudo rm -rf book330 genreal/ takhasosi/
+ which bash
+ nvim alabaster.nvim/
+ z algo_fa
+ fc-list | grep source code pro
+ sudo pacman -Q | grep code
+ poetry add pyside6
+ sudo cp ~/Ninja\\ Scroll\\ Movie.\\[SS\\]\\[720\\]\\[AioFilm.com\\].mkv .
+ rm -rf no-clown-fiesta.nvim/
+ fish_prompt
+ ps -aux -sort | grep chrome
+ cd /
+ k\n
+ rmf .git
+ nvim contacts.csv
+ mv ult_in_pg/ ~/dox/repos/
+ cd .config/zsh/
+ dotfiles add .config/qtile/
+ ls csv/
+ git push -u origin main HEAD
+ python tkui.py
+ git commit -m "Organize code with make some directories"
+ nvim test.c
+ rm hello.bash
+ cd codewars/
+ sudo pacman -S kitty
+ sduo cp ~/dox/book550/00_list.pdf /mnt/usb/
+ chrome index2.html
+ git commit -m "platformer vid 02"
+ z books
+ mv greatestbook_org.txt greatestbooks_org.txt
+ mv c/!qomi c/dump/
+ sudo pacman -Ss odin | grep "^odin"
+ cd static/
+ sudo pacman -Ss fzf
+ cp myladyjanem/S01\\ E07/12.\\ My.Lady.Jane.S01E07.Another.Girl,.Another.Planet.AMZN.WEBRip.fa.ar.srt .
+ rm Telegram\\ Desktop/
+ nvim ~/.config/nvim/init.lua
+ fd . --type d | grep khalili
+ cd .config/pypoetry/
+ z fzf
+ sudo pacman -S awesome
+ cd Flash\\ Card/
+ git merge upstream/master master
+ fish_config
+ mv *.c dump/
+ cp ../coder_space/game.py .
+ xdg-user-dirs-update
+ nvim template.py
+ nvim .zcompdump
+ nmcli device connect wifi
+ rm -rf khalili/
+ git commit -m "Hamburger menu for mobile screen."
+ du -h codes
+ cd hiddify-next/
+ nvim game.py
+ cd /usr/share/fzf/
+ mkdir fluent_python
+ sudo pacman -Qi c3c-gitr2148.d39f25ef-1
+ alias mirror
+ source .venv/bin/activate
+ python app.py
+ rm pages/about.html
+ z alac
+ fc-list | grep "roboto"
+ tmux new -s LearningDjango
+ poetry add python-telegram-bot
+ poetry add matplotlib scipy
+ ccd tkbyex/
+ git push -u origin master --force
+ yay -S tty-clock
+ cd dj3_by_ex/ls
+ ll 0a
+ cd /opt
+ git merge origin/main
+ pacman -Q | grep chrom
+ cd TrueType/
+ sudo pacman -Qi llvm
+ cd 31\\ -\\ Day\\ 31\\ Intermediate\\ Flash\\ Card\\ App\\ Capstone\\ Project/
+ sudo pacman -Qi kitty
+ fc-list | grep "IBM Plex Mono medium"
+ gcm "Puccuation and import"
+ vim dumpcode.py
+ rm intro.html
+ echo hello world some thing is wrong
+ git commit -m "remove xlsx"
+ cd cl
+ touch listbox.py
+ z alacritty
+ sudo pacman -Sy paru
+ pingar ;
+ c3c | grep static
+ poetry add requests
+ echo .obsidian/ >> .gitignore
+ nvim tokyonight.nvim/
+ rm *.diff
+ find . -type f -name *.py
+ mv img/me.jpg static/
+ git commit -m "Add spades_hihg function to use it to sort FrenchDeck class."
+ cp Heat.1995.720p.BluRay.x264.MkvCage.SoftSub.AvaMovie.mkv /mnt/usb/
+ nvim sample.py
+ ls kitty/
+ poetry add matplotlib
+ nvim PlotSimulation/
+ command exa
+ alias | grep mirror
+ cp dwm-copy dwm
+ echo $TERM
+ sudo reboot
+ qtile cmd-obj -o cmd -f restart
+ dots merge origin/main
+ cat ~/.config/fish/conf.d/aliases.fish | grep m
+ find . -type d -iname "k*"
+ rm lua/plugins/treesitter.lua
+ cd dl/
+ mv fonts/ static/
+ nvim posts/post_001.md
+ rm -f 00_list.pdf
+ git commit -m "pandas"
+ nvim .bash_profile
+ unrar v 1_12844233965.rar
+ nvim tools/
+ node --version
+ python force.py
+ cd blackhouse/
+ git commit -m "Add choice method."
+ z lua dump
+ touch post_004.md
+ nvim blackhouse.lua
+ nvim authorized_keys
+ z dj
+ mkdir  MonaspaceArgon
+ fc-list | grep "Recursive Mono"
+ python ma
+ echo $0
+ cat Cargo.toml
+ ka nodetop
+ cargo build
+ rmf daxl
+ touch pandas_tut_2024
+ cp lua/plugins/lsp.lua
+ git commit -m "Remove main tag rellay on margin rather than gap."
+ rmf no-clown-fiesta/
+ xset r rate 1000 40
+ djcsu
+ x
+ python manage.py runser
+ z python-projj
+ sudo pacman -Q | grep "edge\n"
+ cat .z | grep a-zAZ
+ fd . ~ --hidden | fzf
+ nvim config.fish
+ z ala
+ nvim .
+ nm zed
+ ll ~
+ zathura
+ lla
+ tmux del a
+ nmcli device wifi list
+ rm Te*
+ ldd a.out
+ pcmanfm
+ git add ../projects/daxl/
+ command ls -lsh --color
+ sudo npm uninstall emmet-language-server
+ cd mysite/
+ rm rapidsave.com_all_runixporn_gems_in_one_video_i_am_proud_of-5azoegwh1qc61.mp4
+ git remote add orign git@github.com cd c/
+ lld --version
+ django-admin startproject studybud .
+ gcm "Fix lua path"
+ rm notion-app-enhanced/
+ tmux kill-session -t DjangoBlog
+ ll | fzf
+ nvim pages/test.html
+ z repo django
+ cd baraltech/
+ fzf-open-widget
+ nvim guessing_game
+ z c
+ rm MonospaceNeon/
+ nvim ~/.config/qtile/config.py
+ ka kitten
+ fc-list | rg -i robot
+ mv sgo sgo.py
+ help --help
+ cd plugins/
+ dunstify hello
+ ls ~/.local/share/fonts/
+ mkdir js_crash_course
+ python kanye_machine.py
+ sudo pacman -Ss telegram-desktop
+ nmcli device wifi connect a12
+ gcm "CRUD operation for room"
+ mv post_detail.html post.html
+ echo $fish_bind_mode
+ cp ~/dl/saeed.ghollami@gmail.com.ical.zip .
+ cd ~/.local/
+ python manage.py sqlmigrate 001
+ nvim  .
+ xset r rate 100 40
+ sudo pacman -S zathura
+ echo "hello world!"
+ win1
+ ps -aux | grep kitty
+ git commit -m "Change color scheme"
+ vim delek.vim
+ rmf Flatery-Dark/
+ cd Material-Black-Lime/
+ patch -p1 < dwm-attachaside-6.3.diff
+ mkdir translator
+ cd ostadsgo/
+ vim darkland.vim
+ tmux del Django
+ fd fish_variable
+ touch blackhouse.lua\n
+ touch woking.py
+ tmux del 2
+ dots push origin main
+ tmux kill-session -t GameDev
+ deactivated
+ cp index.html  index2.html
+ touch 3.2.c
+ file
+ _cmd_duration 10
+ dots checkout HEAD
+ sudo pacman -Ss vi | grep  "^vi"
+ touch post_003.md
+ sudo pacman -Ss brave
+ mv daxl-1.png media/images/
+ cd no-clown-fiesta/
+ mkdir rust_tut
+ rm bin/zed
+ cd /usr/local/lib/
+ hto
+ rm pandas_tut_2024
+ zz fish
+ rm MonaspaceArgon/
+ ./sgo publish
+ nvim fzf.fish
+ ls /usr/share/applications/
+ git https eza --version
+ python count_bit.py
+ mv coding_project_in_python/ cop_in_py
+ nvim ex1_1.py
+ z pciom
+ ./hello.out
+ echo $BROWSER
+ ls lib
+ touch fn_exercise.py
+ python add.py
+ git commit -m "Django 3 by example ORM and views."
+ tree -d
+ git reset --hard 688b5416829e3ec4eaf01cf
+ z ostad
+ sudo pacman -Syu
+ mv my_practice/ pg_practice
+ screenfetch
+ mkdir rps
+ la
+ git push -u origin master
+ git diff guessing_game.py
+ nvim mycolors
+ cp -r Tela-manjaro/ ~/.local/share/icons/
+ sudo pacman -Qi electron27
+ touch change_coin.py
+ mv code_plot_sim_test.txt PlotSimulation/
+ tmux new -s Code
+ gcc 3_4.c;./a.out
+ django-admin startproject quiz_project
+ poetry new
+ rm My*
+ ls lua.backup/plugins/
+ python bot.py
+ ks
+ z icon
+ cd payroll_builder/
+ cd hinted/
+ gcm "Try to build snake kinda failed."
+ rm Monkey.Man.2024.720p.Web-Dl.x265.10-Bit\\(MoboMovies\\).mkv
+ sudo pacman -Qi electron34
+ cd ld
+ free --mega
+ nvim conf
+ du -sh vids/
+ dotfiles add .local/share/themes/
+ obsidian
+ nvim init.lua
+ ka picom & picom -b
+ z zsh
+ ping 0.0.0.0
+ cd uv
+ nvim some.html
+ cd
+ m ls
+ cat .bash_history | grep "sudo nmcli"
+ sudo cp Heat.1995.720p.BluRay.x264.MkvCage.SoftSub.AvaMovie.mkv /mnt/usb/
+ sudo make clean install
+ echo "diz"
+ nvim max_min.py
+ mv fish_prompt.fish ~/.config/fish/functions/
+ cat .git
+ gcm "More content to index.html"
+ nvim code_plot_sim_test.txt
+ sudo pacman -Qi c3c-git
+ mkdir rsp
+ ls lua/plugins/
+ git commit -m "Mobile version seems to be done."
+ mv *.ttf ~/.local/share/fonts/Mono/
+ git --version
+ mv SWE_ff2235c6941494f2aa07a4a428cbb6c171734bf805f0f1f8c26562bca2da479a@group.calendar.google.com.ics swe.ics
+ vim pyproject.toml
+ dotfiles commit -m "Icons, Themes and fonts"
+ mysite/
+ sudo pacman -S ttf-font-awesome
+ cat -v
+ fish_config color
+ cp My.Lady.Jane.S01E0*.mkv /mnt/usb/May\\ Lady\\ Jane/
+ rm post_*
+ z daxl
+ sudo umount -f /mnt/cdrom/
+ dots commit -m "Some update before reinstall of everything."
+ cp -rv * ~/dox/genreal/
+ nvim fishy.fish
+ sudo pacman -Q ruff
+ nvim .local/share/mimeapps.list
+ fd defaults.list /
+ lld hello_world
+ ls kitty
+ nvim config.def.h
+ mv woking.py working.py
+ git commit -m "Platformer video number 9"
+ z codes c rsp
+ g++ hello.cpp -o hello
+ touch pages
+ nvim volume launcher
+ ping -c 5 archlinux.org
+ du ol
+ ls /bin
+ touch hello.zig
+ xrandr --output VGA-2 --mode 1366x768
+ cat ~/.bash_history | grep "qtile cmd"
+ sudo pacman -Q | grep python
+ d
+ ./sgo some
+ mv var  dump
+ mkdir code
+ fc-list | grep "Recursive"
+ rm pyproject.toml
+ tmux del
+ man fzf
+ cd rust/
+ dotfiles add ~/.config/fish
+ nvim .config/picom/picom.conf
+ rm newproj/
+ du ostadsgo
+ z obs
+ rm -rf blog_project/
+ nvim tk_ui.py
+ mv .zshrc .zshrc-backup
+ rm notrans.conf
+ cd bin/
+ cd .dotnet/
+ cd leetcode/
+ man gcc
+ mkdir 01
+ z fonts
+ nvim bot.py
+ rm 1_12844233965.rar
+ ping -c 3 google.com
+ alias | grep v
+ du -sh dox/codes
+ dwm
+ sudo pacman Qi c3c-git r2148.d39f25ef-1
+ rm -rf django/
+ cd /usr/share/
+ exits
+ fd / --type d "vim"
+ python manage.py sqlmigrate members 001
+ xset r rate 200 35
+ ka picom
+ rmf top_100_books/
+ cp ~/pix/me/me_north_lake.jpg img/
+ cd TodoList/
+ cp /mnt/cdrom/BOOKS/ ~/dox/
+ ls media/
+ cp *.ogg ~/dox/codes/python/game_dev/pygame_platformer/snd/
+ cd corefx/
+ tmux split-window -h
+ man picom
+ cat hello.py
+ vi --version
+ rm -rf .vim
+ ls dj3_by_ex/
+ z
+ cd uv/
+ zig build-exe hello.zig
+ ll myenv/
+ z dwm
+ sudo chown saeed cd python-projects/
+ gti
+ echo $name
+ nvim hel.py
+ ldd hello_world
+ ln ./sgo sgo2
+ sudo nvim /etc/NetworkManager/conf.d/dns.conf
+ xset r rate 200 60
+ ls FiraCode/
+ ls obsidian/
+ sudo cp -v Heat.1995.720p.BluRay.x264.MkvCage.SoftSub.AvaMovie.mkv /mnt/usb/
+ vim calculator.py
+ cd cryptography/
+ sudo cp -v Prisoners.2013.720p.BluRay.x264.YTS.SoftSub.AvaMovie.mkv /mnt/usb
+ rm poetry.lock
+ cd lua/
+ nvim ~/.github/README
+ find . -type d -iname "kalili"
+ cat /etc/pacman.d/mirrorlist
+ pac zsh-autosuggestions zsh-completions zsh-syntax-highlighting
+ sudo pacman -S rxvt-unicode
+ tree Jumper
+ sudo pacman -Ss chrome
+ CLEAR
+ pygame_platformer/
+ lz
+ sudo rsync -ah --progress the_empty_man_2020.mp4 /mnt/usb/
+ nvim app.py
+ cd Codes/
+ gcm "Search update"
+ find / -type f -iname lua
+ lazygit
+ cd books/
+ hist
+ du -sh pix
+ dotfiles reset 2e49e7cb961c5056e2b80c3194e4f44fbdcba1c7
+ qomi/
+ z darkladn
+ du -sh .
+ sudo pacman -Qi electron
+ cp ~/dwm-attachaside-6.3.diff .
+ git switch main
+ kill -9 kitten
+ cat functions/fish_mode_prompt.fish
+ ls o
+ python manage.py startapp app1
+ cat;
+ printf "hello %s", "hello"
+ ll
+ ls in
+ ll posts
+ fd fzf
+ cd python/tk/
+ sudo pacman -Ss nerd
+ nvim NetworkManager.conf
+ python brain
+ sudo pacman -Ss tldr
+ ls bin/
+ nvim ~/.config/fish/config.fish
+ rm VSCode-linux-x64/
+ z pkm
+ z snake_game/
+ git merge origin/main --ff-only
+ pacman -Q | grep paru
+ nvim somefile.py
+ poetry add pillow
+ cd cals/
+ mv w3school/ ~/dox/repos/
+ ls /etc/NetworkManager/
+ cd nvim/
+ sudo pacman -Qdtq |sudo pacman -Rcns -
+ fd --hidden
+ cd django_
+ vim kitty.conf
+ sudo pacman -S rff
+ chown config.h saeed
+ cd .config/shell/
+ ps -ef | grep cd-rom
+ sudo chown saeed TTF/
+ git commit -m "Add function to create links base on nav.html"
+ rmf calculator/
+ cd ~/.config/fish
+ code .
+ cd gcal_vis/
+ sudo pacman -Ss awesome
+ python table.py
+ python hourse.py
+ nvim programs
+ vlc Jules.mkv
+ git remote -v
+ nmcli device connect FWifi
+ sudo pacman -Q | grep "microsoft"
+ ls codewars/
+ math 8146 / 3600
+ mkdir functions
+ cd vids/
+ git commit -m "Some updte"
+ cd .vim/colors/
+ export | grep "Term"
+ nvim hello/
+ go fzf
+ nvim ;
+ z dk
+ tmux ls | fzf
+ git restore --staged
+ gcm "Change bg and lueline color"
+ rustc -C target-feature=+crt-static hello.rs
+ xprmp
+ vim colors/
+ ls -a khalili/
+ 2
+ nvim fzf_key_bindings.fish
+ mv first_serious_app.md post_001.md
+ ls main/
+ rm hello
+ patch -p1 < dwm-attachaside-6.4.diff
+ rm lua/plugins/indentline.lua
+ rm tender.vim
+ ls dwm/
+ diff /home/saeed/ .
+ pip install django
+ z quiz
+ dots commit -m "minor changes."
+ cd electron30/
+ sudo make clean
+ ls img/
+ dotfiles add .config/picom/
+ picom -v
+ z code
+ z snake
+ mv designpattern/ ..
+ sou
+ git commit -m "Pygame rectangle."
+ sudo pacman -Ss odin | grep  "\\bodin\\b"
+ cd otf/
+ tmux-kill-session
+ whereis zsh-autosuggestions
+ nvim he
+ cd zig
+ nvim random.py
+ nvim /etc/resolv.conf
+ vim aoc1.py
+ z local
+ tmux kill-session -t code3
+ sudo pacman -Qi clangd
+ tree -A
+ z zig
+ nvim cal.csv
+ nmcli device wifi connect FWifi password 123K@rs!z
+ python manage.py makemigrations members
+ cd hello/
+ bat ~/.local/bin/scripts/autostart
+ cd tmux/
+ which oblivion-desktop
+ dotfiles add .config/qtile
+ cd cal
+ #this is comment
+ nvim working;
+ ll cals/
+ ls state/
+ z 50 day
+ touch hourse.py
+ rm Hiddify-Linux-x64.AppImage
+ cd /usr/share/fonts/
+ sudo cp -r vids/Insta/ /mnt/usb/
+ git commit -m "video number 11"
+ mv otf/ MonaspaceArgon* MonaspaceArgon/
+ cd think_python/
+ sudo pacman -Qi llvm-libs
+ nvim pages/about.html
+ mkdir baraltech
+ gcm "day 33 of 100 days of code."
+ git commit -m "Update notes."
+ exec /usr/bin/zsh
+ adf
+ sudo pacman -Ss dbus
+ ps -aux | grep chrome
+ ping https rmf python-projects/
+ cp ../../
+ rm .vimrc
+ sudo pacman -Ss c3
+ cd  codes/
+ vim example.py
+ ls /mnt/cdrom/
+ zathura tkbyex-2008.pdf
+ rm myenv/
+ nvim tina/
+ nvim radio.py
+ exa --help
+ ls | grep interactive
+ sudo npm i -g live-server
+ git commit -m "Add hello world message."
+ cd zed-editor/
+ zig --version
+ z duns
+ find / -type d -iname vim
+ cd S01\\ E07/
+ simplescreenrecorder
+ cd rsp_decode/
+ cp -r Material-Black-Lime/ ~/.local/share/themes/
+ mv gardian.txt guardian.txt
+ mkdir ~/dox/genreal
+ nvim hello.py
+ git switch dev
+ git commit -m "Remove lua line and use nvim defualt status line."
+ touch ex_01.py
+ nvim fn.lua
+ reboot now
+ xrandr
+ source ~/.config/fish/config.fish
+ sudo pacman -Ss llvm
+ cd quiz_django/
+ touch question.json
+ rm Material-Black-Blueberry-2.9.9-07.tar
+ cd ds/
+ xqq
+ git remote add upstream https cd green-recorder/
+ mv index.html pages
+ python aoc1.py
+ cp myladyjanem/S01\\ E08/19.\\ My.Lady.Jane.S01E08.God.Save.The.Queen.AMZN.WEBRip.fa.ar.srt .
+ sudo pacman -S telegram-desktop
+ sudo pacman -Ss odin | grep -wi "odin"
+ ls c
+ nvim calculator.py
+ xsetroot -name "$(date %F)"
+ touch script.bash
+ mkdir darkhouse
+ cd test_project/
+ tree colors/
+ sudo pacman -Q ruff-lsp
+ z config st
+ gcm "Change Include and delimeter color."
+ NetworkManager --help
+ fd
+ mv notrans_picom.conf notrans.conf
+ sudo pacman -Rcn kitty helix
+ cd dox/book550/
+ sudo pacman -Ss vi | grep -E "vi"
+ mkdir cpp
+ unzip kimi-no-na-wa-your-name_farsi_persian-1953923.zip -d kimi2
+ nvim fluent_python/
+ z repo no
+ play rps.mp4
+ cat pages/blog.html
+ nvim form.py
+ uptime -p
+ nvim ex_07.py
+ fd  --type f chrome /
+ jj rmf no-clown-fiesta.nvim/
+ rmf quiz_app/
+ ls pag;
+ mkdir base
+ tmux kill-session -t Helix
+ rm saeed.ghollami@gmail.com.ical\\ \\(1\\).zip
+ mv pg_practice/ ~/dox/repos/
+ cat ~/.config/fish/conf.d/aliases.fish | grep mirror
+ v4l2-ctl -d /dev/video0 --list-ctrls
+ du -s dl
+ dots log
+ sudo pacman -Syyuu
+ fc-list | rg "Recursive"
+ git commit -m "Already finish the book"
+ cp style.css style2.css
+ fd node_module
+ fc-list | grep "IBM Plex Sans"
+ sudo pacman -Q | grep python | wc -l
+ uptime
+ file hello2
+ ls exercise/
+ nvim requirements.txt
+ cd ibmplex/
+ python random_module.py
+ mv me_north_lake.jpg  me.jpg
+ nvim sprite.py
+ cd /usr/share/fonts
+ mv spritesheet_jumper.png  spritesheet_jumper.xml  img
+ sudo pacman -Ss ruff-lsp
+ fc-list | grep "IBM Plex Sans Reg"
+ cd themes/
+ fc-list | grep "IBM Plex Mono Medium"
+ fd math.py /
+ cd calendar_data/
+ chsh -s $(which bash)
+ python te
+ dunst &
+ chsh -s $(which fish)
+ cp 12.\\ My.Lady.Jane.S01E07.Another.Girl,.Another.Planet.AMZN.WEBRip.fa.ar.srt  ../...
+ cd dox/repos/
+ vim config.h
+ man vi
+ alias | grep play
+ cd simplescreenrecorder/
+ tmux new -s code3
+ sudo reboot now
+ mkdir game_dev
+ nvim /usr/lib/python3.12/lib-dynload/math.cpython-312-x86_64-linux-gnu.so
+ man du
+ fc-list | rg "MonospaceArgon"
+ cd golang/
+ rm yay
+ fc-list | grep IBM
+ rm main.py
+ chrome pages/test.html
+ vim sqlite3.c
+ rmf .lantern/
+ mv cdrom/ book330
+ rm .gitignore
+ tmux new -s CodeWars
+ dots commit -m "Remove treesitter back to alacritty."
+ cd zsh/
+ rmf zed.app/
+ vim zshr
+ nvim lang.txt
+ touch for_else.py
+ ls ~/dox/BOOKS/
+ mv *.txt data
+ sudo rm 'Ninja Scroll Movie.[SS][720][AioFilm.com].mkv'
+ ka brave
+ cp -r dwm ~/.config/
+ python brain_stretch.py
+ ls | grep kitty
+ ls | rg Flash
+ cd /usr/share/fonts/TTF/
+ go build hello.go
+ rm img
+ mv snake_game/ ~/dox/repos/
+ cp colors/ ~/.config/nvim
+ cat .z | fzf
+ sudo pacman -Ss odin | grep -i "odin"
+ cd fish
+ sudo nvim /etc/resolv.conf
+ go | fzf
+ nmcli device monitor
+ uv tree
+ nvim dict_work.py
+ cd dwm/
+ sudo nvim /etc/NetworkManager/conf.d/
+ command vi -v
+ touch main.js index.html
+ ping web.telegram.org
+ git pull origin master
+ jupyter lab
+ ls pypoetry/
+ rm Heat.1995.720p.BluRay.x264.MkvCage.SoftSub.AvaMovie.mkv
+ rm test_speed.py
+ fc-list | grep "Recursive style ka demenu_run
+ ./sgo
+ tmux kill-session -t code
+ sudo pacman -Qi ruff-lsp
+ source .venv/bin/activate.fish
+ unzip 'monaspace-v1.101 (1).zip' -d monospace
+ mv cop_in_py/ ~/dox/repos/
+ ka tmux
+ alias
+ sudo pacman -Ss odin | grep "programming"
+ nvim .config/kitty/kitty.conf
+ gcm "pygame template"
+ cd fish/
+ nvim conf.d/
+ dotfiles add .local/bin/scripts/
+ dots --version
+ mv lua/plugins/lualine.lua  .
+ z dumps
+ rm my-lady-jane-All-S01.zip
+ z chrom
+ python listbox.py
+ nvim tk/
+ mv google-chrome/ dl
+ echo -e "something is happing";
+ cd hiddify-next-bin/
+ rm functions/
+ cat pyproject.toml
+ help curl
+ cd inv_pygame/
+ sudo pacman -S python-black
+ mv images/ img
+ lg
+ gcc ex04.c && ./a.out;
+ tree | grep "*.pdf"
+ z web
+ lua-language-server --help
+ nvim  sort_sorted.py
+ nvim fish
+ gcm "Django Django ch02 comment."
+ ls TTF/
+ pacman -Ss fzf
+ rm code-stable-x64-1725457701.tar.gz
+ play Heat.1995.720p.BluRay.x264.MkvCage.SoftSub.AvaMovie.mkv
+ sudo umount  /mnt/cdrom/
+ rm -f termite/
+ cd usr/share/fish/completions/
+ cd conf.d/
+ tmux
+ sudo pacman -Q | grep adobe
+ set item (eval $FZF_DEFAULT_COMMAND | fzf)
+ . /home/saeed/.cache/pypoetry/virtualenvs/dump-8_65WbcJ-py3.11/bin/activate
+ ka kitty
+ z python dump
+ kill-tmux-session
+ du -h .
+ fd / zsh-autosuggestions
+ cd /mnt/usb
+ tmux  -s new Flash Card
+ /usr/share/fish/vendor_functions.d/
+ rm google-chrome/
+ command ls -alh
+ Boost16.wav | nvim
+ a.exe
+ lll
+ man tldr
+ tmux -s new Helix
+ ls .local/bin/
+ xset r rate 200 20
+ python -i ex1_1.py
+ cat ~/.local/bin/scripts/autostart
+ nvim shot
+ cp -r ~/Documents/Repos/dotfiles-temp/gtk-3.0/ .
+ git commit -m "Extract sub calendars and calculate their duration."
+ nextd
+ ./target/debug/rust_tut
+ mkdir zig
+ cd python/
+ mv hello hello.exe
+ tmux new -s DarkHouse
+ whereis fish
+ tldr dconf
+ rm Newaita-reborn-dracula.tar.gz
+ ping developers.google.com
+ cd co
+ git commit -m "Seperate cli ui in it's own file."
+ rm Uncategorised/tmux.md
+ sudo pacman -Qi cario
+ set -x | grep TERM
+ z kit
+ cp python-projects/calculator/ .
+ nvim Flash\\ Card/main.py
+ fd vazir /
+ gcc --version
+ cp python-projects/phonebook/ .
+ touch settings.py
+ cd RecMonoCode
+ nvim snake2.py
+ vlc plot_sim_testcode.zip
+ cd ...
+ ls /
+ z top_100
+ fc-list | rg
+ cd 03\\ E-Book\\ 550/
+ mkdir tkshop
+ unzip Fira_Code_v6.2.zip
+ z repo snake
+ cd cpp
+ play sfx_sounds_powerup16.wav
+ fd --type d / "vim"
+ gcm "django\n"
+ ls dl
+ ls django-shop/
+ mv invent_u_own_games/ ..
+ nvim shell/
+ nvim FV.sh
+ cd coding_project_in_python/
+ nvim add2.lua
+ x => hello world!;
+ dots commit -m "Kitty disable spliting and tabing key shortcut."
+ tmux at
+ tmux kill-session -t PyGame
+ fc-list | grep noto-sans
+ nvim olampics-data.parquet
+ sudo mount /dev/sr0 /mnt/cdrom/
+ pwd
+ python change_coin.py
+ git puh
+ tar -xvf Newaita-reborn-dracula.tar.gz
+ python readfile.py
+ ls obj
+ rmf flash_card/
+ touch main.py
+ git branch
+ ls ~/.local/bin/scripts/
+ axel 'http sudo pacman -Ss st
+ z python
+ cd w3school/
+ echo VIRTUAL_ENV_PROMPT
+ ka dunst & dunst -b
+ yay -Sy google-chrome
+ python ex1_1.py
+ rm -rf .git
+ sudo pacman -Ss oblivion
+ cd local/
+ chsh -s /bin/zsh
+ xrandr --output VGA--1-1
+ rm dj4be/
+ z colors
+ mv 3.2.c 3_2.c
+ xset r rate 100 30
+ nvim Material-Black-Blueberry
+ cd IBM-Plex-Sans-JP/
+ mirror
+ rm khalili_1/
+ cd monospace/
+ du -sh .venv/
+ rm -rf gtk-3.0/
+ nvim goodreaders.txt
+ fc-list | grep "Roboto"
+ z pytho
+ cd google-chrome/
+ mv blog.html pages
+ dots push -u origin main
+ nmcli ;
+ z recor
+ nvim vi-mode.zsh
+ set item (command fzf $FZF_DEFAULT_COMMAND)
+ gcc 3_1.c;./a.out
+ git commit -m "studybud first 1.5 hrs"
+ sudo pacman -R wlroots
+ sqlitebrowser  db.sqlite3
+ z fish
+ rm rsp_decode/example.rsp
+ dots status -u
+ cp picom.conf trans_picom.conf
+ cd ~/.local/share/nvim/lazy/alabaster.nvim/
+ cp khalili/ ~/dox/repos/
+ sudo pacman -Qi
+ sudo pacman -Ss vi | grep  "vi"
+ yay -Ss zed
+ emmet-language-server --version
+ sudo npm i -g @olrtg/emmet-language-server
+ fd coding
+ fc-list | grep "noto sans"
+ rm lsp.lua
+ makepkg -si
+ tmux new -s string-fromat
+ fd .  --type f | wc -l
+ sudo rsync Your_name.srt /mnt/usb/
+ sudo pacman -Q | wc -l
+ ll khalili/
+ touch flash.lua
+ rm Chrome\\ Passwords.csv
+ unzip ~/dl/saeed.ghollami@gmail.com.ical\\ \\(2\\).zip -d calendars/
+ time
+ ka launcher
+ cd ~/.local/bin/scripts/
+ cd tkbyex2008/
+ play rapidsave.com_all_runixporn_gems_in_one_video_i_am_proud_of-5azoegwh1qc61.mp4
+ rm Newaita-reborn-nord.tar.gz
+ python manage.py startapp base
+ du ol*pa*
+ export | grep -i VIRTUAL_ENV
+ rm markdown/
+ cd dox/codes/python/django/
+ cd translator/
+ z picoim
+ touch mycolors
+ ./hello_world
+ xset r rate 200 45
+ ll s*
+ git commit -m "Create template for post_list and post_detail."
+ nvim work
+ cd pages/
+ unzip Blueberry-Numix-2021_1.9.3.zip -d Bluebeerry-Numix
+ ldd --help
+ xinput disable "AlpsPS/2 ALPS GlidePoint"
+ saf
+ djmkm
+ cp python-projects/Flash\\ Card/ .
+ gcm "False some settings."
+ fd | fzf
+ sudo unmount /dev/sdc1
+ ls opt/
+ git commit -m "Rust hello world."
+ touch split_text.py
+ touch example.py
+ du /mnt/usb
+ touch about.html
+ mv script.bash script.bash
+ sudo pacman -S stylua
+ nvim alacritty.toml
+ cd ttf/
+ git commit -m "Create random number using randrange"
+ cp ~/dl/Boost16.wav snd/
+ mv students/ ~/dox/repos/
+ cd ~/.config
+ touch gardian.txt
+ cd include/
+ lsbl
+ $CMD_DURATION
+ git commit -m "Try to make some dynamic features."
+ unzip -d hack Hack-v3.003-ttf.zip
+ nmcli connection  delete  FWifi
+ sudo make clearn
+ tmus ls
+ z vnim
+ z std
+ sudo pacman -Rscn microsoft-edge-stable-bin
+ cd templates/
+ cd usr/
+ set x 10
+ nvim fish/
+ git commit -m "remove hello.py"
+ xinput enable "AlpsPS/2 ALPS GlidePoint"
+ pip list | grep requests
+ cd golang/rps/
+ peotry shell
+ rm os
+ vim ~/dl/sqlite3.c
+ cp -v /mnt/cdrom/ ~/dox
+ man df
+ poweroff
+ cp lua lua.backup
+ fc-list | grep "Recursive Mono Linear"
+ cd c
+ ./zed
+ nvim dox/codes/python/dump/form.py
+ mv 1_12844233965.rar khalili_1/
+ nmcli device show lo
+ cd cbar/
+ cd share/fonts/
+ cd ds
+ cd /etc/
+ uv add pip install csv-ical
+ ls ~/dox/repos/
+ cc main.c && ./a.ou
+ type djrun
+ nvim Newaita/
+ rmf complete-pandas-tutorial/
+ unzip -d Jumper JumperPack_Kenney.zip
+ xrandr --output LVDS-1 --mode 1366x768
+ rm 100books/
+ man xrandr
+ cd General/
+ nvim practice
+ z icons
+ cd 100books/
+ nmcli device connect
+ top
+ pwd trans.conf
+ sudo pacman -S ruff
+ py --version
+ cd obsidian/
+ python manage.py runserver
+ vim tender.vim
+ nvim .github/README.md
+ man lua-language-server
+ git merge origin/master
+ cd algo_fa/
+ jiboty
+ cc main.c && ./a.out\n
+ rm sqlite3.c
+ sudo pacman -Q
+ sudo umount /mnt/usb
+ du -h /
+ poetry add django_taggit
+ open .
+ rm Your_name.srt
+ sudo pacman -Q | grep xorg
+ rmf other
+ z nvim
+ nvim qtile/
+ pacman -S archlinux-keyring
+ qtile cmd-obj -o cmd -f reload_config
+ cd .config/
+ ll static/
+ cd dumps/
+ vim main.py
+ fc-list | gerp "source code pro"
+ nvim main.c
+ tmux new -s SnakeGame
+ nvim Flatery-Dark/index.theme
+ uptime -h
+ nvim fix_zsh_history
+ mu rsp_decode/
+ git restore fish_variables
+ poetry list
+ sudo pacman -Rscn vim
+ mkdir csv
+ nvim fn2.lua
+ rm zed
+ nvi picom.conf
+ cd graphics/Player/
+ ls x
+ nvim Qogir-manjaro/
+ nvim dwm.c
+ python ui.py
+ cd tk
+ cp main/index.html index.html
+ rm test.json
+ rm hydro.fish
+ cd Downloads/
+ dots diff
+ nvim Tela-circle-black-light/index.theme
+ mkdir pages
+ eixt
+ cd **
+ z w3
+ cd django/
+ git commit -m "Add group for Falsh.nvim"
+ gcc 3_2.c;./a.out
+ yay -Rscn notion-app-enhanced
+ dunstify hello world
+ nvim sqlbig.c
+ touch gitignore
+ pip list | grep "mathplotlib"
+ touch books.txt
+ z djj
+ mv mina/ 2024/
+ nvim functions/fish_prompt.fish
+ touch guessing_game
+ nvim dump/
+ mkdir PlotSimulation
+ sudo rm Your_name.mkv
+ vim desert.vim
+ python manage.py createsuperuser
+ ls *pdf
+ mkdir some_dir
+ helix some.py
+ free -k
+ nvim ex_01.py
+ nvim other/
+ mv 12.\\ My.Lady.Jane.S01E07.Another.Girl,.Another.Planet.AMZN.WEBRip.fa.ar.srt My.Lady.Jane.S01E07.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.AvaMovie.str
+ poetry new .
+ wget 'https dotfiles status
+ cd Introduction\\ to\\ Computer\\ Science\\ and\\ Programming/
+ sc;
+ dotfiles add .config/rofi/
+ cat /etc/passwd
+ sxsdfgh
+ cd .config/fish/
+ cd ~/.local/share/qtile
+ python dict_work.py
+ z python dumps
+ pip list | grep "poetry"
+ mv Work_174e99553ce3baeab8bede04474b868c4c5578161a236a189c62deaa386eeffe@group.calendar.google.com.ics work.ics
+ tmux new -S Algo
+ vim default.vim
+ uv run main.py
+ z .config
+ nvim .bash_history
+ file a.out
+ du hello.py
+ clear hello
+ nvim make.py
+ du rsp_decode/
+ sudo npm uninstall -g @olrtg/emmet-language-server@2.5.0
+ sudo pacman -Ss zoxide
+ cd 100_days_of_code/
+ autostart
+ rm snake_game/
+ cd termite/
+ cp -r Material-Black-Pistachio ~/.local/share/themes
+ nmcli device disconnect wifi
+ nvim /etc/fish/conf.d/
+ ldd hello2.out
+ nmcli device set FWifi
+ djrun
+ cp List_.pdf ~/dox/book550/00_list.pdf
+ python manage.py makemigrations base
+ cd Flatery-Dark/
+ python  hourse.py
+ deactivate
+ nvim guessing_game_2.py
+ gcc hello.c && ./a.out;
+ vi -V
+ fd --type directory "vim"
+ nvim r
+ poetry add scipy
+ go run main.go
+ small
+ cp ~/dox/repos/other/no-clown-fiesta.nvim/ .
+ cat /;
+ rmf responsive_sidebar_menu/
+ record rps.mp4
+ mv sgo.py  sgo
+ vlc Your.Name.2016.720p.BluRay.Film2Movie_CO.mkv
+ z .local
+ sudo make
+ touch kitty.conf
+ ka node
+ cd pandas_tut_2024/
+ dots add lua
+ git commit -m "Max Min"
+ du -sh dl
+ cd myladyjanem/
+ play Jump40.wav
+ scre;
+ gcc -static hello.c x.out
+ git commit -m "Add dark and light theme switcher."
+ sudo pacman Q
+ sudo pacman -Ss zig
+ ls lua/no-clown-fiesta/
+ python max_min.py
+ pacman -Q | wc -l
+ python form.py
+ poetry add pyside6==6.7.1
+ z config fish
+ fd .  --type f
+ export | grep venv
+ ls -lSh
+ nvim starship.fish
+ power
+ mkdir responsive_sidebar_menu
+ sudo /etc/NetworkManager/conf.d/dns.conf
+ . /usr/bin/zsh
+ sudo pacman -S tldr
+ sudo nvim zprofile
+ nvim pages/
+ echo $SHELL
+ rm FiraCode-Regular.ttf
+ touch gui.py
+ fd qtile /
+ sudo umount /dev/sdb1
+ fd fish_variable --hidden /
+ dots push origin main --force
+ z repo ostad
+ helix sqlbig.c
+ ls my_practice/
+ nvim config.h
+ z no
+ dots commit -m "Add fish config fully."
+ sudo mount /dev/sdc1 /mnt/usb
+ pin;
+ ping 8.8.8.8 -c 5
+ cp vids/Insta/tk.mkv /mnt/usb/
+ cd TTF/
+ mkdir pygame_platformer
+ nvim dwm-attachbottom-6.3.diff
+ z dl/PlotSimulation/
+ tmux new -s InstaReel
+ rm sgo2
+ python move_square.py
+ ls .config/
+ cp /mnt/usb/1_12844233965.rar  dl/
+ python has_perm.py
+ sudo pacman -Qi electron30
+ dunstify
+ rm oblivion-desktop-linux-x64.tar.xz
+ gcc ex03.c && ./a.out;
+ xset r rate 900 30
+ echo $CMD_DURATION
+ nvim /usr/share/doc/qtile/default_config.py
+ z gcal_vis
+ python manage.py  runserver
+ dots commit -m "Update config."
+ rmf std_python/
+ cd 0
+ dl
+ sudo chown -R saeed TTF/
+ z golang
+ # this is comment
+ mv Saeed_saeed.ghollami@gmail.com.ics cal.ics
+ ls modules/
+ time echo hello
+ ka python
+ ka lua
+ python hello_world.py
+ cd lua/plugins/
+ ls scripts/
+ gcc main.c && ./a.out
+ cd fonts/
+ cd bash
+ z  dl
+ info --version
+ set name "john"
+ vi practice
+ cat data/french_words.csv  | wc -l
+ git commit -m "Create blog list articles with links to each post."
+ cd main/
+ pacman -Q | less
+ nvim hello.zig
+ python 01.py
+ l s-a
+ cd django_blog/
+ "AlpsPS/2 ALPS GlidePoint"p[]\nSa
+ unzip kimi-no-na-wa-your-name_farsi_persian-3235702.zip -d kimi
+ dunstify -u low "Screen shot taken" "$pic_path"\n
+ yay -Qi
+ nvim dwm.c.rej
+ ldd hello
+ sudo reflector --fastest 30 --latest 30 --number 10 --verbose --save /etc/pacman.d/mirrorlist --download-timeout 15
+ cd English/
+ sudo pacman -Qq
+ rm 'Ninja Scroll Movie.[SS][720][AioFilm.com].mkv'
+ sudo umount /dev/sda1
+ mv lua.backup/ lua
+ git fetch upstream
+ dots add fish
+ cp index.html index2.html
+ mkdir tkbyex
+ mkdir quiz
+ chsh -s $(which zsh)
+ rm Jumper
+ dotfiles log
+ sudo pacman -Ss paru
+ ll venvs/
+ echo "hello\n"
+ mkdir day33
+ cd /mnt/usb/
+ fc-list | rg MonspaceArgon
+ ls Jumper
+ nvim invoice/
+ mv Birthdays_saeed.ghollami@gmail.com.ics
+ python manage.py startapp quiz
+ mv calendars/ cals
+ git commit -m "Get top 100 books and sort them by their rate."
+ sudo pacman -Qi clang
+ ps -aux | grep hiddify
+ find . -type f -name \\*.py
+ sudo pacman -Ss alacritty
+ cp python-projects/payroll_builder/ .
+ cp ~/dl/saeed.ghollami@gmail.com.ical\\ \\(1\\).zip  .
+ vim recently-used.xbel
+ rm pygame_learn/
+ ls E-Book\\ 300/books/
+ rm Q*
+ cd pygame_platformer
+ sudo pacman -Rscn lantern-bin
+ lua methods.lua
+ dots push
+ git commit -m "update"
+ unzip plot_sim_testcode.zip  -d plotsim
+ cd snake_tech_with_tim/
+ sudo mount /dev/sdc
+ rm templates/post_list.html
+ echo $LS_COLORS
+ nvim hello.z
+ mv main/base.html base/
+ touch 3_1.c
+ sudo pacman -S python-uv
+ git commit -m "About me section just add text and basic html layout."
+ gcm "Web learn about h1 - h6 tags."
+ ./HiddifyCli run
+ git commit -m "Add some functions."
+ echo "__pycache__/"
+ picom --config ~/.config/picom/trans.conf
+ ll s
+ z reel
+ sudo pacman -Sy simplescreenrecorder
+ sudo rm /etc/NetworkManager/conf.d/dns.conf
+ z django_proj
+ git branch dev
+ ./Hiddify-Linux-x64.AppImage
+ nvim game_dev/
+ gss
+ git restore --staged --all
+ sed -n l
+ cd pg_practice/
+ nvim .xinitrc
+ nvim count_bit.py
+ fc-list | rg iosevka
+ tmux new -s Insta
+ nvim picom/
+ nvim .config/alacritty/
+ ping 8.8.8.8
+ sudo cp -v dox/book330/ /mnt/usb
+ dotfiles add .local/share/fonts
+ sudo nvim /usr/share/fish/completions/fzf.fish
+ pacman -V
+ nvim .j
+ free
+ sudo pacman -S ttf-awesome-fonts
+ tty-clock
+ djmig
+ sudo pacman -S rofi
+ tmux new -s C
+ cp -r Newaita/ ~/.local/share/icons/
+ rm Qogir-manjaro/
+ rm hello.py
+ eit
+ ls dox
+ python manage.py makemigrations blog
+ mkdir khalili_1
+ z qtuke
+ git commit -m "translator v2"
+ mv script.js  js
+ gpu
+ cd hack/
+ time python test_speed.py
+ poetry add beautifulsoup4
+ z osta
+ echo
+ cd cpp/
+ z cpp
+ z config shell
+ touch quiz.py
+ ka dwm
+ nvim index.html
+ helix ~/dl/sqlite3.c
+ man grep
+ mv studybud/ ~/dox/repos/
+ man dconf
+ du -h x.out
+ clear
+ nmcli device  show FWifi
+ ps -aux | grep nvim
+ dotfile status
+ cp dl/sqlite3.c sqlbig.c
+ ls top_100_books/
+ tmux z
+ info
+ sudo make install
+ rmf brain_stretch/
+ sudo rm dns.conf
+ ka clangd
+ z codes django
+ touch .zshrc
+ rm quiz/
+ cd ../../projects/
+ cd js-calculator/
+ mv gitignore .gitignore
+ z dowm
+ nvim ~/.config/qtile/
+ df dunst /
+ sudo cp /usr/share/
+ sudo ln -sf /usr/bin/telegram-desktop  /usr/bin/telegram
+ cd c3c-git/
+ fd default.list /
+ python temp.py
+ cd day33/
+ fd dusnt
+ cp ~/dox/codes/python/django/dj3_by_ex/ .
+ cd python
+ cd Jumper/
+ fc-list | grep "IBM Plex"
+ cargo --version
+ sudo pacman -Rscn ruff-lsp
+ sudo pacman -Ss wlroots
+ gcm "Fix search hi\n"
+ tmux new -s js_crash_course
+ randwall
+ alias mirorl
+ ls mysite/
+ lua hello.lua
+ sudo pacman -Rscn c3c
+ z django study
+ yay -Ss oblivio
+ cd 50days_projects/
+ touch time.txt
+ ll pages
+ rm some.html
+ mv base
+ ls calendars/
+ getwal
+ gcm "Change color flash nvim\n"
+ nmcli device connect Wifi
+ nvim top_100_books/
+ fd fish_variable ~
+ K
+ cd newproj/
+ vim style.css
+ nvim test.html
+ cd Fira/
+ cd pkm
+ cd Newaita
+ mv VHB-11_DAQ_GrilleLoad_HIL_5-50Hz_rsp_to_csv_out.csv test.csv
+ git commit -m "Remove media folder; upload images using secondary website."
+ sudo pacman -Rns $(pacman -Qtdq)
+ nvim /etc/pacman.d/mirrorlist
+ alias | grep vim
+ sdfsdf
+ touch style.css
+ sudo pacman -Qi zed
+ man exa
+ sudo /usr/share/fish/completions/fzf.fish
+ ls csv
+ z codes dj3
+ cat ~/.bash_history | grep qtile
+ rm blackhouse/
+ cd rps
+ cd Data/
+ cd dox/codes/
+ tree static/
+ mv Biz_e85c344106c725cba673683ce43151d69b405a2d0067c250422317b7bd563d99@group.calendar.google.com.ics biz.ics
+ karsi
+ cp phonebook-tkinter/ ~/dox/codes/python/tk/
+ cd brain_stretch/
+ sudo modprobe v4l2loopback exclusive_caps=1
+ touch queue_deque.py
+ mv style.css css
+ starship preset nerd-font-symbols -o ~/.config/starship.toml\n
+ fd . ~ --hidden
+ ls -ax
+ function _cmd_duration\n  if [ "$CMD_DURATION" -gt 3000 ]\n    set -l minutes (math $total_seconds / 60)\n    set -l seconds (math $total_seconds % 60)\n    if [$minutes -lt 1 ]\n      return "$seconds s"\n    end\n    return "$minutes.$secnods m"\n  end\n\nend\n
+ nvim .config/qtile/
+ nvim 3_2.c
+ ls -lT
+ if test -d $item\necho "hello"\nelse\necho "some"\nend
+ sudo  npm -g uninstall prettier
+ set item 10
+ dots fetch
+ cd nvim
+ rm hello.o hello.out
+ go build -o hello2.out -ldflags '-linkmode external -extldflags "-static-libgcc -static-libstdc++"' hello.go
+ mv colors/ darkland/
+ rm B
+ mv clac.lua add2.lua
+ z $TERMINAL
+ poetry shell
+ cd Newaita-reborn-nord
+ cat /etc/passwd | grep -rn karsiz
+ touch oop.py
+ man xz
+ touch hello.lua
+ cd my_tennis_club/
+ z pygam
+ cd ult_in_pg/
+ pacs zsh-autosuggestions
+ tmux new -s PythoClass
+ cd for_sae/
+ mv hello  hello.out
+ vim sqlbig.c
+ wc data/french_words.csv
+ rm trans.conf
+ ...
+ ls MonaspaceArgon/
+ cd pygame_platformer/
+ cp -rv ~/dox/genreal/ .
+ nvim .zshrc
+ git rebase upstream/master
+ ping -c 5 web.telegram.org
+ nvim hello_world.py
+ sudo pacman -S alacritty
+ cp lua.backup/plugins/treesitter.lua lua/plugins/
+ tmux new -s GameDev
+ sudo pacman -S vim
+ djshl
+ sgo
+ ./sgo update
+ rmf *
+ alias miror
+ sudo pacman -Ss fvm
+ killall picom
+ curl http /usr/bin/zsh
+ nvim hello.c
+ tmux kill-session -t Code
+ paru -Qi
+ ls blog_project/
+ cd quiz_project/
+ touch blackhouse.lua
+ z c qomi
+ file x.out
+ nvim Boost16.wav
+ ./main
+ z conf
+ cc main.c
+ cd gholami_shop/
+ pingarch
+ mv django_class/ ~/dox/codes/python/django/
+ zsh
+ cd web/
+ cd zsh
+ gcc revstr.c && ./a.out ;
+ z qomi
+ python manage.py makemirations
+ mv Saeed_saeed.ghollami@gmail.com.ics saeed.ics
+ time helix sqlbig.c
+ sudo cp ~/dox/book550/00_list.pdf /mnt/usb/
+ git commit -m "Make tkinter checkbutton group"
+ cd reel/
+ touch sort_sorted.py
+ git commit -m "Add reading scroll bar and restructure code."
+ nvim lua/
+ nvim ~/dox/codes/python/dump/area.py
+ sudo cp -rv ~/dox/English/ .
+ z vim
+ gcc ex02.c && ./a.out
+ sudo pacman -Ss electron
+ sudo umount /dev/sdc1
+ sudo pacman -S zoxide
+ rm current-config.json
+ axel http cp kimi/Your_Name._\\(2016\\)_fa.srt .
+ nvim sprites.py
+ touch clac.lua
+ dots commit -m "Change fish prompt to Sashimi."
+ z piciom
+ mkdir c
+ nmcli device disconnect FWifi
+ cd dj
+ mirrorl
+ systemctl | grep network
+ du --help
+ export FZF-COMPLETION-TRIGGER="**"
+ sudo mount /dev/sdc /mnt/usb/
+ vim user-dirs.dirs
+ z codes python
+ mv index.html base/
+ fd  --type f --hidden mimeapps /
+ z django
+ pacs zsh
+ cd PlotSimulation/
+ python ex_04.py
+ which zsh-autosuggestions
+ gcm "Add group highlight for vim visual multi and flash.nvim"
+ cd dump/rsp/
+ cargo run
+ sudo rm About.Dry.Grasses.2023.720p.BluRay.x264.AAC.YTS.SoftSub.AvaMovie.mkv
+ echo pix/bing/
+ git push -u origin main
+ tmux -s remove Helix
+ mkdir hello
+ z tk
+ cd hello_world/
+ emacs hello.py
+ rm -rf plugins/
+ sudo pacman -Rscn paru
+ cd /etc
+ nvim vismulti.lua
+ vim alacritty.toml
+ sudo nmcli device wifi
+ tar -xvf Tela-grey.tar.xz
+ z python ;
+ ls sys/
+ sudo mkdir /mnt/cdrom
+ dots checkout  57a6ffc6741391312e1306d0c1819e5959c81aba
+ xset --help
+ yay -S brave-bin
+ nvim post_001.md
+ fc-list
+ mv h dump/
+ nvim pages/post_002.html
+ cd ~/.cache/uv/venvs/
+ cd includes/
+ cd ~/.config/dwm/
+ rm programs
+ poetry show matplotlib
+ nvim includes/
+ cat exports.zsh
+ nvim 3_4.c
+ ['a'=='b'];echo 'hello'
+ rsync --version
+ cd python/insta/reel/
+ nvim input.txt
+ sudo nvim dns.conf
+ ./x.out
+ nvim gui.py
+ git commit -m "Flash card app using tkinter"
+ sudo pacman -Q | grep visual
+ ls python/django/khalili/
+ sudo pacman -Ss uv
+ cd img/
+ python manage.py startapp blog
+ sudo pacman -Qdt
+ git branch -l
+ sudo pacman -Ss vi | grep -E "^core/vi "
+ mkdir themes
+ sysctl -a
+ touch sashimi.fish
+ git commit -m "Done the project."
+ kill -9 | ps -aux | grep hiddify | fzf
+ dotfiles add .config/pcmanfm/
+ nvim unit_converter/
+ touch hel.py
+ vim ~/.config/qtile/
+ z alacitty
+ python guessing_game.py
+ ls games/
+ cd UltimatePygameIntro/
+ ls Trash/files/
+ rm pages/
+ cd base
+ getw;
+ ls /mnt/usb/
+ vim .vimrc
+ rm olympics-data.xlsx
+ cd khalili_1/
+ ka chrome
+ cc test.c && ./a.out
+ paru -Ss locate
+ sudo cp ~/dox/book330/ .
+ echo $XDG_TEMPLATES_DIR
+ cd book550/
+ cp python-projects/daxl/ .
+ ls conf.d/
+ nvim ~/.config/fish/
+ cd crls/
+ vlc 2752165-0-720.mp4\\?ref=kfA
+ xset r rate 200 40
+ git commit -m "First commit."
+ mv darkland.lua themes/
+ rm pages/\\{filename\\}
+ py hello.py
+ nvim shop_project/
+ nvim pypoetry/
+ sudo pacman -S zig
+ z /
+ sad
+ git commit -m "Update"
+ find . -type d -iname "kh"
+ nvim exports.zsh
+ rm 2752165-0-720.mp4\\?ref=kfA
+ sudo pacman -Ss awesome-font
+ man pacman
+ mv test.csv PlotSimulation/
+ mv ttf/ FiraCode
+ chsh -s /usr/bin/fish
+ du -sh codes
+ mv Flash\\ Card/ flash_card
+ pcmanfm .
+ nvim manage.py
+ python -i vec.py
+ nvim flash.lua
+ mv index.html main.js  code/
+ mv obsidian/ pkm
+ sudo pacman -Ss vi | grep -E "core/vi "
+ nvim are
+ cp vids/Insta/ /mnt/usb/
+ venv
+ touch count_bit.py
+ screen
+ man kitty
+ $ls ~/pics
+ ls -al
+ poetry new top_100_books
+ nvim darkland.lua
+ lld zed
+ git commit -m "c rsp cli game."
+ git reset --soft b687d160752f
+ ./script.bash
+ dots commit -m "Add my own theme named darkland."
+ ls students/
+ cd ../../..
+ command ls -alth
+ record
+ git restore about.html
+ z codes c
+ du -h hello.o
