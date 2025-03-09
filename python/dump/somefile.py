@@ -18,3 +18,5 @@ class Person:
 peter = Person("Peter Parker", 89)
 peter.set_age(90)
 
+joe = Person("Joe Doe", 42)
+joe.set_agee(43)
